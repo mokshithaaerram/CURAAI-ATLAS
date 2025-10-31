@@ -1,0 +1,1142 @@
+[
+  {
+    "question": "What is multiple sclerosis?",
+    "answer": "Multiple sclerosis is an autoimmune disorder where the immune system attacks the myelin sheath of nerves, causing vision problems, muscle weakness, and coordination issues."
+  },
+  {
+    "question": "What is Parkinson\u2019s disease?",
+    "answer": "Parkinson\u2019s disease is a neurodegenerative disorder characterized by tremors, stiffness, slow movement, and balance problems due to dopamine deficiency."
+  },
+  {
+    "question": "What is epilepsy?",
+    "answer": "Epilepsy is a neurological disorder marked by recurrent seizures caused by abnormal electrical activity in the brain."
+  },
+  {
+    "question": "What is a migraine?",
+    "answer": "A migraine is a type of headache often accompanied by nausea, vomiting, and sensitivity to light and sound."
+  },
+  {
+    "question": "What is stroke?",
+    "answer": "A stroke occurs when blood flow to a part of the brain is blocked or reduced, leading to brain tissue damage."
+  },
+  {
+    "question": "What is a transient ischemic attack (TIA)?",
+    "answer": "TIA, also called a mini-stroke, is a temporary blockage of blood flow to the brain that usually resolves within 24 hours."
+  },
+  {
+    "question": "What is a cluster headache?",
+    "answer": "A cluster headache is an extremely painful headache that occurs in cyclical patterns or clusters, often around one eye."
+  },
+  {
+    "question": "What is a Bell\u2019s palsy?",
+    "answer": "Bell\u2019s palsy is sudden weakness or paralysis of the facial muscles, usually on one side, caused by inflammation of the facial nerve."
+  },
+  {
+    "question": "What is a neurodegenerative disorder?",
+    "answer": "A neurodegenerative disorder is a condition where neurons progressively lose function and die, such as in Alzheimer\u2019s or Parkinson\u2019s disease."
+  },
+  {
+    "question": "What is Alzheimer\u2019s disease?",
+    "answer": "Alzheimer\u2019s disease is a progressive brain disorder that causes memory loss, confusion, and cognitive decline."
+  },
+  {
+    "question": "What is neuropathy?",
+    "answer": "Neuropathy is damage to peripheral nerves, leading to weakness, numbness, or pain, usually in hands and feet."
+  },
+  {
+    "question": "What is myasthenia gravis?",
+    "answer": "Myasthenia gravis is an autoimmune disorder causing weakness of voluntary muscles due to antibodies blocking nerve signals."
+  },
+  {
+    "question": "What is amyotrophic lateral sclerosis (ALS)?",
+    "answer": "ALS is a progressive neurodegenerative disease affecting motor neurons, leading to muscle weakness and atrophy."
+  },
+  {
+    "question": "What is a cerebral aneurysm?",
+    "answer": "A cerebral aneurysm is a weak spot in a brain artery that bulges and can potentially rupture, causing a hemorrhagic stroke."
+  },
+  {
+    "question": "What is hydrocephalus?",
+    "answer": "Hydrocephalus is an accumulation of cerebrospinal fluid within the brain ventricles, leading to increased intracranial pressure."
+  },
+  {
+    "question": "What is a concussion?",
+    "answer": "A concussion is a mild traumatic brain injury caused by a blow to the head, resulting in temporary cognitive and physical symptoms."
+  },
+  {
+    "question": "What is Guillain-Barre syndrome?",
+    "answer": "Guillain-Barre syndrome is an autoimmune condition where the immune system attacks peripheral nerves, causing weakness and paralysis."
+  },
+  {
+    "question": "What is a spinal cord injury?",
+    "answer": "A spinal cord injury is damage to the spinal cord that results in loss of function, sensation, or mobility below the injury site."
+  },
+  {
+    "question": "What is a brain tumor?",
+    "answer": "A brain tumor is an abnormal growth of cells in the brain that can be benign or malignant, affecting brain function."
+  },
+  {
+    "question": "What is epilepsy management?",
+    "answer": "Epilepsy management includes anti-seizure medications, lifestyle modifications, surgery, and sometimes neurostimulation therapies."
+  },
+  {
+    "question": "What is a neuroinfection?",
+    "answer": "A neuroinfection is an infection affecting the brain, spinal cord, or peripheral nerves, such as meningitis or encephalitis."
+  },
+  {
+    "question": "What is peripheral neuropathy?",
+    "answer": "Peripheral neuropathy is damage to the peripheral nerves causing numbness, tingling, or pain, often in the hands or feet."
+  },
+  {
+    "question": "What is a brain hemorrhage?",
+    "answer": "A brain hemorrhage is bleeding inside the brain tissue due to trauma, high blood pressure, or aneurysms."
+  },
+  {
+    "question": "What is an ischemic stroke?",
+    "answer": "An ischemic stroke occurs when a blood clot blocks a cerebral artery, depriving brain tissue of oxygen and nutrients."
+  },
+  {
+    "question": "What is a hemorrhagic stroke?",
+    "answer": "A hemorrhagic stroke occurs when a blood vessel in the brain ruptures, leading to bleeding and brain damage."
+  },
+  {
+    "question": "What is a tonic-clonic seizure?",
+    "answer": "A tonic-clonic seizure involves muscle stiffening (tonic phase) followed by rhythmic jerking (clonic phase) of the body."
+  },
+  {
+    "question": "What is a partial seizure?",
+    "answer": "A partial seizure originates in one part of the brain and may affect movement, sensation, or awareness."
+  },
+  {
+    "question": "What is a generalized seizure?",
+    "answer": "A generalized seizure involves the entire brain from the onset, affecting consciousness and often causing convulsions."
+  },
+  {
+    "question": "What is a neuroimaging test?",
+    "answer": "Neuroimaging tests, like MRI or CT scans, visualize the brain and spinal cord to diagnose neurological conditions."
+  },
+  {
+    "question": "What is a cerebrospinal fluid (CSF) test?",
+    "answer": "A CSF test analyzes the fluid around the brain and spinal cord to detect infections, bleeding, or other abnormalities."
+  },
+  {
+    "question": "What is a migraine aura?",
+    "answer": "A migraine aura is a visual, sensory, or speech disturbance that occurs before or during a migraine headache."
+  },
+  {
+    "question": "What is vertigo?",
+    "answer": "Vertigo is a sensation of spinning or dizziness, often caused by inner ear or neurological disorders."
+  },
+  {
+    "question": "What is a neurodegenerative disorder treatment?",
+    "answer": "Treatment may include medications, physical therapy, lifestyle management, and sometimes surgical interventions to slow progression."
+  },
+  {
+    "question": "What is a cerebrovascular accident prevention?",
+    "answer": "Prevention includes managing blood pressure, diabetes, cholesterol, avoiding smoking, and a healthy lifestyle."
+  },
+  {
+    "question": "What is neuropathic pain?",
+    "answer": "Neuropathic pain is caused by nerve damage and may feel burning, tingling, or shooting."
+  },
+  {
+    "question": "What is Bell\u2019s phenomenon?",
+    "answer": "Bell\u2019s phenomenon is the upward movement of the eye when the eyelid closes, often observed in facial nerve palsy."
+  },
+  {
+    "question": "What is a cranial nerve examination?",
+    "answer": "A cranial nerve examination tests the function of the 12 cranial nerves to detect neurological deficits."
+  },
+  {
+    "question": "What is trigeminal neuralgia?",
+    "answer": "Trigeminal neuralgia is a chronic pain condition affecting the trigeminal nerve, causing severe facial pain."
+  },
+  {
+    "question": "What is dystonia?",
+    "answer": "Dystonia is a movement disorder causing involuntary muscle contractions, leading to abnormal postures or repetitive movements."
+  },
+  {
+    "question": "What is ataxia?",
+    "answer": "Ataxia is the loss of control of voluntary movements, resulting in unsteady gait and poor coordination."
+  },
+  {
+    "question": "What is chorea?",
+    "answer": "Chorea is characterized by involuntary, irregular, and unpredictable movements, often associated with Huntington\u2019s disease."
+  },
+  {
+    "question": "What is a lumbar puncture?",
+    "answer": "A lumbar puncture is a procedure to collect cerebrospinal fluid for diagnostic purposes."
+  },
+  {
+    "question": "What is a neurodegenerative biomarker?",
+    "answer": "Neurodegenerative biomarkers are measurable indicators of disease progression or presence in disorders like Alzheimer\u2019s or Parkinson\u2019s."
+  },
+  {
+    "question": "What is a hemiplegia?",
+    "answer": "Hemiplegia is paralysis of one side of the body, often caused by stroke or brain injury."
+  },
+  {
+    "question": "What is a neuropsychological assessment?",
+    "answer": "It evaluates cognitive functions such as memory, attention, and problem-solving to detect brain dysfunction."
+  },
+  {
+    "question": "What is spinal muscular atrophy?",
+    "answer": "Spinal muscular atrophy is a genetic disorder causing loss of motor neurons, leading to muscle wasting and weakness."
+  },
+  {
+    "question": "What is a motor neuron disease?",
+    "answer": "Motor neuron disease is a group of progressive neurological disorders affecting motor neurons, leading to muscle weakness and atrophy."
+  },
+  {
+    "question": "What is a radiculopathy treatment?",
+    "answer": "Treatment includes physical therapy, medications, and sometimes surgery to relieve nerve compression."
+  },
+  {
+    "question": "What is a neuroinflammatory disorder?",
+    "answer": "Neuroinflammatory disorders involve inflammation of nervous tissue, such as multiple sclerosis or autoimmune encephalitis."
+  },
+  {
+    "question": "What is cerebral palsy?",
+    "answer": "Cerebral palsy is a group of disorders affecting movement, posture, and muscle tone due to brain injury during development."
+  },
+  {
+    "question": "What is a spinal cord compression?",
+    "answer": "Spinal cord compression occurs when pressure on the spinal cord causes pain, weakness, or sensory loss."
+  },
+  {
+    "question": "What is a cognitive disorder?",
+    "answer": "Cognitive disorders affect memory, attention, problem-solving, and decision-making abilities."
+  },
+  {
+    "question": "What is a neurocutaneous syndrome?",
+    "answer": "Neurocutaneous syndromes are genetic disorders affecting the nervous system and skin, like tuberous sclerosis."
+  },
+  {
+    "question": "What is neurorehabilitation?",
+    "answer": "Neurorehabilitation is therapy aimed at restoring function and independence in patients with neurological impairments."
+  },
+  {
+    "question": "What is neuroplasticity?",
+    "answer": "Neuroplasticity is the brain\u2019s ability to reorganize and form new neural connections after injury or learning."
+  },
+  {
+    "question": "What is status epilepticus?",
+    "answer": "Status epilepticus is a prolonged seizure lasting more than 5 minutes or repeated seizures without recovery, requiring urgent treatment."
+  },
+  {
+    "question": "What is a post-stroke complication?",
+    "answer": "Post-stroke complications include paralysis, speech difficulties, cognitive deficits, and risk of recurrent strokes."
+  },
+  {
+    "question": "What is neuroimmunology?",
+    "answer": "Neuroimmunology is the study of interactions between the nervous system and the immune system."
+  },
+  {
+    "question": "What is a brain abscess?",
+    "answer": "A brain abscess is a collection of pus in the brain due to infection, causing headaches, fever, and neurological deficits."
+  },
+  {
+    "question": "What is cranial nerve VI palsy?",
+    "answer": "Cranial nerve VI palsy causes inability to move the eye laterally, leading to double vision."
+  },
+  {
+    "question": "What is a lacunar stroke?",
+    "answer": "A lacunar stroke is a small infarct in the deep brain structures due to blockage of small arteries."
+  },
+  {
+    "question": "What is a neurovascular unit?",
+    "answer": "The neurovascular unit consists of neurons, glial cells, and blood vessels that maintain brain homeostasis."
+  },
+  {
+    "question": "What is neuroprotection?",
+    "answer": "Neuroprotection involves strategies or treatments to prevent neuronal injury or degeneration."
+  },
+  {
+    "question": "What is a subdural hematoma?",
+    "answer": "A subdural hematoma is bleeding between the dura and the brain, often from head trauma."
+  },
+  {
+    "question": "What is a cranial nerve IV palsy?",
+    "answer": "Cranial nerve IV palsy affects the superior oblique muscle, causing vertical diplopia and head tilt."
+  },
+  {
+    "question": "What is a seizure aura?",
+    "answer": "A seizure aura is a perceptual or sensory warning experienced before a seizure occurs."
+  },
+  {
+    "question": "What is ischemic stroke?",
+    "answer": "An ischemic stroke occurs when a blood clot blocks an artery supplying blood to the brain, causing tissue damage."
+  },
+  {
+    "question": "What is hemorrhagic stroke?",
+    "answer": "A hemorrhagic stroke occurs when a blood vessel in the brain ruptures, causing bleeding in the brain tissue."
+  },
+  {
+    "question": "What are common risk factors for stroke?",
+    "answer": "Hypertension, diabetes, high cholesterol, smoking, obesity, and sedentary lifestyle increase stroke risk."
+  },
+  {
+    "question": "What is post-stroke depression?",
+    "answer": "Depression that occurs after a stroke due to brain injury and psychological impact, affecting recovery."
+  },
+  {
+    "question": "What are early warning signs of stroke?",
+    "answer": "Sudden numbness or weakness, confusion, trouble speaking, vision problems, dizziness, or severe headache."
+  },
+  {
+    "question": "What is transient ischemic attack (TIA)?",
+    "answer": "A TIA is a temporary blockage of blood flow to the brain, causing stroke-like symptoms that resolve within 24 hours."
+  },
+  {
+    "question": "How is stroke diagnosed?",
+    "answer": "Diagnosis uses clinical evaluation, CT or MRI imaging, and sometimes blood tests and angiography."
+  },
+  {
+    "question": "What is the treatment for ischemic stroke?",
+    "answer": "Treatment includes clot-dissolving drugs, thrombectomy, and supportive care to restore blood flow."
+  },
+  {
+    "question": "What is the treatment for hemorrhagic stroke?",
+    "answer": "Treatment includes controlling bleeding, lowering intracranial pressure, and surgical interventions if needed."
+  },
+  {
+    "question": "What is major depressive disorder?",
+    "answer": "A mental health disorder characterized by persistent sadness, loss of interest, and functional impairment."
+  },
+  {
+    "question": "What are the neurological causes of depression?",
+    "answer": "Changes in neurotransmitters, brain structure, inflammation, and post-stroke or chronic illness can cause depression."
+  },
+  {
+    "question": "What is substance-induced depression?",
+    "answer": "Depression caused by excessive alcohol, drugs, or medication use affecting brain chemistry."
+  },
+  {
+    "question": "What is alcohol use disorder?",
+    "answer": "A chronic condition where an individual loses control over alcohol intake, leading to health and social issues."
+  },
+  {
+    "question": "What is opioid use disorder?",
+    "answer": "A condition where an individual is dependent on opioids, leading to physical and psychological complications."
+  },
+  {
+    "question": "What are neurological effects of chronic alcohol abuse?",
+    "answer": "Chronic alcohol use can cause neuropathy, brain atrophy, memory loss, and cognitive impairment."
+  },
+  {
+    "question": "What is Wernicke-Korsakoff syndrome?",
+    "answer": "A neurological disorder from thiamine deficiency, often due to alcoholism, causing memory loss and confusion."
+  },
+  {
+    "question": "How does depression affect stroke recovery?",
+    "answer": "Depression can reduce motivation, impair rehabilitation, and worsen functional outcomes after stroke."
+  },
+  {
+    "question": "What are the treatments for depression in stroke patients?",
+    "answer": "Treatment includes antidepressants, psychotherapy, and lifestyle interventions."
+  },
+  {
+    "question": "What is post-traumatic stress disorder (PTSD)?",
+    "answer": "A mental health condition triggered by traumatic events, causing flashbacks, anxiety, and hyperarousal."
+  },
+  {
+    "question": "What is the role of dopamine in neurological disorders?",
+    "answer": "Dopamine regulates movement, reward, and mood; its dysregulation contributes to Parkinson's, depression, and addiction."
+  },
+  {
+    "question": "What is a cerebrovascular accident?",
+    "answer": "Another term for stroke, caused by either a blockage or bleeding in the brain's blood vessels."
+  },
+  {
+    "question": "What are the symptoms of depression in neurological patients?",
+    "answer": "Low mood, loss of interest, fatigue, sleep disturbances, and cognitive difficulties."
+  },
+  {
+    "question": "What is neuropathy due to alcohol?",
+    "answer": "Damage to peripheral nerves caused by chronic alcohol consumption, leading to numbness and pain."
+  },
+  {
+    "question": "What is substance withdrawal syndrome?",
+    "answer": "Physical and psychological symptoms that occur after reducing or stopping substance use."
+  },
+  {
+    "question": "What is a mini-stroke?",
+    "answer": "A transient ischemic attack causing brief neurological symptoms without permanent damage."
+  },
+  {
+    "question": "What is cognitive impairment in substance abuse?",
+    "answer": "Difficulty with memory, attention, and decision-making due to chronic drug or alcohol use."
+  },
+  {
+    "question": "What is depression in Parkinson's disease?",
+    "answer": "A common non-motor symptom of Parkinson's, caused by neurotransmitter changes in the brain."
+  },
+  {
+    "question": "What is rehabilitation after stroke?",
+    "answer": "Therapies including physiotherapy, occupational therapy, speech therapy, and cognitive rehabilitation."
+  },
+  {
+    "question": "What is substance-induced neurological disorder?",
+    "answer": "Neurological damage caused by chronic use of alcohol, drugs, or toxins."
+  },
+  {
+    "question": "What is the effect of drugs on the central nervous system?",
+    "answer": "Drugs can alter neurotransmitter levels, leading to euphoria, depression, anxiety, or cognitive dysfunction."
+  },
+  {
+    "question": "What is addiction?",
+    "answer": "A chronic brain disorder characterized by compulsive drug seeking and use despite harmful consequences."
+  },
+  {
+    "question": "What is depression in epilepsy?",
+    "answer": "Mood disorder commonly associated with epilepsy due to neurological changes and social impact."
+  },
+  {
+    "question": "What is neurotoxicity?",
+    "answer": "Damage to the nervous system caused by toxic substances, drugs, or chemicals."
+  },
+  {
+    "question": "What is the role of serotonin in depression?",
+    "answer": "Serotonin is a neurotransmitter regulating mood; its deficiency is linked to depression."
+  },
+  {
+    "question": "What is cognitive rehabilitation for stroke?",
+    "answer": "Therapies aimed at improving memory, attention, problem-solving, and executive functions."
+  },
+  {
+    "question": "What is fetal alcohol spectrum disorder?",
+    "answer": "A range of neurological and developmental problems in children caused by maternal alcohol use during pregnancy."
+  },
+  {
+    "question": "What is methamphetamine neurotoxicity?",
+    "answer": "Damage to neurons due to chronic methamphetamine use, affecting dopamine pathways and cognition."
+  },
+  {
+    "question": "What is post-stroke anxiety?",
+    "answer": "Anxiety disorder occurring after a stroke, affecting rehabilitation and quality of life."
+  },
+  {
+    "question": "What is alcohol withdrawal delirium?",
+    "answer": "A severe form of alcohol withdrawal causing confusion, agitation, and hallucinations."
+  },
+  {
+    "question": "What is a hemorrhagic conversion after ischemic stroke?",
+    "answer": "Bleeding into the brain tissue following an ischemic stroke, potentially worsening outcomes."
+  },
+  {
+    "question": "What is cannabis-induced cognitive impairment?",
+    "answer": "Memory, attention, and learning difficulties caused by chronic cannabis use."
+  },
+  {
+    "question": "What is the connection between depression and stroke?",
+    "answer": "Depression increases stroke risk and can worsen recovery after stroke."
+  },
+  {
+    "question": "What is a chronic neurological disorder?",
+    "answer": "A disorder affecting the nervous system for a long duration, such as epilepsy, Parkinson's, or multiple sclerosis."
+  },
+  {
+    "question": "What is opioid-induced neurotoxicity?",
+    "answer": "Damage to the nervous system from prolonged opioid use, causing cognitive and motor dysfunction."
+  },
+  {
+    "question": "What is alcohol-induced sleep disorder?",
+    "answer": "Disruption in sleep patterns due to chronic alcohol consumption, affecting brain function."
+  },
+  {
+    "question": "What is neurological rehabilitation for substance abuse?",
+    "answer": "Therapies aimed at restoring cognitive, motor, and behavioral functions affected by substance abuse."
+  },
+  {
+    "question": "What is drug-induced tremor?",
+    "answer": "Involuntary shaking caused by certain medications or drugs affecting the nervous system."
+  },
+  {
+    "question": "What is vascular dementia?",
+    "answer": "Cognitive decline caused by reduced blood flow to the brain, often after strokes or TIA."
+  },
+  {
+    "question": "What is neuropsychiatric disorder?",
+    "answer": "Disorders at the intersection of neurology and psychiatry, such as depression after stroke or dementia."
+  },
+  {
+    "question": "What is alcohol-induced neuropathy?",
+    "answer": "Peripheral nerve damage caused by chronic alcohol consumption, leading to numbness and pain."
+  },
+  {
+    "question": "What is substance abuse rehabilitation?",
+    "answer": "Treatment programs including therapy, counseling, and medical care to stop substance dependence."
+  },
+  {
+    "question": "What is post-stroke fatigue?",
+    "answer": "Extreme tiredness following a stroke due to neurological damage and reduced energy metabolism."
+  },
+  {
+    "question": "What is stimulant-induced anxiety?",
+    "answer": "Anxiety caused by excessive intake of stimulant drugs such as amphetamines or caffeine."
+  },
+  {
+    "question": "What is neuromodulation therapy?",
+    "answer": "Therapy using electrical or magnetic stimulation to modify nerve activity in depression, stroke, or chronic pain."
+  },
+  {
+    "question": "What is the effect of alcohol on neurotransmitters?",
+    "answer": "Alcohol affects GABA, glutamate, and dopamine, altering mood, cognition, and motor control."
+  },
+  {
+    "question": "What is post-stroke cognitive impairment?",
+    "answer": "Difficulty with memory, attention, and problem-solving after a stroke."
+  },
+  {
+    "question": "What is drug-induced seizures?",
+    "answer": "Seizures triggered by medications or recreational drugs affecting the brain's electrical activity."
+  },
+  {
+    "question": "What is depression screening in neurology patients?",
+    "answer": "Assessing neurological patients for signs of depression using questionnaires and clinical evaluation."
+  },
+  {
+    "question": "What is opioid overdose?",
+    "answer": "A life-threatening condition caused by excessive opioid intake, leading to respiratory depression and CNS suppression."
+  },
+  {
+    "question": "What is neurological assessment for substance abuse?",
+    "answer": "Evaluating cognitive, motor, and psychiatric function in individuals with substance use disorders."
+  },
+  {
+    "question": "What is alcohol-induced Wernicke encephalopathy?",
+    "answer": "A brain disorder caused by thiamine deficiency in chronic alcohol users, leading to confusion and eye movement issues."
+  },
+  {
+    "question": "What is post-stroke insomnia?",
+    "answer": "Difficulty sleeping following a stroke due to brain injury or psychological factors."
+  },
+  {
+    "question": "What is substance-induced psychosis?",
+    "answer": "Psychotic symptoms such as hallucinations or delusions caused by drug or alcohol use."
+  },
+  {
+    "question": "What is neurological screening for depression?",
+    "answer": "Assessing patients for cognitive and mood disturbances using neuropsychological tests."
+  },
+  {
+    "question": "What is cocaine-induced neurological disorder?",
+    "answer": "Neurological impairment including seizures, strokes, and cognitive deficits caused by cocaine use."
+  },
+  {
+    "question": "What is post-stroke mood disorder?",
+    "answer": "Emotional disturbances such as depression, anxiety, or irritability after a stroke."
+  },
+  {
+    "question": "What is the impact of substance abuse on brain plasticity?",
+    "answer": "Substance abuse can reduce neuroplasticity, impairing learning and recovery from injury."
+  },
+  {
+    "question": "What is neurocognitive disorder due to alcohol?",
+    "answer": "Cognitive decline caused by prolonged alcohol consumption affecting memory and executive functions."
+  },
+  {
+    "question": "What is the role of serotonin and norepinephrine in depression?",
+    "answer": "Deficiencies in these neurotransmitters are linked to low mood, anxiety, and other depressive symptoms."
+  },
+  {
+    "question": "What is neurological evaluation for stroke risk?",
+    "answer": "Assessing neurological, cardiovascular, and lifestyle factors to estimate stroke probability."
+  },
+  {
+    "question": "What is alcohol-induced brain atrophy?",
+    "answer": "Shrinkage of brain tissue caused by chronic alcohol consumption, affecting cognition and coordination."
+  },
+  {
+    "question": "What is substance-induced cognitive decline?",
+    "answer": "Reduction in memory, attention, and problem-solving due to drug or alcohol use."
+  },
+  {
+    "question": "What is post-stroke emotional lability?",
+    "answer": "Sudden mood changes, irritability, or crying/laughing uncontrollably after a stroke."
+  },
+  {
+    "question": "What is drug-induced peripheral neuropathy?",
+    "answer": "Damage to peripheral nerves caused by certain medications or drugs, resulting in pain or numbness."
+  },
+  {
+    "question": "What is the neurological impact of nicotine?",
+    "answer": "Nicotine affects neurotransmission, increasing alertness but also risking addiction and cognitive impairment."
+  },
+  {
+    "question": "What is multiple sclerosis?",
+    "answer": "Multiple sclerosis is an autoimmune disorder where the immune system attacks the myelin sheath of nerves, causing vision problems, muscle weakness, and coordination issues."
+  },
+  {
+    "question": "What is Parkinson\u2019s disease?",
+    "answer": "Parkinson\u2019s disease is a neurodegenerative disorder characterized by tremors, stiffness, slow movement, and balance problems due to dopamine deficiency."
+  },
+  {
+    "question": "What is epilepsy?",
+    "answer": "Epilepsy is a neurological disorder marked by recurrent seizures caused by abnormal electrical activity in the brain."
+  },
+  {
+    "question": "What is a migraine?",
+    "answer": "A migraine is a type of headache often accompanied by nausea, vomiting, and sensitivity to light and sound."
+  },
+  {
+    "question": "What is stroke?",
+    "answer": "A stroke occurs when blood flow to a part of the brain is blocked or reduced, leading to brain tissue damage."
+  },
+  {
+    "question": "What is a transient ischemic attack (TIA)?",
+    "answer": "TIA, also called a mini-stroke, is a temporary blockage of blood flow to the brain that usually resolves within 24 hours."
+  },
+  {
+    "question": "What is a cluster headache?",
+    "answer": "A cluster headache is an extremely painful headache that occurs in cyclical patterns or clusters, often around one eye."
+  },
+  {
+    "question": "What is a Bell\u2019s palsy?",
+    "answer": "Bell\u2019s palsy is sudden weakness or paralysis of the facial muscles, usually on one side, caused by inflammation of the facial nerve."
+  },
+  {
+    "question": "What is a neurodegenerative disorder?",
+    "answer": "A neurodegenerative disorder is a condition where neurons progressively lose function and die, such as in Alzheimer\u2019s or Parkinson\u2019s disease."
+  },
+  {
+    "question": "What is Alzheimer\u2019s disease?",
+    "answer": "Alzheimer\u2019s disease is a progressive brain disorder that causes memory loss, confusion, and cognitive decline."
+  },
+  {
+    "question": "What is neuropathy?",
+    "answer": "Neuropathy is damage to peripheral nerves, leading to weakness, numbness, or pain, usually in hands and feet."
+  },
+  {
+    "question": "What is myasthenia gravis?",
+    "answer": "Myasthenia gravis is an autoimmune disorder causing weakness of voluntary muscles due to antibodies blocking nerve signals."
+  },
+  {
+    "question": "What is amyotrophic lateral sclerosis (ALS)?",
+    "answer": "ALS is a progressive neurodegenerative disease affecting motor neurons, leading to muscle weakness and atrophy."
+  },
+  {
+    "question": "What is a cerebral aneurysm?",
+    "answer": "A cerebral aneurysm is a weak spot in a brain artery that bulges and can potentially rupture, causing a hemorrhagic stroke."
+  },
+  {
+    "question": "What is hydrocephalus?",
+    "answer": "Hydrocephalus is an accumulation of cerebrospinal fluid within the brain ventricles, leading to increased intracranial pressure."
+  },
+  {
+    "question": "What is a concussion?",
+    "answer": "A concussion is a mild traumatic brain injury caused by a blow to the head, resulting in temporary cognitive and physical symptoms."
+  },
+  {
+    "question": "What is Guillain-Barre syndrome?",
+    "answer": "Guillain-Barre syndrome is an autoimmune condition where the immune system attacks peripheral nerves, causing weakness and paralysis."
+  },
+  {
+    "question": "What is a spinal cord injury?",
+    "answer": "A spinal cord injury is damage to the spinal cord that results in loss of function, sensation, or mobility below the injury site."
+  },
+  {
+    "question": "What is a brain tumor?",
+    "answer": "A brain tumor is an abnormal growth of cells in the brain that can be benign or malignant, affecting brain function."
+  },
+  {
+    "question": "What is epilepsy management?",
+    "answer": "Epilepsy management includes anti-seizure medications, lifestyle modifications, surgery, and sometimes neurostimulation therapies."
+  },
+  {
+    "question": "What is a neuroinfection?",
+    "answer": "A neuroinfection is an infection affecting the brain, spinal cord, or peripheral nerves, such as meningitis or encephalitis."
+  },
+  {
+    "question": "What is peripheral neuropathy?",
+    "answer": "Peripheral neuropathy is damage to the peripheral nerves causing numbness, tingling, or pain, often in the hands or feet."
+  },
+  {
+    "question": "What is a brain hemorrhage?",
+    "answer": "A brain hemorrhage is bleeding inside the brain tissue due to trauma, high blood pressure, or aneurysms."
+  },
+  {
+    "question": "What is an ischemic stroke?",
+    "answer": "An ischemic stroke occurs when a blood clot blocks a cerebral artery, depriving brain tissue of oxygen and nutrients."
+  },
+  {
+    "question": "What is a hemorrhagic stroke?",
+    "answer": "A hemorrhagic stroke occurs when a blood vessel in the brain ruptures, leading to bleeding and brain damage."
+  },
+  {
+    "question": "What is a tonic-clonic seizure?",
+    "answer": "A tonic-clonic seizure involves muscle stiffening (tonic phase) followed by rhythmic jerking (clonic phase) of the body."
+  },
+  {
+    "question": "What is a partial seizure?",
+    "answer": "A partial seizure originates in one part of the brain and may affect movement, sensation, or awareness."
+  },
+  {
+    "question": "What is a generalized seizure?",
+    "answer": "A generalized seizure involves the entire brain from the onset, affecting consciousness and often causing convulsions."
+  },
+  {
+    "question": "What is a neuroimaging test?",
+    "answer": "Neuroimaging tests, like MRI or CT scans, visualize the brain and spinal cord to diagnose neurological conditions."
+  },
+  {
+    "question": "What is a cerebrospinal fluid (CSF) test?",
+    "answer": "A CSF test analyzes the fluid around the brain and spinal cord to detect infections, bleeding, or other abnormalities."
+  },
+  {
+    "question": "What is a migraine aura?",
+    "answer": "A migraine aura is a visual, sensory, or speech disturbance that occurs before or during a migraine headache."
+  },
+  {
+    "question": "What is vertigo?",
+    "answer": "Vertigo is a sensation of spinning or dizziness, often caused by inner ear or neurological disorders."
+  },
+  {
+    "question": "What is a neurodegenerative disorder treatment?",
+    "answer": "Treatment may include medications, physical therapy, lifestyle management, and sometimes surgical interventions to slow progression."
+  },
+  {
+    "question": "What is a cerebrovascular accident prevention?",
+    "answer": "Prevention includes managing blood pressure, diabetes, cholesterol, avoiding smoking, and a healthy lifestyle."
+  },
+  {
+    "question": "What is neuropathic pain?",
+    "answer": "Neuropathic pain is caused by nerve damage and may feel burning, tingling, or shooting."
+  },
+  {
+    "question": "What is Bell\u2019s phenomenon?",
+    "answer": "Bell\u2019s phenomenon is the upward movement of the eye when the eyelid closes, often observed in facial nerve palsy."
+  },
+  {
+    "question": "What is a cranial nerve examination?",
+    "answer": "A cranial nerve examination tests the function of the 12 cranial nerves to detect neurological deficits."
+  },
+  {
+    "question": "What is trigeminal neuralgia?",
+    "answer": "Trigeminal neuralgia is a chronic pain condition affecting the trigeminal nerve, causing severe facial pain."
+  },
+  {
+    "question": "What is dystonia?",
+    "answer": "Dystonia is a movement disorder causing involuntary muscle contractions, leading to abnormal postures or repetitive movements."
+  },
+  {
+    "question": "What is ataxia?",
+    "answer": "Ataxia is the loss of control of voluntary movements, resulting in unsteady gait and poor coordination."
+  },
+  {
+    "question": "What is chorea?",
+    "answer": "Chorea is characterized by involuntary, irregular, and unpredictable movements, often associated with Huntington\u2019s disease."
+  },
+  {
+    "question": "What is a lumbar puncture?",
+    "answer": "A lumbar puncture is a procedure to collect cerebrospinal fluid for diagnostic purposes."
+  },
+  {
+    "question": "What is a neurodegenerative biomarker?",
+    "answer": "Neurodegenerative biomarkers are measurable indicators of disease progression or presence in disorders like Alzheimer\u2019s or Parkinson\u2019s."
+  },
+  {
+    "question": "What is a hemiplegia?",
+    "answer": "Hemiplegia is paralysis of one side of the body, often caused by stroke or brain injury."
+  },
+  {
+    "question": "What is a neuropsychological assessment?",
+    "answer": "It evaluates cognitive functions such as memory, attention, and problem-solving to detect brain dysfunction."
+  },
+  {
+    "question": "What is spinal muscular atrophy?",
+    "answer": "Spinal muscular atrophy is a genetic disorder causing loss of motor neurons, leading to muscle wasting and weakness."
+  },
+  {
+    "question": "What is a motor neuron disease?",
+    "answer": "Motor neuron disease is a group of progressive neurological disorders affecting motor neurons, leading to muscle weakness and atrophy."
+  },
+  {
+    "question": "What is a radiculopathy treatment?",
+    "answer": "Treatment includes physical therapy, medications, and sometimes surgery to relieve nerve compression."
+  },
+  {
+    "question": "What is a neuroinflammatory disorder?",
+    "answer": "Neuroinflammatory disorders involve inflammation of nervous tissue, such as multiple sclerosis or autoimmune encephalitis."
+  },
+  {
+    "question": "What is cerebral palsy?",
+    "answer": "Cerebral palsy is a group of disorders affecting movement, posture, and muscle tone due to brain injury during development."
+  },
+  {
+    "question": "What is a spinal cord compression?",
+    "answer": "Spinal cord compression occurs when pressure on the spinal cord causes pain, weakness, or sensory loss."
+  },
+  {
+    "question": "What is a cognitive disorder?",
+    "answer": "Cognitive disorders affect memory, attention, problem-solving, and decision-making abilities."
+  },
+  {
+    "question": "What is a neurocutaneous syndrome?",
+    "answer": "Neurocutaneous syndromes are genetic disorders affecting the nervous system and skin, like tuberous sclerosis."
+  },
+  {
+    "question": "What is neurorehabilitation?",
+    "answer": "Neurorehabilitation is therapy aimed at restoring function and independence in patients with neurological impairments."
+  },
+  {
+    "question": "What is neuroplasticity?",
+    "answer": "Neuroplasticity is the brain\u2019s ability to reorganize and form new neural connections after injury or learning."
+  },
+  {
+    "question": "What is status epilepticus?",
+    "answer": "Status epilepticus is a prolonged seizure lasting more than 5 minutes or repeated seizures without recovery, requiring urgent treatment."
+  },
+  {
+    "question": "What is a post-stroke complication?",
+    "answer": "Post-stroke complications include paralysis, speech difficulties, cognitive deficits, and risk of recurrent strokes."
+  },
+  {
+    "question": "What is neuroimmunology?",
+    "answer": "Neuroimmunology is the study of interactions between the nervous system and the immune system."
+  },
+  {
+    "question": "What is a brain abscess?",
+    "answer": "A brain abscess is a collection of pus in the brain due to infection, causing headaches, fever, and neurological deficits."
+  },
+  {
+    "question": "What is cranial nerve VI palsy?",
+    "answer": "Cranial nerve VI palsy causes inability to move the eye laterally, leading to double vision."
+  },
+  {
+    "question": "What is a lacunar stroke?",
+    "answer": "A lacunar stroke is a small infarct in the deep brain structures due to blockage of small arteries."
+  },
+  {
+    "question": "What is a neurovascular unit?",
+    "answer": "The neurovascular unit consists of neurons, glial cells, and blood vessels that maintain brain homeostasis."
+  },
+  {
+    "question": "What is neuroprotection?",
+    "answer": "Neuroprotection involves strategies or treatments to prevent neuronal injury or degeneration."
+  },
+  {
+    "question": "What is a subdural hematoma?",
+    "answer": "A subdural hematoma is bleeding between the dura and the brain, often from head trauma."
+  },
+  {
+    "question": "What is a cranial nerve IV palsy?",
+    "answer": "Cranial nerve IV palsy affects the superior oblique muscle, causing vertical diplopia and head tilt."
+  },
+  {
+    "question": "What is a seizure aura?",
+    "answer": "A seizure aura is a perceptual or sensory warning experienced before a seizure occurs."
+  },
+  {
+    "question": "What is a stroke?",
+    "answer": "A stroke occurs when the blood supply to a part of the brain is interrupted, causing brain cells to die. It can be ischemic (blockage) or hemorrhagic (bleeding)."
+  },
+  {
+    "question": "What are the warning signs of a stroke?",
+    "answer": "Warning signs include sudden numbness or weakness on one side, confusion, trouble speaking or understanding speech, vision problems, dizziness, and loss of balance or coordination."
+  },
+  {
+    "question": "How is a stroke diagnosed?",
+    "answer": "Diagnosis involves physical examination, medical history, and imaging tests like CT or MRI scans to identify the type and location of the stroke."
+  },
+  {
+    "question": "What is post-stroke depression?",
+    "answer": "Post-stroke depression is a type of depression that occurs after a stroke, marked by persistent sadness, loss of interest, and possible cognitive impairments."
+  },
+  {
+    "question": "How can depression affect stroke recovery?",
+    "answer": "Depression can slow recovery by reducing motivation, impairing cognitive function, and making physical rehabilitation more difficult."
+  },
+  {
+    "question": "What are the risk factors for stroke?",
+    "answer": "High blood pressure, diabetes, high cholesterol, smoking, obesity, sedentary lifestyle, and excessive alcohol consumption increase stroke risk."
+  },
+  {
+    "question": "Can substance abuse increase the risk of stroke?",
+    "answer": "Yes, substances like cocaine, methamphetamine, and excessive alcohol can increase stroke risk by affecting blood vessels and blood pressure."
+  },
+  {
+    "question": "What is transient ischemic attack (TIA)?",
+    "answer": "TIA, or mini-stroke, is a temporary blockage of blood flow to the brain causing short-term stroke-like symptoms that resolve within 24 hours."
+  },
+  {
+    "question": "What treatments are available for stroke?",
+    "answer": "Treatments include clot-busting medications, surgical interventions for hemorrhagic stroke, and rehabilitation therapies like physical, occupational, and speech therapy."
+  },
+  {
+    "question": "What role does physiotherapy play in stroke recovery?",
+    "answer": "Physiotherapy helps patients regain movement, balance, and strength after a stroke, improving overall function and independence."
+  },
+  {
+    "question": "How can diet help prevent stroke?",
+    "answer": "A heart-healthy diet low in salt, sugar, and saturated fats, with plenty of fruits, vegetables, and whole grains, can reduce stroke risk."
+  },
+  {
+    "question": "Is high blood pressure dangerous for the brain?",
+    "answer": "Yes, uncontrolled high blood pressure can damage blood vessels in the brain, increasing the risk of stroke and cognitive decline."
+  },
+  {
+    "question": "What is a hemorrhagic stroke?",
+    "answer": "A hemorrhagic stroke occurs when a blood vessel in the brain ruptures, causing bleeding that damages brain tissue."
+  },
+  {
+    "question": "What is an ischemic stroke?",
+    "answer": "An ischemic stroke happens when a blood clot blocks a vessel supplying blood to the brain, depriving brain tissue of oxygen and nutrients."
+  },
+  {
+    "question": "How does diabetes affect stroke risk?",
+    "answer": "Diabetes can damage blood vessels and increase the likelihood of clot formation, elevating the risk of ischemic stroke."
+  },
+  {
+    "question": "Can mental stress lead to stroke?",
+    "answer": "Chronic stress may increase blood pressure and inflammation, indirectly raising the risk of stroke over time."
+  },
+  {
+    "question": "What is the role of antiplatelet therapy in stroke prevention?",
+    "answer": "Antiplatelet drugs like aspirin prevent clot formation, reducing the risk of recurrent ischemic strokes."
+  },
+  {
+    "question": "How does obesity impact neurological health?",
+    "answer": "Obesity contributes to hypertension, diabetes, and high cholesterol, all of which increase the risk of stroke and other neurological disorders."
+  },
+  {
+    "question": "What is the difference between acute and chronic stroke management?",
+    "answer": "Acute management focuses on immediate treatment to save brain tissue, while chronic management emphasizes rehabilitation, secondary prevention, and lifestyle modifications."
+  },
+  {
+    "question": "Can depression occur without a prior history after a stroke?",
+    "answer": "Yes, even individuals with no previous depression history can develop post-stroke depression due to brain changes and functional impairments."
+  },
+  {
+    "question": "What is aphasia?",
+    "answer": "Aphasia is a language disorder resulting from brain damage, often after a stroke, causing difficulties in speaking, understanding, reading, or writing."
+  },
+  {
+    "question": "What is hemiplegia?",
+    "answer": "Hemiplegia is paralysis of one side of the body, commonly occurring after a stroke that affects the opposite side of the brain."
+  },
+  {
+    "question": "What is the role of occupational therapy post-stroke?",
+    "answer": "Occupational therapy helps stroke survivors regain skills for daily living, including dressing, cooking, and other routine activities."
+  },
+  {
+    "question": "How does smoking affect stroke risk?",
+    "answer": "Smoking damages blood vessels, increases blood pressure, and promotes clot formation, significantly increasing stroke risk."
+  },
+  {
+    "question": "What are the symptoms of depression related to neurological disorders?",
+    "answer": "Symptoms include persistent sadness, loss of interest, fatigue, poor concentration, sleep disturbances, and changes in appetite."
+  },
+  {
+    "question": "What is the link between alcohol and neurological health?",
+    "answer": "Excessive alcohol consumption can lead to hypertension, stroke, neuropathy, and cognitive impairment."
+  },
+  {
+    "question": "What are common causes of neurological disorders in India?",
+    "answer": "Hypertension, diabetes, stroke, infections, substance abuse, and lifestyle factors are common contributors."
+  },
+  {
+    "question": "How does physical activity prevent neurological diseases?",
+    "answer": "Regular exercise improves blood flow, reduces blood pressure, manages weight, and lowers the risk of stroke and cognitive decline."
+  },
+  {
+    "question": "What is neuroplasticity?",
+    "answer": "Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections, crucial for recovery after injury or stroke."
+  },
+  {
+    "question": "Can depression exacerbate neurological disorders?",
+    "answer": "Yes, untreated depression can worsen outcomes, reduce rehabilitation participation, and negatively impact recovery from neurological conditions."
+  },
+  {
+    "question": "How can family support aid stroke recovery?",
+    "answer": "Emotional encouragement, assistance with therapy, and a safe home environment improve recovery outcomes and mental health."
+  },
+  {
+    "question": "What is spasticity after stroke?",
+    "answer": "Spasticity is abnormal muscle tightness or stiffness that develops after neurological injury, making movement difficult."
+  },
+  {
+    "question": "How is stroke prevented in high-risk patients?",
+    "answer": "Prevention strategies include controlling blood pressure, managing diabetes, quitting smoking, taking antiplatelet drugs, and regular checkups."
+  },
+  {
+    "question": "What is the relationship between cholesterol and stroke?",
+    "answer": "High LDL cholesterol can lead to atherosclerosis, increasing the risk of ischemic stroke."
+  },
+  {
+    "question": "What is transient monocular blindness?",
+    "answer": "It is temporary vision loss in one eye, often caused by a small embolus, and can be a warning sign of stroke."
+  },
+  {
+    "question": "How is substance abuse related to neurological disorders?",
+    "answer": "Drug abuse can cause brain damage, increase stroke risk, and contribute to depression and cognitive impairment."
+  },
+  {
+    "question": "What is the role of antidepressants post-stroke?",
+    "answer": "Antidepressants help manage post-stroke depression and may improve neurorehabilitation outcomes."
+  },
+  {
+    "question": "What is the effect of sleep on neurological health?",
+    "answer": "Adequate sleep supports brain function, memory, and recovery after neurological injury, while poor sleep increases disease risk."
+  },
+  {
+    "question": "What is aphasia therapy?",
+    "answer": "Speech and language therapy designed to help individuals regain communication skills lost due to stroke or brain injury."
+  },
+  {
+    "question": "What are cognitive deficits after stroke?",
+    "answer": "Cognitive deficits may include memory loss, impaired attention, problem-solving difficulties, and executive function impairment."
+  },
+  {
+    "question": "How does high blood sugar affect the brain?",
+    "answer": "Chronic hyperglycemia can damage blood vessels and increase stroke risk, as well as worsen neurological outcomes."
+  },
+  {
+    "question": "What is the role of occupational therapy in neurological disorders?",
+    "answer": "It assists patients in performing daily tasks, adapting environments, and regaining independence after neurological injury."
+  },
+  {
+    "question": "How can yoga benefit neurological health?",
+    "answer": "Yoga reduces stress, improves flexibility, enhances blood flow, and may help manage neurological conditions like stroke and depression."
+  },
+  {
+    "question": "What is ischemic penumbra?",
+    "answer": "It is the area around an ischemic stroke that is at risk but potentially salvageable with timely intervention."
+  },
+  {
+    "question": "Can depression affect cognitive recovery after stroke?",
+    "answer": "Yes, depression can slow cognitive recovery and reduce engagement in rehabilitation therapies."
+  },
+  {
+    "question": "What are common neurological disorders in India?",
+    "answer": "Stroke, epilepsy, migraine, Parkinson\u2019s disease, neuropathy, and depression are prevalent in India."
+  },
+  {
+    "question": "How does physical therapy help post-stroke?",
+    "answer": "Physical therapy restores strength, coordination, balance, and mobility in stroke survivors."
+  },
+  {
+    "question": "What is the role of neuroimaging in stroke?",
+    "answer": "CT and MRI scans help identify stroke type, location, and extent of brain injury."
+  },
+  {
+    "question": "What is the FAST test?",
+    "answer": "FAST stands for Face drooping, Arm weakness, Speech difficulty, Time to call emergency services, used to quickly identify stroke signs."
+  },
+  {
+    "question": "How can high blood pressure be controlled to prevent stroke?",
+    "answer": "Through lifestyle changes, medications, regular monitoring, and reducing salt intake."
+  },
+  {
+    "question": "What is thrombolytic therapy?",
+    "answer": "It is a treatment to dissolve blood clots during an acute ischemic stroke, ideally administered within hours of symptom onset."
+  },
+  {
+    "question": "How does rehabilitation improve neurological outcomes?",
+    "answer": "Rehabilitation enhances physical, cognitive, and emotional recovery, promoting independence and quality of life."
+  },
+  {
+    "question": "What is spastic hemiplegia?",
+    "answer": "It is stiff, involuntary contraction of muscles on one side of the body after a stroke."
+  },
+  {
+    "question": "Can migraines increase stroke risk?",
+    "answer": "Certain types of migraines, especially with aura, may slightly increase stroke risk, particularly in women and smokers."
+  },
+  {
+    "question": "What is the role of counseling in post-stroke depression?",
+    "answer": "Counseling provides emotional support, coping strategies, and guidance to improve mental well-being and rehabilitation engagement."
+  },
+  {
+    "question": "How does early mobilization benefit stroke patients?",
+    "answer": "Early movement prevents complications like bedsores, improves circulation, and aids faster functional recovery."
+  },
+  {
+    "question": "What is cognitive rehabilitation?",
+    "answer": "It is therapy designed to improve memory, attention, problem-solving, and executive functions after brain injury or stroke."
+  },
+  {
+    "question": "How does alcohol abuse affect the brain?",
+    "answer": "Excessive alcohol can cause brain shrinkage, cognitive deficits, neuropathy, and increased stroke risk."
+  },
+  {
+    "question": "What are warning signs of depression in neurological patients?",
+    "answer": "Persistent sadness, withdrawal, sleep disturbances, appetite changes, and difficulty concentrating are key signs."
+  },
+  {
+    "question": "How does early detection of stroke improve outcomes?",
+    "answer": "Prompt recognition and treatment reduce brain damage, improve recovery, and lower mortality."
+  },
+  {
+    "question": "What is the connection between diabetes and stroke?",
+    "answer": "Diabetes accelerates atherosclerosis, damages blood vessels, and increases the likelihood of ischemic stroke."
+  },
+  {
+    "question": "What lifestyle changes prevent neurological disorders?",
+    "answer": "Regular exercise, balanced diet, quitting smoking, moderating alcohol, and managing stress reduce neurological risk."
+  },
+  {
+    "question": "How do anticoagulants prevent stroke?",
+    "answer": "They thin the blood and reduce clot formation, lowering the risk of ischemic stroke."
+  },
+  {
+    "question": "What is post-stroke fatigue?",
+    "answer": "It is persistent tiredness after a stroke, affecting daily function and rehabilitation participation."
+  },
+  {
+    "question": "Can anxiety affect neurological recovery?",
+    "answer": "Yes, anxiety can reduce therapy participation, impair cognitive recovery, and worsen overall outcomes."
+  },
+  {
+    "question": "What is carotid artery disease?",
+    "answer": "It is the narrowing of carotid arteries by plaque buildup, increasing the risk of ischemic stroke."
+  },
+  {
+    "question": "How can Indian dietary habits influence neurological health?",
+    "answer": "High salt, sugar, and fried foods increase stroke risk, while fruits, vegetables, and whole grains support brain health."
+  },
+  {
+    "question": "What is the role of neuropsychology in stroke recovery?",
+    "answer": "Neuropsychologists assess and treat cognitive and emotional deficits to optimize rehabilitation outcomes."
+  },
+  {
+    "question": "What is the significance of speech therapy post-stroke?",
+    "answer": "It helps regain communication skills, including speech production, comprehension, and writing."
+  },
+  {
+    "question": "How can social support aid neurological recovery?",
+    "answer": "Support from family, friends, and community improves emotional well-being, adherence to therapy, and overall outcomes."
+  },
+  {
+    "question": "What is the difference between ischemic and hemorrhagic stroke management?",
+    "answer": "Ischemic strokes focus on restoring blood flow, while hemorrhagic strokes focus on controlling bleeding and reducing pressure."
+  },
+  {
+    "question": "Can neurological disorders be prevented?",
+    "answer": "While not all can be prevented, lifestyle management, controlling medical conditions, and early intervention reduce risk."
+  },
+  {
+    "question": "What is the role of imaging in post-stroke care?",
+    "answer": "Imaging helps track recovery, detect complications, and guide rehabilitation planning."
+  },
+  {
+    "question": "What is the importance of patient education in stroke prevention?",
+    "answer": "Educating patients about risk factors, lifestyle changes, and early warning signs can prevent strokes and improve outcomes."
+  },
+  {
+    "question": "How does depression influence adherence to therapy?",
+    "answer": "Depression can reduce motivation, leading to missed sessions and slower functional recovery."
+  },
+  {
+    "question": "What is the importance of early rehabilitation?",
+    "answer": "Starting therapy soon after stroke maximizes recovery potential and reduces long-term disability."
+  },
+  {
+    "question": "Can substance abuse lead to long-term neurological deficits?",
+    "answer": "Yes, chronic use of drugs or alcohol can impair cognition, motor function, and increase stroke risk."
+  },
+  {
+    "question": "What is the role of primary care in stroke prevention?",
+    "answer": "Primary care physicians manage risk factors like hypertension, diabetes, and lifestyle interventions to prevent strokes."
+  }
+]

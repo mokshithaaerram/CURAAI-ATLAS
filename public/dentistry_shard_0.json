@@ -1,0 +1,997 @@
+[
+  {
+    "question": "What is dental caries and what causes it?",
+    "answer": "Dental caries, or tooth decay, is caused by bacterial activity that produces acids which erode tooth enamel. Poor oral hygiene, sugary foods, and lack of fluoride increase the risk.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "How can gum disease be prevented?",
+    "answer": "Gum disease can be prevented by maintaining good oral hygiene, brushing twice a day, flossing daily, using antiseptic mouthwash, and regular dental check-ups.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are the different types of dental fillings?",
+    "answer": "Dental fillings can be amalgam (silver), composite (tooth-colored), gold, or ceramic. The choice depends on the location of the cavity, aesthetics, and cost.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a root canal treatment?",
+    "answer": "A root canal treatment is a procedure to remove infected or damaged pulp inside the tooth, clean the canals, and seal them to save the tooth and prevent infection.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "How often should a person visit the dentist?",
+    "answer": "It is recommended to visit a dentist every six months for routine check-ups and cleaning, or more frequently if there are dental issues.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What causes tooth sensitivity?",
+    "answer": "Tooth sensitivity can be caused by enamel erosion, gum recession, cavities, cracked teeth, worn fillings, or exposed dentin.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between plaque and tartar?",
+    "answer": "Plaque is a soft, sticky film of bacteria on teeth, while tartar (calculus) is hardened plaque that forms if plaque is not removed regularly.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental sealants and who should get them?",
+    "answer": "Dental sealants are protective coatings applied to the chewing surfaces of back teeth to prevent decay. Children and teenagers are the most common recipients.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is teeth whitening and how is it done?",
+    "answer": "Teeth whitening is a cosmetic procedure to lighten tooth color. It can be done using in-office bleaching, at-home whitening kits, or whitening toothpaste.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "How can bad breath be treated?",
+    "answer": "Bad breath can be treated by practicing good oral hygiene, cleaning the tongue, drinking water, avoiding certain foods, and addressing underlying dental or medical conditions.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is orthodontics?",
+    "answer": "Orthodontics is a branch of dentistry that deals with diagnosing, preventing, and correcting misaligned teeth and jaws using braces, aligners, or other appliances.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are wisdom teeth and when should they be removed?",
+    "answer": "Wisdom teeth are the third set of molars that typically appear in late teens or early twenties. They are removed if impacted, causing pain, infection, or misalignment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental fluorosis?",
+    "answer": "Dental fluorosis is a condition caused by excessive fluoride intake during tooth development, leading to white spots or streaks on teeth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "How can cavities be prevented?",
+    "answer": "Cavities can be prevented by brushing and flossing regularly, reducing sugary foods and drinks, using fluoride toothpaste, and regular dental check-ups.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are veneers and when are they used?",
+    "answer": "Veneers are thin coverings placed over the front surface of teeth to improve appearance. They are used to correct discoloration, chips, or minor misalignment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of dental X-rays?",
+    "answer": "Dental X-rays help detect hidden cavities, impacted teeth, bone loss, and other issues not visible during a standard dental exam.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What causes enamel erosion?",
+    "answer": "Enamel erosion can be caused by acidic foods and drinks, acid reflux, excessive brushing, and certain medical conditions.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental bridges?",
+    "answer": "Dental bridges are used to replace one or more missing teeth by anchoring artificial teeth to adjacent natural teeth or implants.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "How does smoking affect oral health?",
+    "answer": "Smoking increases the risk of gum disease, tooth loss, oral cancer, bad breath, and slows healing after dental procedures.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental implants?",
+    "answer": "Dental implants are artificial tooth roots made of titanium that are surgically placed into the jawbone to support replacement teeth or bridges.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is gingivitis?",
+    "answer": "Gingivitis is early-stage gum disease characterized by redness, swelling, and bleeding of the gums, often caused by plaque buildup.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is periodontitis?",
+    "answer": "Periodontitis is advanced gum disease where inflammation damages the soft tissue and bone supporting teeth, potentially leading to tooth loss.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the best way to brush teeth?",
+    "answer": "Teeth should be brushed twice daily using a soft-bristled brush, fluoride toothpaste, and gentle circular motions for at least two minutes.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the importance of flossing?",
+    "answer": "Flossing removes plaque and food particles from areas between teeth that a toothbrush cannot reach, preventing cavities and gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a dental crown?",
+    "answer": "A dental crown is a cap placed over a damaged or decayed tooth to restore its shape, size, strength, and appearance.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are the signs of oral cancer?",
+    "answer": "Signs include persistent mouth sores, lumps, red or white patches, difficulty chewing or swallowing, and unexplained bleeding.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between a dentist and a periodontist?",
+    "answer": "A dentist provides general oral care, while a periodontist specializes in preventing, diagnosing, and treating gum disease and supporting structures.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental abscesses?",
+    "answer": "Dental abscesses are infections at the root of a tooth or between the gum and tooth, often causing pain, swelling, and pus formation.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth extraction?",
+    "answer": "Tooth extraction is the removal of a damaged, decayed, or problematic tooth, sometimes due to infection or crowding.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of fluoride in dental care?",
+    "answer": "Fluoride strengthens tooth enamel, making it more resistant to decay, and can be applied through toothpaste, water, or professional treatments.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are impacted teeth?",
+    "answer": "Impacted teeth are teeth that fail to fully emerge through the gums, often causing pain, infection, or crowding.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental fillings made of?",
+    "answer": "Dental fillings can be made from amalgam, composite resin, gold, or ceramic, depending on durability, aesthetics, and cost.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is plaque removal?",
+    "answer": "Plaque removal involves brushing, flossing, and professional cleanings to prevent tartar buildup, cavities, and gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are the common dental emergencies?",
+    "answer": "Common dental emergencies include toothache, broken or knocked-out teeth, abscesses, and severe gum bleeding.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is an inlay and onlay?",
+    "answer": "Inlays and onlays are indirect fillings made in a lab and bonded to the tooth to restore damaged or decayed areas.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral hygiene?",
+    "answer": "Oral hygiene is the practice of keeping the mouth clean to prevent dental problems through brushing, flossing, and regular check-ups.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth enamel?",
+    "answer": "Tooth enamel is the hard, outer layer of a tooth that protects against decay and physical damage.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental scaling?",
+    "answer": "Dental scaling is a procedure to remove plaque and tartar from teeth, especially below the gumline, to prevent gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental polishing?",
+    "answer": "Dental polishing smooths the tooth surface after scaling to reduce plaque accumulation and improve appearance.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is malocclusion?",
+    "answer": "Malocclusion refers to misalignment of teeth and jaws, which can affect chewing, speaking, and oral health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are aligners?",
+    "answer": "Aligners are clear, removable devices used to straighten teeth as an alternative to traditional braces.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are the benefits of fluoride varnish?",
+    "answer": "Fluoride varnish strengthens enamel, reduces sensitivity, and helps prevent cavities, especially in children.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental trauma?",
+    "answer": "Dental trauma refers to injury to teeth, gums, or jaw, often caused by accidents or sports-related impacts.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are composite veneers?",
+    "answer": "Composite veneers are tooth-colored resin coatings applied to improve the appearance of teeth, used for discoloration, chips, or gaps.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of saliva in oral health?",
+    "answer": "Saliva helps neutralize acids, wash away food particles, provide minerals for teeth, and prevent tooth decay and gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth pulp?",
+    "answer": "Tooth pulp is the soft tissue inside a tooth containing nerves and blood vessels, responsible for tooth sensation and nutrition.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is bruxism?",
+    "answer": "Bruxism is the habit of grinding or clenching teeth, often during sleep, which can lead to tooth wear, pain, and jaw issues.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of dental floss?",
+    "answer": "Dental floss removes plaque and debris between teeth and below the gumline, areas that toothbrushes cannot reach.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral prophylaxis?",
+    "answer": "Oral prophylaxis is a professional cleaning procedure to prevent dental disease, including scaling, polishing, and fluoride application.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are orthodontic retainers?",
+    "answer": "Retainers are devices used after braces to maintain teeth in their corrected position.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth erosion?",
+    "answer": "Tooth erosion is the loss of enamel due to acid exposure from diet, stomach acid, or medical conditions.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a dental night guard?",
+    "answer": "A dental night guard is a device worn during sleep to prevent damage from teeth grinding or clenching.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral thrush?",
+    "answer": "Oral thrush is a fungal infection in the mouth caused by Candida, leading to white patches and discomfort.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dentures?",
+    "answer": "Dentures are removable replacements for missing teeth and surrounding tissues, used for functional and aesthetic purposes.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a dental bridge?",
+    "answer": "A dental bridge is a fixed prosthetic device used to replace missing teeth by anchoring artificial teeth to adjacent natural teeth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a tooth abscess?",
+    "answer": "A tooth abscess is a collection of pus due to bacterial infection in the tooth or gums, causing pain, swelling, and sometimes fever.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of oral microbiome?",
+    "answer": "The oral microbiome consists of microorganisms in the mouth that help maintain oral health, but imbalances can cause cavities or gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is enamel hypoplasia?",
+    "answer": "Enamel hypoplasia is a developmental defect where tooth enamel is thin or missing, leading to increased susceptibility to cavities.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a pulp cap?",
+    "answer": "A pulp cap is a protective dressing applied to a tooth's pulp to prevent infection and promote healing after cavity removal.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth avulsion?",
+    "answer": "Tooth avulsion is the complete displacement of a tooth from its socket due to trauma, requiring immediate dental care.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis in children?",
+    "answer": "Dental prophylaxis in children involves cleaning, fluoride application, and preventive guidance to maintain oral health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of sealants in molars?",
+    "answer": "Sealants protect the deep grooves of molars from food and bacteria, reducing the risk of cavities.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are the signs of teething in children?",
+    "answer": "Signs include drooling, gum swelling, irritability, chewing on objects, and sometimes low-grade fever.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is pulpitis?",
+    "answer": "Pulpitis is inflammation of the dental pulp caused by infection, trauma, or decay, often resulting in toothache.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a dental onlay?",
+    "answer": "A dental onlay is a restoration that covers one or more cusps of a tooth, providing support and protection for damaged areas.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is temporomandibular joint (TMJ) disorder?",
+    "answer": "TMJ disorder is a condition affecting the jaw joint and muscles, causing pain, clicking sounds, difficulty chewing, or jaw locking.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What causes dental fluorosis?",
+    "answer": "Dental fluorosis occurs due to excessive fluoride intake during tooth development, leading to white streaks or brown spots on teeth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between primary and permanent teeth?",
+    "answer": "Primary teeth, or baby teeth, are temporary and fall out to make way for permanent teeth, which are the adult set meant to last a lifetime.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is pediatric dentistry?",
+    "answer": "Pediatric dentistry focuses on the oral health of children, including preventive care, treatment, and guidance for healthy dental habits.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are the common causes of toothache?",
+    "answer": "Toothache can be caused by cavities, infections, gum disease, tooth fracture, impacted teeth, or exposed roots.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of xylitol in dental care?",
+    "answer": "Xylitol is a sugar substitute that helps reduce cavity-causing bacteria and promotes remineralization of tooth enamel.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for adults?",
+    "answer": "Dental prophylaxis for adults includes professional cleaning to remove plaque, tartar, and stains, and maintaining oral health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the function of wisdom teeth?",
+    "answer": "Wisdom teeth are the third molars, historically used for chewing tough foods, but now often removed due to crowding or impaction.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the treatment for cracked teeth?",
+    "answer": "Treatment depends on severity and may include bonding, crowns, root canal therapy, or extraction.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is gingival recession?",
+    "answer": "Gingival recession is the loss of gum tissue exposing the tooth root, often caused by aggressive brushing, gum disease, or aging.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental veneers?",
+    "answer": "Dental veneers are thin, custom-made shells applied to the front of teeth to improve appearance and correct minor defects.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between extraction and avulsion?",
+    "answer": "Extraction is the intentional removal of a tooth, while avulsion is the accidental displacement of a tooth from its socket.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of a dental hygienist?",
+    "answer": "Dental hygienists clean teeth, educate patients on oral hygiene, and assist dentists in preventive care.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a dental prophylactic rinse?",
+    "answer": "A prophylactic rinse is an antiseptic mouthwash used to reduce bacterial load and prevent gum disease or infection.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between tartar and calculus?",
+    "answer": "Tartar and calculus are the same\u2014hardened plaque that forms on teeth if not removed by brushing or professional cleaning.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental bonding?",
+    "answer": "Dental bonding uses tooth-colored resin to repair chipped, cracked, or discolored teeth and improve aesthetics.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the cause of dry mouth?",
+    "answer": "Dry mouth (xerostomia) can result from medications, medical conditions, dehydration, or salivary gland dysfunction.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of calcium in teeth?",
+    "answer": "Calcium strengthens teeth and bones, supports enamel integrity, and helps repair early tooth damage.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are the common symptoms of bruxism?",
+    "answer": "Symptoms include tooth wear, jaw pain, headaches, and sensitivity due to grinding or clenching teeth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is enamel hypocalcification?",
+    "answer": "Enamel hypocalcification is a developmental defect causing weak, soft spots on enamel that are more prone to decay.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental impressions?",
+    "answer": "Dental impressions are molds of teeth and gums used to make crowns, bridges, dentures, or orthodontic appliances.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is pulp necrosis?",
+    "answer": "Pulp necrosis is the death of dental pulp tissue due to infection or trauma, often requiring root canal treatment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the purpose of orthodontic spacers?",
+    "answer": "Orthodontic spacers create small gaps between teeth to allow placement of bands for braces.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for patients with braces?",
+    "answer": "It includes specialized cleaning techniques, floss threaders, and fluoride application to prevent cavities and gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of mouthguards?",
+    "answer": "Mouthguards protect teeth and jaws from injury during sports or from teeth grinding at night.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth mobility?",
+    "answer": "Tooth mobility refers to the looseness of a tooth caused by periodontal disease, trauma, or bone loss.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is odontogenic infection?",
+    "answer": "Odontogenic infection originates from teeth or supporting tissues, often leading to abscesses or systemic complications.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental anesthesia?",
+    "answer": "Dental anesthesia numbs specific areas of the mouth to perform procedures painlessly, including local, sedation, or general anesthesia.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental splints?",
+    "answer": "Dental splints stabilize teeth or jaws affected by trauma, bruxism, or periodontal disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth abrasion?",
+    "answer": "Tooth abrasion is the wearing away of enamel due to mechanical factors like aggressive brushing or using hard objects.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral lichen planus?",
+    "answer": "Oral lichen planus is a chronic inflammatory condition causing white patches, redness, or sores in the mouth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental pulp exposure?",
+    "answer": "Pulp exposure occurs when tooth decay or trauma exposes the inner pulp, often causing pain and requiring treatment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are periodontal pockets?",
+    "answer": "Periodontal pockets are spaces that form between teeth and gums due to gum disease, trapping bacteria and debris.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral prophylaxis in orthodontics?",
+    "answer": "It includes professional cleaning and maintenance to prevent decay and gum disease during orthodontic treatment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between intrinsic and extrinsic tooth stains?",
+    "answer": "Extrinsic stains occur on the tooth surface due to foods or smoking, while intrinsic stains occur within the tooth structure.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is periapical abscess?",
+    "answer": "A periapical abscess is an infection at the tip of a tooth root, often causing swelling, pain, and pus formation.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dentin hypersensitivity?",
+    "answer": "Dentin hypersensitivity is sharp pain in response to hot, cold, sweet, or acidic stimuli, often due to exposed dentin.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of probiotics in oral health?",
+    "answer": "Probiotics help balance oral microbiota, reduce harmful bacteria, and support gum and overall oral health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental reimplantation?",
+    "answer": "Dental reimplantation is the process of reinserting a knocked-out tooth back into its socket under professional care.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is pulp capping?",
+    "answer": "Pulp capping protects exposed dental pulp to promote healing and prevent the need for root canal therapy.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are interproximal brushes?",
+    "answer": "Interproximal brushes clean spaces between teeth that floss or toothbrushes cannot reach, preventing plaque buildup.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for elderly patients?",
+    "answer": "It involves professional cleaning, evaluation for gum disease, maintenance of dentures, and fluoride treatments.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth hypoplasia?",
+    "answer": "Tooth hypoplasia is underdevelopment of enamel or dentin, making teeth weak and more prone to cavities.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental occlusion?",
+    "answer": "Dental occlusion refers to how upper and lower teeth come together during biting or chewing, important for oral function.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between scaling and root planing?",
+    "answer": "Scaling removes plaque and tartar above and below the gumline, while root planing smooths root surfaces to prevent bacterial attachment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of vitamin D in oral health?",
+    "answer": "Vitamin D supports calcium absorption, strengthens teeth and bones, and reduces the risk of periodontal disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental caries progression?",
+    "answer": "Dental caries progression involves demineralization of enamel, dentin involvement, and eventual pulp infection if untreated.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral prophylaxis for patients with diabetes?",
+    "answer": "It includes enhanced cleaning, monitoring gum health, and patient education, as diabetes increases risk of gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is alveolitis?",
+    "answer": "Alveolitis, or dry socket, is inflammation of the tooth socket after extraction, causing severe pain and delayed healing.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the purpose of dental radiographs?",
+    "answer": "Dental radiographs detect cavities, bone loss, impacted teeth, abscesses, and other hidden dental problems.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are the common causes of halitosis?",
+    "answer": "Halitosis can result from poor oral hygiene, gum disease, dry mouth, infections, or systemic conditions.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for pregnant women?",
+    "answer": "It includes safe cleaning, monitoring gum health, and counseling on oral hygiene, as hormonal changes increase risk of gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between a full denture and a partial denture?",
+    "answer": "A full denture replaces all teeth in an arch, while a partial denture replaces some missing teeth and uses remaining teeth for support.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of orthodontic brackets?",
+    "answer": "Brackets are attachments on teeth that hold archwires in braces to gradually move teeth into desired positions.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the function of dental floss picks?",
+    "answer": "Dental floss picks help clean between teeth conveniently, especially for patients who find traditional flossing difficult.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of saliva in oral health?",
+    "answer": "Saliva neutralizes acids, washes away food particles, provides minerals for remineralization, and protects against infection.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between open bite and overbite?",
+    "answer": "Open bite occurs when teeth do not meet when biting, while overbite is excessive vertical overlap of upper teeth over lower teeth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis after oral surgery?",
+    "answer": "It involves gentle cleaning, antiseptic rinses, monitoring healing, and preventing infection post-surgery.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the purpose of orthodontic elastics?",
+    "answer": "Orthodontic elastics apply pressure to move teeth, correct bite alignment, and improve occlusion during treatment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth debridement?",
+    "answer": "Tooth debridement is the removal of plaque, tartar, and debris to prevent infection and maintain oral health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral candidiasis?",
+    "answer": "Oral candidiasis is a fungal infection caused by Candida, leading to white patches, redness, and discomfort in the mouth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What are dental crowns made of?",
+    "answer": "Crowns can be made of metal, porcelain, ceramic, zirconia, or a combination, restoring function and aesthetics.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between preventive and restorative dentistry?",
+    "answer": "Preventive dentistry focuses on maintaining oral health to avoid problems, while restorative dentistry repairs damaged or missing teeth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a dental inlay?",
+    "answer": "A dental inlay is a restoration that fits within the grooves of a tooth, used to repair cavities or damage without covering cusps.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is orthodontic expansion?",
+    "answer": "Orthodontic expansion widens the upper or lower jaw to correct crowding or bite issues.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of fluoride varnish?",
+    "answer": "Fluoride varnish strengthens enamel, prevents cavities, and is applied professionally, especially in children.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental trauma management?",
+    "answer": "It includes assessing injury, stabilizing teeth, treating fractures or displacements, and preventing infection.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between removable and fixed orthodontic appliances?",
+    "answer": "Removable appliances can be taken out by the patient, while fixed appliances like braces are bonded to teeth and adjusted periodically.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the purpose of interdental brushes?",
+    "answer": "They clean spaces between teeth, prevent plaque buildup, and reduce risk of gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between gingivitis and periodontitis?",
+    "answer": "Gingivitis is gum inflammation without bone loss, while periodontitis involves destruction of supporting bone and tissue.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental pulp vitality test?",
+    "answer": "It assesses the health of the dental pulp using cold, heat, or electric stimuli to determine if the tooth is alive or necrotic.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of scaling in periodontal therapy?",
+    "answer": "Scaling removes plaque and tartar from tooth surfaces and below the gumline to treat and prevent gum disease.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral mucositis?",
+    "answer": "Oral mucositis is inflammation and ulceration of the mucous membranes, often caused by chemotherapy, radiation, or infection.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth transillumination?",
+    "answer": "Tooth transillumination uses light to detect cracks, fractures, or decay inside teeth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis in immunocompromised patients?",
+    "answer": "It involves careful cleaning, infection prevention, and monitoring oral health due to increased risk of complications.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of endodontics in dentistry?",
+    "answer": "Endodontics focuses on treating the dental pulp and tissues surrounding the root, commonly through root canal therapy.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental abscess?",
+    "answer": "A dental abscess is a collection of pus caused by bacterial infection, usually occurring at the tooth root or in the gums.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the purpose of a dental bridge?",
+    "answer": "A dental bridge replaces one or more missing teeth by anchoring artificial teeth to adjacent natural teeth or implants.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth resorption?",
+    "answer": "Tooth resorption is the progressive loss of tooth structure due to physiological or pathological processes.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of a dental implant?",
+    "answer": "A dental implant replaces a missing tooth root with a titanium post, providing support for crowns, bridges, or dentures.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for orthodontic patients?",
+    "answer": "It involves regular cleaning, monitoring oral hygiene, and applying fluoride to prevent cavities and gum disease during orthodontic treatment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is occlusal adjustment?",
+    "answer": "Occlusal adjustment involves modifying the biting surfaces of teeth to achieve proper alignment and reduce excessive forces.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between anterior and posterior teeth?",
+    "answer": "Anterior teeth include incisors and canines used for cutting, while posterior teeth include premolars and molars used for grinding and chewing.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is pulpitis?",
+    "answer": "Pulpitis is inflammation of the dental pulp, causing sensitivity or pain, often requiring root canal treatment if irreversible.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral cancer screening?",
+    "answer": "Oral cancer screening involves examining the mouth for abnormal growths, lesions, or symptoms to detect cancer early.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for patients with cardiovascular disease?",
+    "answer": "It includes professional cleaning, monitoring gum health, and preventive measures to reduce systemic risk from oral bacteria.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental radiography for children?",
+    "answer": "Dental radiography for children is used to detect cavities, monitor growth, and assess development safely with minimal radiation exposure.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of nitrous oxide in dentistry?",
+    "answer": "Nitrous oxide is used as a sedative and analgesic to reduce anxiety and discomfort during dental procedures.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is a dental sealant?",
+    "answer": "A dental sealant is a protective coating applied to the chewing surfaces of teeth to prevent cavities.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth wear?",
+    "answer": "Tooth wear refers to the loss of tooth structure due to attrition, abrasion, erosion, or a combination of factors.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for patients undergoing chemotherapy?",
+    "answer": "It includes professional cleaning, monitoring for oral infections, and patient education, as chemotherapy increases oral complications.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between restorative and cosmetic dentistry?",
+    "answer": "Restorative dentistry repairs damaged or missing teeth, while cosmetic dentistry focuses on improving the appearance of teeth and smile.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental pulp exposure treatment?",
+    "answer": "Treatment depends on severity and may include pulp capping, root canal therapy, or extraction to prevent infection.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth fracture management?",
+    "answer": "Management includes bonding, crowns, root canal therapy, or extraction depending on the type and severity of the fracture.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for patients with braces?",
+    "answer": "It involves cleaning around brackets and wires, using floss threaders, and applying fluoride to prevent cavities.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral mucosal lesion?",
+    "answer": "Oral mucosal lesions are abnormal changes in the lining of the mouth, which can be ulcers, white patches, red patches, or growths.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between dental prosthesis and implant?",
+    "answer": "A dental prosthesis replaces missing teeth using removable or fixed devices, while an implant is surgically placed into the jawbone as a root replacement.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is alveolar bone loss?",
+    "answer": "Alveolar bone loss is the reduction of bone surrounding teeth, commonly due to periodontal disease or trauma.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for elderly patients with dentures?",
+    "answer": "It includes cleaning natural teeth, dentures, monitoring oral mucosa, and maintaining gum health to prevent infections.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth discoloration?",
+    "answer": "Tooth discoloration can be intrinsic or extrinsic, caused by foods, medications, trauma, or aging.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between root canal therapy and apexification?",
+    "answer": "Root canal therapy treats infected pulp, while apexification induces root-end closure in immature teeth with necrotic pulp.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of dental lasers?",
+    "answer": "Dental lasers are used for soft tissue surgery, cavity removal, whitening, and reducing bacteria in periodontal pockets.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral prophylaxis for patients with HIV?",
+    "answer": "It includes professional cleaning, monitoring for opportunistic infections, and maintaining strict oral hygiene due to immune compromise.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental splinting for mobile teeth?",
+    "answer": "Dental splinting stabilizes loose teeth caused by trauma or periodontal disease using wires or composite material.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth extraction procedure?",
+    "answer": "Tooth extraction involves removing a tooth surgically or non-surgically when it is damaged, infected, or impacted.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for patients with diabetes?",
+    "answer": "It involves enhanced cleaning, monitoring gums, patient education, and preventive measures due to higher risk of periodontitis.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is orthodontic retention?",
+    "answer": "Orthodontic retention maintains teeth in their new positions after braces or aligner therapy, using retainers.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental pulp testing?",
+    "answer": "Pulp testing determines the health and vitality of the tooth pulp using thermal, electric, or laser stimuli.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between direct and indirect restoration?",
+    "answer": "Direct restorations are placed and shaped in the mouth, while indirect restorations are made outside and cemented later.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis in children?",
+    "answer": "It includes cleaning, fluoride application, sealants, and education to prevent decay and promote oral health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth hypersensitivity treatment?",
+    "answer": "Treatment includes desensitizing toothpaste, fluoride application, bonding, or addressing underlying gum recession.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral pathology?",
+    "answer": "Oral pathology is the study, diagnosis, and treatment of diseases affecting the mouth, teeth, and jaws.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental erosion?",
+    "answer": "Dental erosion is the loss of enamel due to acids from foods, drinks, or gastric reflux.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth whitening procedure?",
+    "answer": "Tooth whitening removes stains or discoloration using bleaching agents like hydrogen peroxide or carbamide peroxide.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral hygiene instruction?",
+    "answer": "It involves educating patients on proper brushing, flossing, diet, and preventive practices to maintain oral health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for patients with cardiovascular implants?",
+    "answer": "It includes professional cleaning and preventive measures to avoid endocarditis caused by oral bacteria.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental pulp necrosis?",
+    "answer": "Pulp necrosis is the death of the pulp tissue, often resulting from infection, trauma, or deep decay.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of probiotics in dentistry?",
+    "answer": "Probiotics help maintain oral microbial balance, reduce harmful bacteria, and improve gum and dental health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental occlusal splint?",
+    "answer": "An occlusal splint is a device to treat bruxism, temporomandibular disorders, and bite misalignment.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral mucositis treatment?",
+    "answer": "Treatment involves pain management, antiseptic rinses, and maintaining oral hygiene, especially in chemotherapy patients.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between overjet and overbite?",
+    "answer": "Overjet is horizontal protrusion of upper teeth, while overbite is vertical overlap of upper teeth over lower teeth.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental pulp exposure prevention?",
+    "answer": "Prevention includes proper oral hygiene, regular check-ups, avoiding trauma, and early treatment of cavities.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth socket preservation?",
+    "answer": "Socket preservation involves placing bone grafts after extraction to maintain bone structure for future implants.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis in immunocompromised patients?",
+    "answer": "It involves thorough cleaning, antiseptic measures, and monitoring to prevent infections in high-risk individuals.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is orthodontic band?",
+    "answer": "An orthodontic band is a metal ring placed around a tooth to anchor braces and apply corrective forces.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the role of diet in dental health?",
+    "answer": "A balanced diet supports tooth mineralization, reduces decay risk, and promotes overall oral health.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the purpose of dental sealants in children?",
+    "answer": "Sealants protect the chewing surfaces of molars from cavities, especially in children prone to decay.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is tooth replantation?",
+    "answer": "Tooth replantation involves reinserting an avulsed tooth into its socket to preserve function and aesthetics.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral cancer risk factors?",
+    "answer": "Risk factors include tobacco use, alcohol consumption, HPV infection, sun exposure, and poor oral hygiene.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for smokers?",
+    "answer": "It includes cleaning, scaling, monitoring gums, and counseling on oral hygiene to reduce the increased risk of gum disease and decay.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is the difference between intrinsic and extrinsic stains?",
+    "answer": "Intrinsic stains occur inside the tooth structure, while extrinsic stains occur on the surface due to foods, drinks, or smoking.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is pulp capping in dentistry?",
+    "answer": "Pulp capping protects the pulp after minor exposure to prevent infection and preserve vitality.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is oral prophylaxis for pregnant women?",
+    "answer": "It includes safe cleaning, monitoring gum health, and preventive advice due to hormonal changes affecting oral tissues.",
+    "specialty": "dentistry"
+  },
+  {
+    "question": "What is dental prophylaxis for patients with braces?",
+    "answer": "It involves meticulous cleaning around brackets and wires to prevent plaque accumulation and cavities during orthodontic treatment.",
+    "specialty": "dentistry"
+  }
+]

@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "What is the drug of choice for both treatment and prophylaxis of *Pneumocystis* pneumonia?",
+    "answer": "Trimethoprim\u2013sulfamethoxazole (TMP\u2013SMX) is the drug of choice for both treating an active infection and for providing prophylaxis in at-risk patients.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key difference between how humans get intestinal taeniasis versus cysticercosis from *Taenia solium*?",
+    "answer": "Intestinal taeniasis (the adult tapeworm) is acquired by eating undercooked pork containing cysticerci (larvae). Cysticercosis (larval cysts in tissues) is acquired by ingesting the *eggs* of the tapeworm from fecal contamination.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Can a person get cysticercosis by eating undercooked pork?",
+    "answer": "No. Eating undercooked pork containing cysticerci leads to an intestinal tapeworm. Cysticercosis only occurs if a person swallows the eggs of *T. solium*.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is autoinfection in the context of *T. solium*?",
+    "answer": "Autoinfection can occur if an individual who has an adult pork tapeworm ingests eggs from their own feces, leading to the development of cysticercosis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the largest parasite of humans and how is it acquired?",
+    "answer": "The fish tapeworm, *Diphyllobothrium latum*, is the largest human parasite. It is acquired by ingesting infected raw or undercooked freshwater fish.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What vitamin deficiency is specifically associated with *Diphyllobothrium latum* infection?",
+    "answer": "The fish tapeworm absorbs large quantities of vitamin B12 from the host's gut, which can lead to a deficiency and subsequent megaloblastic anemia.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Which human tapeworm is the smallest and most common?",
+    "answer": "*Hymenolepis nana*, also known as the dwarf tapeworm, is the most common and smallest tapeworm, typically measuring only 2\u20134 cm in length.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is unique about the life cycle of the dwarf tapeworm, *Hymenolepis nana*?",
+    "answer": "It is the only human tapeworm that does not require an intermediate host; both its larval and adult stages can develop within a single human host.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is another name for echinococcosis, and what causes it?",
+    "answer": "Echinococcosis is also known as hydatid disease. It is caused by the larval stage of the dog tapeworm, *Echinococcus granulosus*, which forms hydatid cysts in the host's organs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the definitive and intermediate hosts in the life cycle of *Echinococcus granulosus*?",
+    "answer": "The definitive hosts are dogs. The usual intermediate hosts are sheep and cattle. Humans can act as accidental intermediate hosts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the major risk of rupturing a hydatid cyst?",
+    "answer": "The rupture or leakage of cyst fluid can cause a severe anaphylactic reaction and can also disseminate the infectious protoscolices, leading to the formation of new cysts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the PAIR procedure used to treat?",
+    "answer": "PAIR (Percutaneous Aspiration, Infusion of scolicidal agents, and Re-aspiration) is the treatment of choice for uncomplicated *E. granulosus* (hydatid) cysts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are nematodes?",
+    "answer": "Nematodes are roundworms. Intestinal nematodes are a group of these worms that infect the human gut.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the infective stage of *Ascaris lumbricoides* (roundworm)?",
+    "answer": "The infective stage is the embryonated egg, which becomes infective after maturing in the soil for several weeks.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is L\u00f6ffler's syndrome?",
+    "answer": "It is a type of eosinophilic pneumonitis that can occur when *Ascaris* larvae migrate through the lungs, causing cough, dyspnea, and transient round or oval infiltrates on a chest X-ray.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can a heavy infection with *Ascaris* worms cause an acute abdominal emergency?",
+    "answer": "In heavy infections, a large mass of entangled worms can cause intestinal obstruction. A single worm can also migrate into and block the biliary tree, causing cholangitis or pancreatitis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the infective stage of hookworms?",
+    "answer": "The infective stage is the filariform larva, which develops in soil and penetrates the host's skin.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is \"ground itch\"?",
+    "answer": "\"Ground itch\" is a pruritic maculopapular dermatitis that can occur at the site of skin penetration by hookworm filariform larvae.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main clinical consequence of a chronic hookworm infection?",
+    "answer": "The main consequence is iron deficiency anemia, resulting from chronic blood loss as the adult worms attach to the intestinal mucosa and suck blood.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is meant by \"autoinfection\" in strongyloidiasis?",
+    "answer": "Autoinfection is a process where rhabditiform larvae in the intestine develop into infective filariform larvae, which then penetrate the colonic wall or perianal skin to re-enter the bloodstream and restart the life cycle without ever leaving the host.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the pathognomonic skin manifestation of strongyloidiasis?",
+    "answer": "The pathognomonic sign is \"larva currens\" (running larva), a serpiginous, raised, erythematous lesion that moves very rapidly under the skin.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What gives *Trichuris trichiura* its common name, \"whipworm\"?",
+    "answer": "The worm has a characteristic whip-like shape, with a long, thin anterior end and a thicker posterior end.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What serious complication can occur in children with heavy whipworm infections?",
+    "answer": "In children with heavy infections, rectal prolapse can occur, along with abdominal pain and growth retardation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the cardinal symptom of pinworm (*Enterobius vermicularis*) infection?",
+    "answer": "The cardinal symptom is perianal itching, which is typically worse at night.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How are pinworm eggs best detected?",
+    "answer": "They are best detected by applying clear cellophane tape to the perianal region in the morning and then examining the tape under a microscope for the characteristic eggs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the four main filarial species responsible for most human infections?",
+    "answer": "The four main species are *Wuchereria bancrofti*, *Brugia malayi*, *Onchocera volvulus*, and *Loa loa*.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the most common human filarial infection worldwide?",
+    "answer": "*Wuchereria bancrofti* is the most common, causing lymphatic filariasis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the vector for *Wuchereria bancrofti*?",
+    "answer": "The vectors are mosquitoes; *Culex* mosquitoes in urban settings and *Anopheles* or *Aedes* mosquitoes in rural areas.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the periodicity of *W. bancrofti* microfilariae?",
+    "answer": "The microfilariae are typically nocturnally periodic, meaning they are found in the peripheral blood mainly at night.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is adenolymphangitis (ADL) in the context of filariasis?",
+    "answer": "ADL is an acute stage of infection characterized by episodes of fever, lymphangitis (inflammation of lymphatic vessels), and lymphadenitis (inflammation of lymph nodes).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the lymphangitis of filariasis typically spread?",
+    "answer": "It is a retrograde lymphangitis, meaning it extends downwards from the affected lymph node toward the periphery.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is chyluria and how is it caused by filariasis?",
+    "answer": "Chyluria is the presence of chyle (lymphatic fluid) in the urine, giving it a milky appearance. It is caused by the rupture of renal lymphatics due to blockage by *W. bancrofti* worms.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is elephantiasis?",
+    "answer": "Elephantiasis is a manifestation of chronic filarial disease caused by severe lymphatic damage, leading to non-pitting edema, thickening of subcutaneous tissues, and hyperkeratosis of the skin.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is Tropical Pulmonary Eosinophilia (TPE)?",
+    "answer": "TPE is a rare manifestation of filariasis that presents with low-grade fever, wheezing, and an extremely high blood eosinophil count, believed to be a hypersensitivity reaction to microfilariae.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the most reliable way to diagnose an active *W. bancrofti* infection?",
+    "answer": "An antigen detection test, using either ELISA or an immunochromatographic card test, is a reliable method for detecting active infection.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can adult filarial worms sometimes be visualized?",
+    "answer": "Motile adult worms can sometimes be identified within dilated lymphatics (often in the scrotum) using ultrasound and Doppler imaging.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "For which filarial species are there currently no antigen tests?",
+    "answer": "There are currently no antigen tests available to detect brugian filariasis (caused by *Brugia malayi* and *B. timori*).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the drug of choice for treating intestinal roundworms like *Ascaris*?",
+    "answer": "Albendazole or mebendazole are the drugs of choice.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "In treating neurocysticercosis, why are corticosteroids often given alongside antiparasitic drugs?",
+    "answer": "Corticosteroids are given to suppress the inflammatory response that occurs as the parasites die, which can otherwise exacerbate neurological symptoms like seizures and cerebral edema.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How is a hookworm infection treated?",
+    "answer": "It is treated with a single dose of albendazole or mebendazole, or a 3-day course of pyrantel pamoate. Iron supplementation is also critical for treating the associated anemia.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is Winterbottom's sign and what infection is it characteristic of?",
+    "answer": "Winterbottom's sign is the enlargement of lymph nodes in the posterior cervical triangle, which is a characteristic sign of African trypanosomiasis caused by *Trypanosoma brucei gambiense*.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the main CNS symptoms that give African trypanosomiasis its common name, \"sleeping sickness\"?",
+    "answer": "CNS involvement produces sleepiness during the day and insomnia at night, along with mental confusion, which can progress to coma and death.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is babesiosis and what are its primary symptoms?",
+    "answer": "Babesiosis is a tick-borne infectious disease caused by the protozoan *Babesia*. It causes a malaria-like illness with symptoms including fever, chills, sweats, headache, myalgia, and hemolytic anemia.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary vector for the transmission of *Babesia microti*?",
+    "answer": "The primary vector is the nymphal stage of the deer tick, *Ixodes scapularis*.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the recommended treatment for mild-to-moderate babesiosis?",
+    "answer": "The recommended treatment is a combination of oral atovaquone plus azithromycin for 7\u201310 days.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What animal is the definitive host for *Toxoplasma gondii*?",
+    "answer": "The domestic cat is the definitive host, meaning the sexual phase of the parasite's life cycle occurs within the cat, leading to the production of oocysts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the two primary ways humans acquire toxoplasmosis?",
+    "answer": "Humans acquire the infection either by ingesting oocysts from food, water, or soil contaminated with cat feces, or by eating raw or undercooked meat containing tissue cysts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the characteristic finding on a brain CT or MRI scan in CNS toxoplasmosis?",
+    "answer": "The characteristic finding is multiple ring-enhancing intracranial lesions, especially in immunocompromised patients.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the classic treatment combination for toxoplasmosis?",
+    "answer": "The standard treatment is a combination of pyrimethamine plus either sulfadiazine or clindamycin.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the causative agent of Pneumocystis pneumonia (PCP)?",
+    "answer": "PCP is caused by *Pneumocystis jiroveci*, an opportunistic fungal pathogen that was formerly known as *Pneumocystis carinii*.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "In which patients is *Pneumocystis* pneumonia (PCP) most commonly seen?",
+    "answer": "PCP is an opportunistic infection most commonly seen in immunocompromised individuals, particularly HIV patients with a CD4+ count below 200/\u03bcL.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the characteristic clinical features of *Pneumocystis* pneumonia?",
+    "answer": "Patients typically present with fever, progressive dyspnea, and a dry, non-productive cough. A key finding is that symptoms are often more severe than the physical signs on lung examination.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the drug of choice for treating *Pneumocystis* pneumonia?",
+    "answer": "Trimethoprim\u2013sulfamethoxazole (TMP\u2013SMX) is the drug of choice for treatment and is also used for prophylaxis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key difference between how humans get intestinal taeniasis versus cysticercosis from *Taenia solium*?",
+    "answer": "Intestinal taeniasis (the adult tapeworm) is acquired by eating undercooked pork containing cysticerci (larvae). Cysticercosis (larval cysts in tissues) is acquired by ingesting the *eggs* of the tapeworm from fecal contamination.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the largest parasite of humans and how is it acquired?",
+    "answer": "The fish tapeworm, *Diphyllobothrium latum*, is the largest human parasite. It is acquired by ingesting infected raw or undercooked freshwater fish.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is unique about the life cycle of the dwarf tapeworm, *Hymenolepis nana*?",
+    "answer": "It is the only human tapeworm that does not require an intermediate host; both its larval and adult stages can develop within a single human host.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is echinococcosis, or hydatid disease?",
+    "answer": "It is an infection caused by the larval stage of the dog tapeworm, *Echinococcus granulosus*, which forms fluid-filled hydatid cysts in the host's organs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the major risk of rupturing a hydatid cyst?",
+    "answer": "The rupture or leakage of cyst fluid can cause a severe anaphylactic reaction and can also disseminate the infectious protoscolices, leading to the formation of new cysts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is L\u00f6ffler's syndrome?",
+    "answer": "It is a type of eosinophilic pneumonitis that can occur when *Ascaris* larvae migrate through the lungs, causing cough, dyspnea, and transient round or oval infiltrates on a chest X-ray.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main clinical consequence of a chronic hookworm infection?",
+    "answer": "The main consequence is iron deficiency anemia, resulting from chronic blood loss as the adult worms attach to the intestinal mucosa and suck blood.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is meant by \"autoinfection\" in strongyloidiasis?",
+    "answer": "Autoinfection is a process where larvae in the intestine develop into the infective form, which then penetrate the intestinal wall or perianal skin to re-enter the bloodstream and restart the life cycle without ever leaving the host.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the cardinal symptom of pinworm (*Enterobius vermicularis*) infection?",
+    "answer": "The cardinal symptom is perianal itching, which is typically worse at night.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How is a pinworm infection diagnosed?",
+    "answer": "It is diagnosed by applying clear cellophane tape to the perianal region in the morning and then examining the tape under a microscope for the characteristic oval, flattened eggs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is lymphatic filariasis?",
+    "answer": "It is a parasitic disease caused by thread-like filarial worms, primarily *Wuchereria bancrofti*, where the adult worms live in the human lymphatic system, causing severe damage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the periodicity of *Wuchereria bancrofti* microfilariae?",
+    "answer": "*W. bancrofti* is typically nocturnally periodic, meaning the microfilariae are found in the peripheral blood mainly at night.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is chyluria and how is it caused by filariasis?",
+    "answer": "Chyluria is the presence of chyle (lymphatic fluid) in the urine, giving it a milky appearance. It is caused by the rupture of renal lymphatics due to blockage by *W. bancrofti* worms.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is elephantiasis?",
+    "answer": "Elephantiasis is a manifestation of chronic filarial disease caused by severe lymphatic damage, leading to non-pitting edema, thickening of subcutaneous tissues, and hyperkeratosis of the skin.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is Tropical Pulmonary Eosinophilia (TPE)?",
+    "answer": "TPE is a rare manifestation of filariasis that presents with nocturnal dry cough, wheezing, low-grade fever, and an extremely high blood eosinophil count, believed to be a hypersensitivity reaction to microfilariae.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the drug of choice for treating lymphatic filariasis?",
+    "answer": "Diethylcarbamazine (DEC) is the drug of choice, as it has action against both the adult worms and the microfilariae.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the causative agent of onchocerciasis?",
+    "answer": "Onchocerciasis is caused by the filarial nematode *Onchocerca volvulus*.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is onchocerciasis also known as \"river blindness\"?",
+    "answer": "It is called river blindness because the vector, the *Simulium* blackfly, breeds in flowing water, and the infection is the second leading infectious cause of blindness worldwide.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the Mazzotti reaction?",
+    "answer": "The Mazzotti reaction is a localized cutaneous reaction (pruritus, maculopapular eruptions) that is elicited by the topical application of DEC, which kills microfilariae in the skin. A positive reaction is highly suggestive of onchocerciasis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the drug of choice for onchocerciasis?",
+    "answer": "Ivermectin is the drug of choice. It kills the microfilariae but not the adult worms, so it must be repeated at 6- to 12-month intervals for many years.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the causative agent of dracunculiasis?",
+    "answer": "Dracunculiasis is a parasitic infection caused by the Guinea worm, *Dracunculus medinensis*.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How do humans acquire a Guinea worm infection?",
+    "answer": "Humans become infected by drinking stagnant water that contains microcrustaceans (Cyclops) which are infected with the infective larvae of the worm.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the common name for schistosomiasis?",
+    "answer": "Schistosomiasis is also known as bilharziasis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How do humans acquire schistosomiasis?",
+    "answer": "Infection is acquired when the skin comes into contact with fresh water that is contaminated with the infective larval stage of the fluke, called cercariae, which penetrate the skin.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is Katayama fever?",
+    "answer": "Katayama fever, or acute schistosomiasis syndrome, is a serum sickness-like illness with fever, hepatosplenomegaly, and eosinophilia that occurs during the worm maturation phase of the infection.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Which species of *Schistosoma* causes urinary tract disease?",
+    "answer": "*Schistosoma haematobium* typically migrates to the venous plexus of the urinary bladder, causing inflammation, hematuria, and fibrosis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What type of cancer is associated with chronic *S. haematobium* infection?",
+    "answer": "Chronic inflammation of the bladder from egg deposition can lead to the development of squamous cell carcinoma of the bladder.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the drug of choice for treating all major *Schistosoma* species?",
+    "answer": "Praziquantel is the effective treatment for infections with all major species of *Schistosoma*.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the most common yeast causing human disease?",
+    "answer": "*Candida albicans* is the most common species of the genus *Candida* that causes human fungal infections.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is oropharyngeal candidiasis commonly called?",
+    "answer": "Oropharyngeal candidiasis is commonly known as thrush.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the treatment of choice for invasive candidiasis?",
+    "answer": "Intravenous amphotericin B is the drug of choice for invasive or systemic candidiasis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is an aspergilloma?",
+    "answer": "An aspergilloma is a fungus ball composed of *Aspergillus* hyphae that can form within a pre-existing pulmonary cyst or cavity.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is Allergic Bronchopulmonary Aspergillosis (ABPA)?",
+    "answer": "ABPA is an allergic reaction to *Aspergillus* species that can occur in patients with asthma or cystic fibrosis, leading to worsening bronchospasm and wheezing.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the most common clinical presentation of mucormycosis?",
+    "answer": "The most common presentation is rhinocerebral infection, where the fungus involves the nose and sinuses and can rapidly spread to the orbit and brain, often presenting with black necrotic lesions.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Which underlying medical condition is a major predisposing factor for mucormycosis?",
+    "answer": "Diabetic ketoacidosis is a major predisposing factor for developing this opportunistic fungal infection.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the commonest form of sporotrichosis?",
+    "answer": "Lymphocutaneous sporotrichosis is the most common form. It starts as a nodule at the site of inoculation which then ulcerates, followed by the appearance of similar nodules along the draining lymphatic vessels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the two main types of immunization?",
+    "answer": "The two types are active immunization, which uses vaccines to stimulate the body's own immune response, and passive immunization, which involves administering pre-formed antibodies.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the increasing focus on rural sanitation indicate about India's development priorities?",
+    "answer": "The growing attention to rural sanitation in India reflects a significant shift in development priorities toward improving public health, hygiene, and overall quality of life in rural areas. It shows the government's recognition that sanitation is essential for disease prevention and community well-being.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Who are the key stakeholders involved in improving rural sanitation in India?",
+    "answer": "The key stakeholders include political representatives, government officials, civil society organizations, and rural communities themselves, all of whom play a vital role in promoting sanitation initiatives and ensuring their sustainability.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What government initiative served as a milestone in the progress of rural sanitation?",
+    "answer": "The introduction of the Nirmal Gram Puraskar (NGP), which provided incentives for achieving sanitation outcomes and was presented by the President of India, marked a major milestone in promoting rural sanitation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How did financial planning contribute to improvements in rural sanitation?",
+    "answer": "The national government\u2019s increasing allocation of funds for sanitation across successive Five-Year Plans enabled large-scale construction of sanitation facilities, awareness campaigns, and incentive-based programs for rural households.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is rural sanitation critical for community development?",
+    "answer": "Rural sanitation is crucial because it directly impacts public health, reduces waterborne diseases, improves school attendance, and enhances the dignity and safety of rural populations, especially women and children.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How has political support influenced rural sanitation in India?",
+    "answer": "Political support has played a pivotal role by ensuring sustained funding, policy prioritization, and leadership engagement at various administrative levels, thereby accelerating the implementation of sanitation schemes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What were the visible outcomes of the Nirmal Gram Puraskar scheme?",
+    "answer": "The NGP scheme led to thousands of villages achieving open defecation-free (ODF) status, boosted community participation, and motivated other regions to adopt similar sanitation goals through a sense of recognition and pride.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How has rural sanitation evolved over the years according to government planning documents?",
+    "answer": "Over successive Five-Year Plans, rural sanitation evolved from a neglected issue to a central focus of national development, with a shift toward community-led approaches and measurable outcome-based incentives.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is community participation essential for rural sanitation success?",
+    "answer": "Community participation ensures ownership, long-term maintenance, and behavioral change, which are critical for sustaining sanitation facilities and preventing the return to open defecation practices.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does rural sanitation contribute to public health outcomes?",
+    "answer": "Effective rural sanitation reduces the incidence of diarrheal diseases, parasitic infections, and other hygiene-related illnesses, thereby improving overall public health and reducing healthcare burdens.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the relationship between sanitation coverage and rural population growth?",
+    "answer": "Despite an exponential increase in sanitation coverage, population growth in rural areas has offset some progress, making it necessary for sanitation strategies to consider demographic expansion.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is sustained behavioral change a major challenge in rural sanitation?",
+    "answer": "Sustaining behavioral change is challenging because it requires ongoing awareness, community engagement, and consistent usage of toilets, which often decline once initial campaigns or incentives end.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What were the findings of the UNICEF 2008 study regarding sanitation usage?",
+    "answer": "The UNICEF 2008 study found that although 81% of the population had access to toilets, only 63% used them, highlighting a gap between infrastructure access and consistent utilization.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the significance of NGP villages in rural sanitation studies?",
+    "answer": "NGP villages are significant because they represent early adopters of sanitation reform, serving as benchmarks for success while also revealing challenges in sustaining open defecation-free status over time.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does toilet quality affect usage levels in rural India?",
+    "answer": "Poor-quality toilets often lead to disuse or conversion for other purposes, discouraging households from maintaining sanitation facilities and reducing overall usage rates despite coverage expansion.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some key reasons behind dysfunctional rural toilets?",
+    "answer": "Common reasons include poor construction, filled or choked pits, incorrect placement, lack of maintenance, and insufficient water availability for water-seal toilets.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why does poverty remain a persistent barrier in rural sanitation?",
+    "answer": "Poverty restricts households from affording proper sanitation construction and maintenance, even with government subsidies, making it one of the most consistent obstacles to achieving universal coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the Total Sanitation Campaign (TSC) support poor households?",
+    "answer": "The TSC provides financial incentives and subsidies to Below Poverty Line (BPL) households, encouraging them to construct and use toilets, thereby promoting inclusivity in sanitation improvement.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What factors lead to slippage in sanitation status across states?",
+    "answer": "Slippage occurs due to differences in community awareness, local governance, quality of construction, and lack of continuous behavioral reinforcement programs, leading to varying outcomes across states.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What lesson can be drawn from the TARU study on rural sanitation?",
+    "answer": "The TARU study underscores that achieving access to sanitation is insufficient without ensuring consistent usage, emphasizing the need for quality infrastructure and long-term community engagement.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the government address dysfunctional toilets in rural areas?",
+    "answer": "The government has implemented monitoring, repair programs, and awareness drives to identify dysfunctional toilets, improve construction standards, and ensure that sanitation infrastructure remains usable.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What role does the Joint Monitoring Programme (JMP) play in sanitation tracking?",
+    "answer": "The JMP conducts third-party evaluations to assess the actual progress of sanitation programs, ensuring accountability and identifying gaps between reported coverage and real-world conditions.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What correlation exists between sanitation and public health improvement?",
+    "answer": "Improved sanitation directly correlates with reduced disease prevalence, lower child mortality, and overall health gains, demonstrating that sanitation is foundational to public health progress.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What community-level issues affect sanitation sustainability?",
+    "answer": "Issues such as social stigma, lack of awareness, inadequate maintenance culture, and poor leadership involvement hinder sustained sanitation usage at the community level.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is open defecation a recurring issue in rural India?",
+    "answer": "Open defecation persists due to poverty, cultural habits, lack of water supply, and poor toilet quality, which together discourage consistent toilet usage even in areas with access to facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the government\u2019s increasing sanitation funding signify?",
+    "answer": "It signifies recognition of sanitation as a national development and health priority, with expanded funding aimed at achieving universal coverage and improving rural living standards.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can technology assist in improving rural sanitation?",
+    "answer": "Technology can enhance monitoring, enable smart toilets, improve waste management, and support digital awareness campaigns to promote hygiene practices in rural regions.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the key outcomes expected from sanitation incentive programs?",
+    "answer": "Incentive programs aim to achieve sustained toilet use, eliminate open defecation, and instill long-term hygiene behaviors through community motivation and financial rewards.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does awareness affect the effectiveness of sanitation schemes?",
+    "answer": "Awareness directly affects scheme effectiveness; informed communities are more likely to adopt and maintain sanitation facilities, ensuring the longevity of hygiene practices.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What long-term approach is needed to ensure rural sanitation success?",
+    "answer": "A long-term approach combining infrastructure development, behavioral change communication, consistent monitoring, and local ownership is necessary for sustainable sanitation success.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What factors contributed to the increasing profile of rural sanitation in India?",
+    "answer": "The growing attention to rural sanitation in India was due to increased government allocations over successive Five-Year Plans, the introduction of the Nirmal Gram Puraskar (NGP) with presidential incentives, and rising engagement among political representatives, government servants, and rural communities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why was the real impact of rural sanitation coverage difficult to assess despite its growth?",
+    "answer": "The real impact was hard to appreciate because the rapid population growth in rural areas offset the progress made in sanitation coverage, meaning that despite increased facilities, the number of uncovered households remained significant.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key challenge in sustaining sanitation coverage over time?",
+    "answer": "Sustaining sanitation coverage requires maintaining consistent behavior change within communities, as studies show that awareness, community engagement, and toilet usage rates vary widely across states.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the UNICEF 2008 study reveal about sanitation usage in India?",
+    "answer": "The UNICEF 2008 study revealed that while 81% of the population had access to sanitation facilities, only 63% actually used them, indicating a major gap between access and consistent usage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What did the TARU study conclude about NGP-awarded Gram Panchayats?",
+    "answer": "The TARU study found that only 109 out of 162 NGP-awarded Gram Panchayats had toilet usage levels above 60%, while many others reverted to open defecation, showing that awards did not always ensure sustained usage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What challenges did third-party studies such as JMP and NSSO highlight in rural sanitation?",
+    "answer": "Both the Joint Monitoring Programme (JMP) and the NSSO studies highlighted the gap between sanitation coverage and actual usage, emphasizing that merely building toilets does not guarantee their consistent use.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the main reasons for dysfunctional sanitation facilities in rural areas?",
+    "answer": "Dysfunctional sanitation facilities often result from poor-quality construction, filled or choked pits, incorrect placement, lack of maintenance, and repurposing of toilets for storage, compounded by inadequate water availability.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does water availability affect sanitation sustainability in rural India?",
+    "answer": "Water availability is a key factor in maintaining water-seal toilets; insufficient water supply can render toilets unusable, forcing communities back to open defecation and undermining sanitation progress.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What role does poverty play in hindering rural sanitation development?",
+    "answer": "Poverty acts as a major barrier to rural sanitation, as poor households may lack funds, land, or motivation to build and maintain toilets, even with government incentives provided under the Total Sanitation Campaign (TSC).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the government address poverty-related barriers in sanitation programs?",
+    "answer": "The government continues to provide incentives to Below Poverty Line (BPL) families under schemes like TSC, acknowledging that economic support is essential for motivating toilet construction and consistent use among poor households.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the CMS Study identify as common reasons for lack of sanitation facilities?",
+    "answer": "The CMS Study identified poverty, insufficient land, neglect, and lack of awareness as primary reasons why many rural families do not possess or use sanitation facilities effectively.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How did government initiatives like NGP influence community behavior toward sanitation?",
+    "answer": "Programs like NGP, which rewarded villages achieving open defecation-free status, encouraged local leadership and community mobilization, helping to promote awareness and pride in maintaining clean and hygienic environments.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What strategies are needed to maintain sanitation gains amidst population growth?",
+    "answer": "Strategies must integrate population projections into sanitation planning, ensuring infrastructure growth keeps pace with demographic expansion, and that awareness programs are continually reinforced.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does community awareness influence toilet usage rates?",
+    "answer": "Community awareness strongly influences toilet usage, as higher awareness correlates with higher adoption and maintenance rates, while low awareness leads to slippage and return to open defecation practices.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the significance of third-party monitoring in sanitation programs?",
+    "answer": "Third-party monitoring, such as by JMP or NSSO, provides unbiased assessments of sanitation progress, helping identify discrepancies between reported coverage and actual on-ground usage for policy improvement.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why do some NGP villages still show less than 100% toilet usage?",
+    "answer": "Despite being recognized for sanitation achievements, many NGP villages show less than full usage due to issues like poor construction quality, water shortages, or declining behavioral commitment over time.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can poor-quality toilet construction impact sanitation outcomes?",
+    "answer": "Poor construction can lead to early toilet failure, making them unusable and discouraging continued usage, which in turn causes a relapse into open defecation and loss of community trust in the initiative.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the data from the CMS and UNICEF studies collectively indicate about sanitation progress?",
+    "answer": "Both studies highlight that while access to sanitation has expanded, behavioral adoption and infrastructure maintenance lag behind, underscoring the need for quality assurance and sustained behavioral interventions.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the broader implication of sanitation challenges on rural health?",
+    "answer": "Inadequate sanitation usage contributes to waterborne diseases, malnutrition, and child mortality, indicating that sanitation is not merely an infrastructure issue but a core determinant of rural health outcomes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is it essential to continue incentive-based sanitation programs?",
+    "answer": "Incentive-based programs are vital as they motivate economically weaker sections to participate in sanitation schemes, ensuring inclusivity and sustained progress toward national cleanliness and health goals.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary focus of the Total Sanitation Campaign (TSC), and what areas does it cover?",
+    "answer": "The Total Sanitation Campaign (TSC) primarily focuses on sanitation in households, schools, and institutions to create Open Defecation Free (ODF) communities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "According to the document, what is the key issue for future rural sanitation policy?",
+    "answer": "A key issue for future rural sanitation policy is to integrate improved hygiene and environmental sanitation into sanitation programs at a large scale.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main weakness of the TSC's demand-driven approach?",
+    "answer": "A main weakness is the lack of capacity among government functionaries at the state and district levels to implement a demand-driven approach, which often leads to incentives being used as subsidies and becoming the primary, unsustainable driver for achieving toilet coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why does the document suggest that sanitation is more a social issue than an engineering issue?",
+    "answer": "The document suggests that sanitation is more a social issue because states where the TSC is implemented by the Department of Panchayati Raj or Rural Development have shown better progress than those where it is handled by the Public Health Engineering (PHE) Department.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a significant threat to rural sanitation progress related to population?",
+    "answer": "A significant threat is that the rate of population growth may outstrip the rate of increase in scaling up rural sanitation, limiting the impact of rapid coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the document describe the role of Self-Help Groups (SHGs) and women's groups in sanitation?",
+    "answer": "The document states that women's SHGs perform well in key activities and could provide a systematic administrative machinery at the grassroots level to manage revolving funds, empowering women in decision-making related to sanitation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the two levels at which an \"enabling environment\" is understood in the context of rural sanitation?",
+    "answer": "An enabling environment is understood at two levels: at the macro level, it involves the mobilization of political and administrative will to support program implementation; at the grassroots level, it is the inclination towards behavior change to end open defecation and achieve total sanitation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the primary strengths of the Total Sanitation Campaign (TSC)?",
+    "answer": "The primary strengths of the TSC include the existence of political and administrative will at the national and state levels, the mobilization of financial resources, a well-developed private sector for sanitary products, and the use of post-achievement incentives like the Nirmal Gram Puraskar (NGP) to motivate communities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary reason for the lack of attention to Solid and Liquid Waste Management (SLWM) in the campaign?",
+    "answer": "Solid and Liquid Waste Management (SLWM) has not received much attention because the campaign has concentrated on creating an ODF environment first.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How do local faith leaders act as a force for positive change in sanitation?",
+    "answer": "Local faith leaders are positioned to mobilize communities and work with them to improve sanitation and hygiene behavior. They can serve as messengers, demonstrators, and implementers, and their long-term commitment makes them ideal guardians for project sustainability.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main reason for the varied sanitation coverage across different states?",
+    "answer": "The main reason for the varied sanitation coverage is the varying degrees of attention and priority given to the TSC and NGP at the political and administrative levels within each state.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the significant gap identified in the monitoring of the sanitation campaign?",
+    "answer": "There is a significant gap in monitoring, as coverage has become the dominant indicator, with limited monitoring of actual toilet usage, quality, and health impacts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How do the TSC guidelines empower local government institutions and promote decentralization?",
+    "answer": "The TSC guidelines stress the lead role of the Gram Panchayat and advocate for a community-led, demand-driven, participatory approach, thereby empowering local government institutions as the primary actors in delivery and sustainability.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main issue with the current system of providing incentives only to Below Poverty Line (BPL) households?",
+    "answer": "Providing incentives only to BPL households can break community spirit, as it can lead to neglect of Above Poverty Line (APL) households and foster a subsidy culture, making it difficult to build the community cohesion needed for collective outcomes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is the coordination between the sanitation program and related departments like health and education considered weak?",
+    "answer": "Coordination is weak due to communication gaps and a tendency for field functionaries to implement their program in isolation, preventing the sanitation program from being a broader sectoral intervention where every department has a stake.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of post-achievement incentives like the Nirmal Gram Puraskar (NGP) in the TSC?",
+    "answer": "Post-achievement incentives like the NGP motivate local governments and communities to achieve sanitation outcomes. This approach also helps ensure the inclusion of the poor and disadvantaged in the achievements.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the document describe the availability of the private sector for sanitary products?",
+    "answer": "The document describes the private sector for sanitary products as well-developed, with a market network for both formal (e.g., pans, pipes) and informal (e.g., bricks, sand) materials, offering a variety of products for different affordability brackets.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key behavioral challenge highlighted in the document regarding rural sanitation?",
+    "answer": "A key behavioral challenge is that social and cultural norms in rural India accept open defecation as a traditional behavior, which acts as a serious impediment to behavior change and threatens the long-term sustainability of sanitation efforts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the TSC's financial support for rural sanitation signify?",
+    "answer": "The TSC's financial support signifies that sanitation is a high priority for the Government of India, having been included as a key flagship program with a substantial budget to reward communities that achieve outcomes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How do the TSC guidelines address the need for a demand-driven approach at the community level?",
+    "answer": "The TSC guidelines explicitly support a demand-driven and participatory approach at the community level, recognizing that safe sanitation is a habit and that the community itself is the key actor in changing its sanitation status.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the main weaknesses identified in the implementation of the sanitation program?",
+    "answer": "Key weaknesses include the lack of capacity for a demand-driven approach, limited monitoring of usage and quality, a tendency to use Gram Panchayats as agents for toilet construction instead of sustainable service delivery, and a weak focus on hygiene promotion and Solid and Liquid Waste Management (SLWM).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some of the identified opportunities for scaling up rural sanitation efforts?",
+    "answer": "Opportunities include increased awareness among stakeholders, the existence of successful models in all states for scaling up, and successful demonstrations of community-led approaches that lead to more sustainable outcomes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What potential negative effect can accelerating sanitation coverage sometimes have?",
+    "answer": "The attempt to accelerate sanitation coverage, while beneficial, can sometimes result in communities slipping back into open defecation after a period of time, as behavior change is a slow process.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a major institutional weakness in the sanitation program related to operation and maintenance?",
+    "answer": "There is no provision in the existing guidelines for the operation and maintenance of existing sanitation facilities, which is a key issue for sustained sanitation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the document propose involving women's Self-Help Groups (SHGs) more effectively in the sanitation campaign?",
+    "answer": "The document suggests exploring an option to combine government incentive amounts with soft-term loans and route them through women's SHGs created under the National Rural Livelihood Mission (NRLM).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a major threat to sanitation facilities in flood-prone areas?",
+    "answer": "A major threat is that there are no provisions in the existing guidelines to provide funding for natural calamities, which can result in sanitation facilities being washed away or becoming unusable after floods, causing communities to slip back to open defecation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is it important for an entire community to adopt safe sanitation practices, even if many individuals have toilets?",
+    "answer": "Safe sanitation becomes meaningful and effective only when an entire community adopts it, because even if a few people practice open defecation, the entire community remains exposed to sickness and disease.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main issue with the current approach to Information, Education, and Communication (IEC) in the sanitation campaign?",
+    "answer": "The main issue with IEC is that it is decentralized, and there is no central communication strategy to lead the campaign at the national level.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is the TSC considered a high priority social sector program at the macro level?",
+    "answer": "The TSC is considered a high-priority social sector program due to strong government buy-in at all levels, evidenced by a progressive increase in financial resources, the up-scaling of project districts, and receiving priority attention from political leaders, including the President of India.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the significance of the private sector in the context of the TSC's success?",
+    "answer": "The well-developed private sector provides a readily available supply network for sanitary products, offering a variety of formal and informal materials at the village or block level, which supports the physical construction of sanitation facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary function of institutions at the policy level in the context of sanitation service delivery?",
+    "answer": "According to the text, institutions at the policy level, such as the SWSM and DWSM, are responsible for making broad decisions regarding the policies and implementation approaches for sanitation programs within the overall guidelines.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of a dedicated sanitation cell within the institutional framework, and at what levels is it considered useful?",
+    "answer": "A dedicated sanitation cell is a specific part of the holistic institutional framework that is held accountable for implementing sanitation initiatives. It is considered useful at all administrative levels, from the national and state down to the district and block levels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How do the functions of the dedicated sanitation cell vary depending on the level at which it is placed?",
+    "answer": "The text explains that the functions vary by level. At the state level, the cell provides a facilitating role, focusing on capacity building and communication activities. At the district and block levels, its focus is on the actual implementation and monitoring of sanitation campaigns at the GP (Gram Panchayat) level.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What role do support organizations like NGOs and CBOs play in the sanitation process?",
+    "answer": "Support organizations, such as NGOs and CBOs, can play a facilitating role for government institutions by assisting with community mobilization and capacity building.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is the Gram Panchayat considered the ideal institution to promote total sanitation?",
+    "answer": "The Gram Panchayat is considered ideal for promoting total sanitation because it is locally based, has a strong outreach and mandate as per the 73rd constitutional amendment, and is in a good position to facilitate long-term monitoring and support of rural sanitation services.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key to scaling up and promoting the sustainability of sanitation initiatives, and what role do communities play in this process?",
+    "answer": "The involvement of Panchayats, with support from civil society organizations, is key to accelerating scaling up and promoting sustainability. However, the text emphasizes that communities must be empowered to \"own the process\" of changing their sanitation status.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can commercial sanitary ware suppliers and masonry services contribute to the sanitation process?",
+    "answer": "These suppliers and services can support the process by responding to demand for various technology products and toilet options at different affordability levels. This can be done through the private sector, local entrepreneurs, community groups, NGOs, Rural Sanitary Marts, or cooperatives.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "According to the text, what is the significance of the corporate sector in the context of sanitation in India?",
+    "answer": "While sanitation has not been a high priority for the corporate world in India, the text suggests that getting sanitation on the corporate social responsibility (CSR) agenda is a \"ripe time.\" It can lead to new technologies, innovations, and better management of solid and liquid waste.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the UN initiative, the Global Compact, help in involving corporate houses for the cause of sanitation?",
+    "answer": "A convergence with the UN Global Compact, particularly its Local Network in India, can bring together corporate houses to support the cause of sanitation and help augment the activities of the Department in the rural areas adjacent to industrial belts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key learning from the implementation of the Total Sanitation Campaign (TSC) regarding the institutional structure?",
+    "answer": "The experience with TSC implementation shows that it is important to have two types of institutions: one for policy decision-making and another for operational tasks, in order to effectively deliver the program.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the fundamental approach to implementing sanitation programs advocated by the TSC Guidelines?",
+    "answer": "The TSC Guidelines advocate for a departure from traditional methods by focusing on behavior change rather than just infrastructure.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is an important lesson learned about Information, Education, and Communication (IEC) activities for the success of the TSC program?",
+    "answer": "A key learning is that IEC should not be treated as a one-time activity but must be considered an ongoing process until total coverage and usage of sanitation facilities are achieved and sustained.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the Government of India (GoI) facilitate IEC activities at the state and district levels?",
+    "answer": "The GoI provides funding at the state and district levels and has identified Key Resource Centres (reputed research and development institutions) to orient program managers in states and districts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the innovations introduced by TSC be scaled up based on demonstrated success?",
+    "answer": "Innovations, such as the shift from a subsidy to a post-achievement incentive, can be scaled up through exposure visits, documentation (electronic, audio-visual, and print), and exchanges at different levels, such as regional events like SACOSAN.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What has been found to be the most effective way to mobilize communities at the grassroots level, and why are conventional methods less effective?",
+    "answer": "The most effective approach is a holistic one that empowers communities through participatory, visual methodologies to analyze their own situation. Conventional IEC approaches like posters and pamphlets have been found to have limited appeal and impact.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of a facilitator and community leadership in initiating and sustaining behavior change at the community level?",
+    "answer": "A facilitator (from the government or an NGO) can initiate the change, but leadership within the community is essential for scaling up and sustaining the change.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can a mass media Behavior Change Communication (BCC) initiative complement community-level communication?",
+    "answer": "A mass media BCC initiative can complement community-level efforts by focusing on changing social and cultural norms regarding Open Defecation, which helps change behaviors and, most importantly, supports the sustainability of that change.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is there a need for a national-level campaign to supplement the decentralized IEC under the TSC?",
+    "answer": "There is a need for a national campaign to create awareness among a wide range of beneficiaries to generate effective demand, which can then be sustained through repeated decentralized IEC.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the name of India's first national program on rural sanitation, and what was its mode of operation?",
+    "answer": "The first national program was the Central Rural Sanitation Programme (CRSP), which operated in a supply-driven mode.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What key learning led to the shift from the CRSP model to the TSC model?",
+    "answer": "A key learning was the recognition of the important role of incentives in accelerating sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How did the TSC approach to incentives differ from the CRSP approach?",
+    "answer": "The TSC moved away from providing a high, upfront subsidy and instead provided a post-usage cash incentive as a reward after a BPL (Below Poverty Line) family had constructed and was using its own toilet.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the Nirmal Gram Puraskar (NGP), and what was its impact on the TSC?",
+    "answer": "The NGP, or Clean Village Award, was an incentive scheme to reward collective outcomes. It played a significant role in scaling up the TSC, as demonstrated by the number of awarded Panchayats increasing from 40 in 2005 to over 22,000 in 2010.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the key challenges for the next phase of rural sanitation reforms regarding the incentive program?",
+    "answer": "The key challenges are to improve the mechanisms for incentive delivery and strengthen the monitoring system that serves as the backbone of the incentive program.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What change is suggested for the incentive delivery mechanism in the next phase of sanitation reforms?",
+    "answer": "The text suggests a need to move further up the ladder and incentivize both individuals and communities at identified levels, rather than just individuals.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is it suggested that the beneficiary base for incentives should be broadened beyond just BPL families?",
+    "answer": "The text argues that merely incentivizing individuals based only on their APL/BPL status may not result in truly Open Defecation Free (ODF) communities. It suggests including weaker communities such as SC/STs, minorities among APLs, people with disabilities, and people living with HIV to broaden the beneficiary base and achieve universal sanitation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the suggested change to the monitoring of sanitation coverage?",
+    "answer": "The text suggests that monitoring should not be based solely on individual household coverage but on a combination of indicators that also give due weightage to institutional sanitation and ODF communities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the overarching approach to sanitation service delivery demonstrated by the current arrangements?",
+    "answer": "The current arrangements demonstrate a holistic institutional approach to sanitation service delivery.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the function of a sanitation cell at the state level?",
+    "answer": "At the state level, the sanitation cell provides a facilitating role and undertakes capacity building and communication activities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the function of a sanitation cell at the district and block levels?",
+    "answer": "At the district and block levels, the sanitation cell's focus is on the actual implementation of the campaign at the GPs and monitoring them.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary responsibility of Gram Panchayats regarding water and sanitation, as per the 73rd constitutional amendment?",
+    "answer": "According to the 73rd constitutional amendment and relevant state decentralization laws, water and sanitation are primary responsibilities of the Gram Panchayat.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the private sector or local entrepreneurs support the sanitation process?",
+    "answer": "They can support the process by responding to the demand for various types of technology products and toilet options at different price points.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What has gained momentum in the corporate world of late, according to the text?",
+    "answer": "The concept of corporate citizenship has gained momentum in the corporate world.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a benefit of getting sanitation on the agenda of Corporate Social Responsibility (CSR)?",
+    "answer": "Getting sanitation on the CSR agenda can help bring in new technologies and innovations for both the increase of sanitation facilities and better management of solid and liquid waste.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main focus of the TSC Guidelines regarding program implementation?",
+    "answer": "The TSC Guidelines focus on behavior change rather than just infrastructure to implement sanitation programs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is considered a key learning regarding Information, Education, and Communication (IEC) for the success of the program?",
+    "answer": "A key learning has been that IEC should not be a one-time activity but must be continued until total coverage and usage are achieved and sustained.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the key innovations introduced by the TSC?",
+    "answer": "The text mentions a shift from a subsidy to a post-achievement incentive regime as an innovation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why are conventional IEC approaches like posters and pamphlets considered to have limited impact?",
+    "answer": "They have limited appeal and impact compared to holistic approaches that empower communities to analyze their own situations.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the text suggest is needed to sustain the behavior change initiated at the community level?",
+    "answer": "A mass media Behavior Change Communication (BCC) initiative that focuses on changing social and cultural norms regarding Open Defecation is needed.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the main characteristic of the Central Rural Sanitation Programme (CRSP)?",
+    "answer": "The CRSP was a supply-driven sanitation program.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the change in the incentive approach under the TSC for BPL families?",
+    "answer": "The TSC provided a post-usage cash incentive as a reward after a BPL family had constructed and was using their own toilet, moving away from high, upfront subsidies.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the primary purpose of the Nirmal Gram Puraskar (NGP)?",
+    "answer": "The NGP was designed to incentivize collective outcomes and played an integral role in scaling up the TSC.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main challenge to the incentive program as we move into the next generation of rural sanitation reforms?",
+    "answer": "The main challenge is to improve incentive delivery mechanisms and strengthen the monitoring system that underpins the program.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Besides BPL families, what other groups are suggested to be included in the beneficiary base for sanitation incentives?",
+    "answer": "It is suggested to include weaker communities such as SC/STs, minorities among APLs, people with disabilities, and people living with HIV.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the vision for sanitation coverage monitoring in the future?",
+    "answer": "The vision is to have monitoring based on a combination of indicators that includes institutional sanitation and ODF communities, not just individual household coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the meaning of the quote by Dr. Manmohan Singh?",
+    "answer": "The quote, \"Good Sanitation should be birthright of all citizens,\" implies that access to good sanitation is a fundamental right that every citizen should have from birth.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the term \"holistic institutional approach\" refer to in the context of sanitation service delivery?",
+    "answer": "A \"holistic institutional approach\" means that all administrative levels of the implementation chain, from the center to the village, are involved in sanitation service delivery.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the significance of the 73rd amendment of the constitution mentioned in the text?",
+    "answer": "The 73rd amendment and related state decentralization laws establish that water and sanitation are primary responsibilities of the Gram Panchayat.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the partnership between government and support organizations be effective?",
+    "answer": "Partnerships can be effective by combining synergies to help reach the desired outcomes in community mobilization and capacity building.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of the dedicated sanitation cell mentioned in the text?",
+    "answer": "The dedicated sanitation cell is specifically concerned with and held accountable for the implementation of sanitation initiatives.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary focus of the TSC as a departure from traditional sanitation programs?",
+    "answer": "The TSC's primary focus is on behavior change rather than just infrastructure.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the function of Key Resource Centres in the context of TSC?",
+    "answer": "Key Resource Centres are research and development institutions identified by the GoI to orient program managers in states and districts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can a shift from a subsidy to a post-achievement incentive regime be scaled up?",
+    "answer": "It can be scaled up through exposure visits, documentation (electronic, audio-visual, and print), and exchanges at different levels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main difference between the CRSP and the TSC based on the provided text?",
+    "answer": "The CRSP was a supply-driven program, while the TSC moved to an incentive-driven model.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How did the Nirmal Gram Puraskar scheme contribute to the success of the TSC?",
+    "answer": "The NGP scheme incentivized collective outcomes, which led to a tremendous response and a significant increase in the number of awarded Panchayats.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the text identify as the backbone of the incentive program?",
+    "answer": "The monitoring system is identified as the backbone of the incentive program.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is it suggested to include people with disabilities and people living with HIV in the beneficiary base for sanitation incentives?",
+    "answer": "Including these groups broadens the base of beneficiaries beyond just BPL families to help achieve the goal of universal sanitation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of a positive interaction with corporate houses in the context of sanitation?",
+    "answer": "A positive interaction can influence the corporate world to incorporate sanitation into their CSR policies.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main challenge related to the NGP scheme mentioned in the text?",
+    "answer": "The main challenge is to improve incentive delivery mechanisms and strengthen the monitoring system.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the text suggest about the role of the corporate sector in developed countries regarding sanitation?",
+    "answer": "The text states that sanitation has been suitably addressed in the corporate world in other developed countries.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of the holistic approach to community mobilization mentioned in the text?",
+    "answer": "The purpose is to empower communities through participatory, visual methodologies to enable their analysis of the situation and \"trigger\" them to make informed decisions.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main difference between the functions of the sanitation cell at the state level versus the district/block levels?",
+    "answer": "The state-level cell facilitates and provides capacity building, while the district/block level cell focuses on actual implementation and monitoring.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How is the \"current arrangements\" for sanitation described in the first paragraph?",
+    "answer": "The current arrangements are described as demonstrating a \"holistic institutional approach\" involving all administrative levels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key to effective delivery of the sanitation program, as shown by the TSC implementation?",
+    "answer": "The key is having two types of institutions: one for policy decision-making and another for operations.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the corporate sector contribute new technologies and innovations to sanitation?",
+    "answer": "By getting sanitation on their CSR agenda, corporations can bring in new technologies and innovations, particularly in the management of solid and liquid waste.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the text mean by \"sanitation is often a local issue\"?",
+    "answer": "It means that sanitation problems have to be addressed by the community residing in a particular habitation, making local government and community involvement crucial.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of a mass media Behavior Change Communication (BCC) initiative in the context of sanitation?",
+    "answer": "Its purpose is to change social and cultural norms regarding Open Defecation to aid in changing behaviors and support sustainability.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key to scaling up and sustaining change initiated by a facilitator at the community level?",
+    "answer": "Leadership within the community is required for scaling up and sustaining the change.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the significance of the shift from a subsidy to a post-achievement incentive?",
+    "answer": "The shift aims to reward families only after they have constructed and are using their own toilets, which is a key innovation of the TSC.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the text identify as a primary responsibility of the Gram Panchayat?",
+    "answer": "Water and sanitation are identified as primary responsibilities of the Gram Panchayat.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What did Dr. Manmohan Singh state about good sanitation?",
+    "answer": "He stated that \"Good Sanitation should be birthright of all citizens.\"",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the first key driver for change to achieve the vision of Nirmal Bharat?",
+    "answer": "The first key driver is collective action to change social norms.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is individual unsafe sanitation behavior a concern for the community?",
+    "answer": "Unsafe sanitation behavior by an individual carries negative externalities because it can lead to fecal contamination of the environment, which puts the health of others at risk.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is considered a public good that requires collective action to achieve and sustain?",
+    "answer": "A clean and sanitary environment is a public good that requires communities to achieve and sustain total sanitation to realize its health benefits.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the foundation of the collective approach to sanitation?",
+    "answer": "The foundation is a shift in social norms, where open defecation by even a single individual is seen as unacceptable behavior that can endanger the health of the entire community.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Based on the Rapid Assessment in Himachal Pradesh, what was the reported incidence of diarrhea in villages with around 30% household toilet use?",
+    "answer": "The reported incidence of diarrhea was around 40%.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "According to the same Rapid Assessment, what was the incidence of diarrhea in villages with 95% household toilet use?",
+    "answer": "The reported incidence of diarrhea was still around 25%.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What percentage of diarrhea was reported in villages that were 100% Open Defecation Free (ODF)?",
+    "answer": "The reported incidence of diarrhea was less than 10%.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the data from the Himachal Pradesh study demonstrate about the impact of a few individuals not using toilets?",
+    "answer": "It demonstrates that even if a few individual households continue to open defecate, the overall risk of bacteriological contamination and incidence of disease remains high.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the pivotal role of Panchayati Raj Institutions (PRIs) in the implementation of the sanitation program?",
+    "answer": "PRIs have a pivotal role in social mobilization for the construction of toilets and in maintaining a clean environment through the safe disposal of waste.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are PRIs considered the \"custodians\" of?",
+    "answer": "PRIs are the custodians of assets created under sanitation schemes, such as Community Complexes, environmental components, and drainage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What role should Panchayats play in the monitoring of sanitation status?",
+    "answer": "Panchayats must play a role in monitoring the sanitation status, especially since community-level incentives like the Nirmal Gram Puraskar (NGP) are available.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is the adoption and ownership of the sanitation program by Panchayati Raj Institutions essential?",
+    "answer": "It is essential for the scaling up and long-term sustainability of the intervention.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can facilitating sanitation outcomes strengthen the capacities of GPs?",
+    "answer": "The process of facilitating sanitation outcomes can become an entry point for strengthening the capacities of GPs to ensure service delivery.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key focus of the sanitation program regarding incentives?",
+    "answer": "The program has to focus on providing incentives for the adoption and sustained usage of safe sanitation facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is considered the \"best strategy\" for incentivizing communities?",
+    "answer": "The best strategy is to incentivize weaker communities based on demonstrated usage of sanitation facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is another area that can be concentrated upon for total sanitation as a strategy?",
+    "answer": "Incentives for institutions, either as standalone rewards or as part of larger programs like the NGP, can be a strategic focus.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What has the stress of the Information Communication and Education (IEC) component of the campaign always been on?",
+    "answer": "The stress has always been on decentralized IEC through financial provisions in district projects.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why has a need been felt for a national communication strategy?",
+    "answer": "A need has been felt for a national communication strategy to sensitize all stakeholders for a joint effort to accelerate and sustain rural sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why are schools and Anganwadis considered appropriate institutions for changing children's behavior regarding sanitation?",
+    "answer": "Children are more receptive to new ideas, and these institutions can influence their behavior and habits from open defecation to using a lavatory through motivation and education.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the intended effect of children using toilets in school and receiving sanitation education?",
+    "answer": "The experience gained by children would reach home and influence their parents to adopt good sanitary habits.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the current policy regarding financial assistance for schools and Anganwadis?",
+    "answer": "The present policy is to extend financial assistance only to government rural schools and Anganwadis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is needed to achieve universal sanitation in real terms for institutions?",
+    "answer": "There must be similar provisions for government-aided and private institutions if universal sanitation is to be achieved in real terms.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is another strategy needed for school toilets to ensure they are fully utilized by all students?",
+    "answer": "There is a need to evolve and standardize school toilet designs that are \"child friendly,\" \"gender responsive,\" and provide access to children with special needs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the purpose of the Community Sanitary Complexes envisioned under the TSC?",
+    "answer": "These complexes were intended to take care of the sanitation needs of the landless population and floating population in the Gram Panchayat (GP) area.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the suggested strategy for Community Sanitary Complexes as individual household sanitation coverage accelerates?",
+    "answer": "This area shall need more and more attention as a strategy to ensure total sanitization of the community.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How has the TSC focused its financial incentives until now?",
+    "answer": "The TSC has concentrated on financial incentives for BPL (Below Poverty Line) households.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the argument for financing weaker communities among APLs (Above Poverty Line)?",
+    "answer": "There is a case to finance weaker communities (SC/ST and minorities) among APLs to create ODF (Open Defecation Free) communities and ensure the benefits of a clean environment for all.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What area has yet to \"take off at scale\"?",
+    "answer": "The management of Solid and Liquid waste is an area that is yet to take off at a large scale.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What has the present policy concentrated on as a first stage for sanitation?",
+    "answer": "The present policy has concentrated more on creating ODF communities in the first stage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is suggested for states that have already achieved high sanitation coverage?",
+    "answer": "They need to \"up the sanitation ladder\" with effective solid and liquid waste management to create a clean environment.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the proposed strategy for the management of solid and liquid waste in the program?",
+    "answer": "It should be the main component of the program, around which other supporting activities like household sanitation, institutional sanitation, and IEC/HRD can be built.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a limitation that field studies have pointed out regarding sanitation coverage?",
+    "answer": "Field studies have pointed to various levels of latrine usage depending on community awareness.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What has non-usage of sanitation facilities at times resulted in?",
+    "answer": "Non-usage has at times resulted in a slippage in the status of NGP villages.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the suggested strategy to ensure full usage of sanitation facilities created?",
+    "answer": "Repeated IEC intervention, especially at the community level, is required to ensure full usage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the primary objective of the TSC's strategy regarding low-cost sanitation options?",
+    "answer": "The strategy was to provide technological options/informed choices to beneficiaries to accelerate rural sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why was the dissemination of information about various technological options limited?",
+    "answer": "It was limited and perhaps not prioritized as a key area for accelerating sustained sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was a consequence of the limited dissemination of technological options?",
+    "answer": "The acceleration of sanitation coverage in difficult areas like coastal, hilly, and flood-prone regions has not been able to keep pace with plain areas.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the concept of \"convergence\" in the context of rural development?",
+    "answer": "Convergence refers to having different flagship schemes, often operated in isolation, work together to enhance the quality of life in rural areas.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "With which ministries should there be good convergence for sanitation programs?",
+    "answer": "Convergence should occur among ministries like Rural Development, Human Resource Development, Health and Family Welfare, Women and Child Development, and Panchayati Raj.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of conducting impact assessments and monitoring for the sanitation campaign?",
+    "answer": "The purpose is to assess the success and limitations of the policies to carry out mid-course corrections for optimum results.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is expected to provide the \"real picture\" of rural sanitation coverage?",
+    "answer": "The Census 2011 report is expected to reveal the real picture of coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can improved information and communication technology (ICT) help in achieving sanitation goals?",
+    "answer": "If adopted well, improved ICT can continuously reveal the real picture, helping to reach the desired goals.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are two of the key emerging priorities for achieving the vision of Nirmal Bharat?",
+    "answer": "Two of the key priorities are \"Collective action to change social norms\" and \"Panchayati Raj Institutions take the lead.\"",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key reason for a collective approach to sanitation as the first pillar of the strategy?",
+    "answer": "It seeks to ensure that the benefits of a clean environment are available to all, including the vulnerable and disadvantaged.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the figure from the Himachal Pradesh study show regarding the relationship between household toilet use and diarrheal incidence?",
+    "answer": "It shows that even with high household toilet use (95%), the incidence of diarrhea is still significant, while a 100% ODF village has a dramatic drop in incidence.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary role of PRIs in the implementation of the sanitation program as per the 11th Schedule of the Constitution?",
+    "answer": "As per the 11th Schedule, Sanitation is included, giving PRIs a pivotal role.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Besides Gram Panchayats, what other levels of PRIs are mentioned to have a role in monitoring?",
+    "answer": "Block and District level PRIs may also regularly monitor implementation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the goal of incentivizing communities?",
+    "answer": "The goal is to drive communities towards improving the situation and ensuring sustainability.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a crucial element required for the incentive approach to be effective?",
+    "answer": "The incentive approach must be based on a transparent and robust monitoring process.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main purpose of having a national communication strategy?",
+    "answer": "The main purpose is to sensitize all stakeholders for a joint effort to accelerate and sustain rural sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the key building blocks of the strategy for achieving Nirmal Bharat?",
+    "answer": "The key building blocks are: Institutional Structure and Capacity, Other institutions, Approach to Demand Creation, Technology Options, Supply Chain, Monitoring, Sustainability, and Financing and Incentives.\n\nInstitutional Structure and Capacity",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of institutions in the context of sanitation service delivery?",
+    "answer": "Institutions set the rules and define the framework for service delivery, and to be effective, they must have clearly defined roles, responsibilities, and the resources to fulfill them.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does \"capacity\" refer to in the context of institutional structure?",
+    "answer": "Capacity refers to the availability of skilled human resources, budgetary allocations, a dedicated organizational home for rural sanitation, and the ability to monitor progress and make revisions.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the primary responsibilities of the Department of Drinking Water and Sanitation (DDWS) at the national level?",
+    "answer": "The DDWS's responsibilities include planning, implementing, and monitoring centrally sponsored programs; supporting R&D, IEC, and HRD activities; enabling states to access resources; providing technical support; and building partnerships with other organizations.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of the National Sanitation Council?",
+    "answer": "The National Sanitation Council is an autonomous body that will act as a support agency to the DDWS, providing technical and administrative consultancy, organizing events, undertaking pilot projects, and monitoring program progress and evaluation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the specific responsibilities of the State Water and Sanitation Mission (SWSM) at the state level?",
+    "answer": "The SWSM will develop state-specific strategies, set milestones for districts, review progress every three months, hold six-monthly meetings and annual workshops, benchmark district performance, and initiate state-level reward programs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of the Communications and Capacity Development Unit (CCDU)?",
+    "answer": "The CCDU, which functions under the Water and Sanitation Support Organization (WSSO), will develop communication campaigns to change behavior, create capacity-building strategies, and set up monitoring systems at the state level.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of the District Water and Sanitation Mission (DWSM)?",
+    "answer": "The DWSM will coordinate between various departments and programs, and adopt a strategic planning and coordination role to drive the sanitation program in the district.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the composition and purpose of the District Sanitation Cell?",
+    "answer": "The District Sanitation Cell will be set up to facilitate scaling up message dissemination and achieving outcomes. It will have staff with competencies in communication, capacity building, sanitation technologies, and monitoring.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How is the sanitation program coordinated at the block level?",
+    "answer": "Block Resource Centres (BRCs) will be the institutional setup, providing continuous support in awareness generation, motivation, mobilization, training, and handholding to Gram Sabhas, GPs, and VWSCs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the responsibility of the Gram Panchayat regarding sanitation?",
+    "answer": "The Gram Panchayat is the lowest mandated institution responsible for service delivery. It will take leadership in planning, implementing, and monitoring sanitation achievements in its villages.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What specific tasks can a Gram Panchayat perform to support sanitation?",
+    "answer": "A Gram Panchayat can support marginalized households in constructing individual toilets and Solid and Liquid Waste Management (SLWM) facilities, and it can engage private parties to operate and maintain common facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of the Village Water and Sanitation Committee?",
+    "answer": "The committee, which is a representative committee appointed by the Gram Panchayat, will facilitate and implement sanitation and SLWM activities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key takeaway from the Kolhapur District example regarding institutional arrangements?",
+    "answer": "The example shows that a systematic institutional arrangement with clear roles and responsibilities can enable a district to be a leader in sanitation coverage and NGP (Nirmal Gram Puraskar).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the text's stance on the responsibility of sanitation?",
+    "answer": "Sanitation is not the responsibility of the government alone; every citizen, regardless of their institutional linkage, is a stakeholder in achieving the goal of ending open defecation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What role can Non-Governmental Organizations (NGOs) play in sanitation?",
+    "answer": "NGOs can be an effective vehicle for mobilizing communities, raising social capital, and partnering with governments to bring about change through community-led approaches.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What distinct advantage do NGOs have in the delivery of Water, Sanitation, and Hygiene (WASH) programs?",
+    "answer": "NGOs have a better rapport and understanding of the socio-cultural-economic status of rural communities, giving them a wider reach among marginalized and disadvantaged people.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of NGOs in the implementation of a sanitation program?",
+    "answer": "Local NGOs are expected to carry out social mobilization, promote usage, and provide timely post-implementation support, in coordination with the Gram Panchayats.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What has gained momentum in the corporate world, according to the text, and how is this relevant to sanitation?",
+    "answer": "The concept of corporate citizenship has gained momentum, and the text suggests that this is a \"ripe time\" to address sanitation and get it included in the Corporate Social Responsibility (CSR) agenda.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can companies and private foundations contribute to sanitation?",
+    "answer": "They can provide funding for software or hardware, undertake social mobilization activities, and offer R&D support for innovative approaches.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is another potential role for the private sector beyond traditional CSR activities?",
+    "answer": "The private sector can be encouraged to evolve business models on a commercial basis, for example, through competitive bidding to perform social mobilization activities to make an area open defecation free.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the projected size of the sanitation market in India from 2007 to 2020?",
+    "answer": "The national cumulative sanitation market has a potential of Rs. 6.87 trillion ($152 billion), with Rs. 4.4 trillion in infrastructure and Rs. 2.5 trillion in O&M services.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a Rural Sanitary Mart (RSM)?",
+    "answer": "A Rural Sanitary Mart is an outlet that sells materials, hardware, and designs for constructing sanitary latrines and other sanitation facilities like soakage and compost pits.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the social objective of a Rural Sanitary Mart?",
+    "answer": "The social objective is to provide technologically and financially suitable materials, services, and guidance for constructing different types of latrines and sanitary facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can RSMs contribute to the acceleration of sanitation coverage?",
+    "answer": "RSMs can evolve business models, participate in IEC activities through interpersonal communication to generate demand, and ensure an effective supply chain with quality-certified products.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the two main functions of academic institutions that can support the sanitation sector?",
+    "answer": "The two main functions are teaching (to develop a cadre of qualified human resources) and research (into innovative approaches, psychology of behavior change, and monitoring).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What specific areas of research are needed for the sanitation sector, as identified in the text?",
+    "answer": "The text identifies research into innovative approaches in sanitation technology, psychology of community behavior, and monitoring and evaluation of outcomes and impacts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key to effectively scaling up and sustaining rural sanitation outcomes?",
+    "answer": "The key is to have institutional arrangements with clearly defined roles and responsibilities and the necessary resources.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the institutional framework need to include besides roles and responsibilities?",
+    "answer": "The framework should also include mechanisms for coordination between linked activities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Who is the Chairperson of the DWSM in Kolhapur district, as an example?",
+    "answer": "The Zilla Parishad President is the Chairperson of the DWSM.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Who coordinates the day-to-day operations of the sanitation program in Kolhapur district?",
+    "answer": "The Deputy CEO, Village Panchayat, coordinates day-to-day operations.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the responsibilities of the TSC cell in Kolhapur district?",
+    "answer": "The TSC cell's responsibilities include preparing action plans, monitoring project progress, coordinating IEC campaigns, undertaking training of trainers, and preparing reports.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the Block Panchayat serve as an ideal unit for providing support?",
+    "answer": "The Block Panchayat is an ideal unit because it is nearer to the Gram Panchayats than the Zilla Panchayat.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of Block Resource Centres (BRCs)?",
+    "answer": "BRCs serve as an extended delivery arm for software support from districts and act as a link between the DWSM and Gram Panchayats.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the first step in preparing a 'Village Sanitation Plan'?",
+    "answer": "The first step is capacity building and generating awareness on improved sanitation practices.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can a Gram Panchayat's sanitation committee be named, based on local conditions?",
+    "answer": "It may be named a Village Water and Sanitation Committee or a Village Water Health and Sanitation Committee.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of private parties engaged by the Gram Panchayat?",
+    "answer": "Private parties can be engaged to operate and maintain common facilities in the village.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the four broad categories of \"other institutions\" identified in the text?",
+    "answer": "The four categories are Non-Governmental Organizations, Companies/Private foundations, Small Entrepreneurs/Sanitary marts, and Academia.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key area where local NGOs have an advantage in sanitation promotion?",
+    "answer": "They have a wider reach among marginalized and disadvantaged people because of a better rapport and understanding of their socio-cultural-economic status.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is one of the important activities for Rural Sanitary Marts (RSMs) besides selling hardware?",
+    "answer": "An important activity is to participate in IEC activities through interpersonal communication to generate effective demand for sanitation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary purpose of a Rural Sanitary Mart?",
+    "answer": "The main aim is to provide materials, services, and guidance for constructing various types of latrines and other sanitary facilities that are technologically and financially suitable to the area.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key learning from the Kolhapur district's institutional structure?",
+    "answer": "The clear roles and responsibilities and systematic institutional arrangements enabled the district to become a leader in sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the government strengthen Gram Panchayats for the sanitation program?",
+    "answer": "The Gram Panchayat will be strengthened with human resources and capacitated to exclusively work on the sanitation program.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the private sector help improve service delivery beyond the sanitation market?",
+    "answer": "The private sector can be involved in a business model where they are encouraged to perform social mobilization activities on a commercial basis.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a significant finding of the WSP Economics of Sanitation Initiative, 2010, regarding the sanitation market?",
+    "answer": "It projects a cumulative sanitation market of Rs. 6.87 trillion ($152 billion) from 2007 to 2020.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the projected cumulative market for household toilets from 2007 to 2020?",
+    "answer": "The cumulative market for household toilets is projected to be Rs. 4.8 trillion by 2020.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key to creating a \"win-win situation\" with Rural Sanitary Marts?",
+    "answer": "Evolving business models for RSMs so that they not only survive but also contribute to accelerating sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What kind of support should a successful RSM have to ensure quality and success?",
+    "answer": "An RSM should have a system of joint monitoring, a method of quality certification, and a band of trained masons and motivators.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some of the benefits of NGOs in sanitation promotion?",
+    "answer": "NGOs can help to address exclusion and gender issues and have a better rapport with marginalized and disadvantaged people.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of the District Sanitation Cell's staff?",
+    "answer": "The staff, who can be government employees on deputation or contracted from the open market, have competencies in communication, capacity building, and monitoring to facilitate the program.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the fundamental approach to rural sanitation advocated by the TSC guidelines?",
+    "answer": "The TSC guidelines advocate a demand-driven approach to rural sanitation, backed by post-achievement incentives.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is it challenging to create and sustain behavioral change in sanitation?",
+    "answer": "It is challenging because people often have no felt need for sanitary facilities, and they are low on their hierarchy of needs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the only type of changed behavior that will sustain over time, according to the text?",
+    "answer": "The only changed behavior that will sustain is one where community members are actively involved in analyzing their own sanitation situation and decide to change on their own.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the strategy for total sanitation incentivize communities?",
+    "answer": "The strategy will incentivize both individuals and the community as a whole to motivate them to achieve total sanitation and its health benefits.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the \"incentive delivery mechanism\" work for a habitation or village?",
+    "answer": "A habitation, village, or GP will be considered as one entity, for which incentives will be available against milestones, in addition to individual incentives for the weaker sections of society.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of the community in deciding on support and incentives for households?",
+    "answer": "When dealing with the community, the community will decide on the level and timing of support/incentives to be given to individual households.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the strategy make incentives available to Gram Panchayats?",
+    "answer": "Incentives will be made available to Gram Panchayats for making the village ODF (Open Defecation Free), which can then be used to assist needy households.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of mass media in behavior change communication?",
+    "answer": "An effective mass media campaign will be undertaken at the national and state levels to change the basic mindsets of people towards safe sanitation and hygiene.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary reason that a national-level Nirmal Bharat Communication Campaign is needed?",
+    "answer": "It is needed to enable a shift in social and cultural norms on open defecation, as changing behavior cannot be addressed by focusing on individuals alone.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the first focus area of the national communication campaign?",
+    "answer": "The first focus is on sensitization and awareness-raising about the benefits of improved sanitation, critical hygiene practices, and safe disposal of waste.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the second focus area of the campaign?",
+    "answer": "The second focus is specifically on addressing the change of social norms by identifying key influencers and addressing resistance to change.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the third focus area of the campaign?",
+    "answer": "The third focus is on addressing the up-scaling of advanced sanitation practices and sustained private and public hygiene behavior.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the two critical factors that need to be addressed for sustained behavioral change?",
+    "answer": "People need to be motivated and understand the benefits, and all elements allowing the adoption of the behavior (e.g., toilets, soap, water) must be in place.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is it important to treat various behaviors, like open defecation and waste disposal, as a \"single package\"?",
+    "answer": "It's important because addressing open defecation without understanding safe waste disposal won't impact public health outcomes and could even be counterproductive.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is sensitizing political leadership important for the sanitation program?",
+    "answer": "It's required to enable adequate funding to be provided to the sector and to give it priority at all implementation levels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What were the steps taken at the village level in the Sirsa district case study?",
+    "answer": "The steps were a village visit by motivators for self-analysis, motivating women and students, and the formation of a Sanitation Committee (Swachhata Samiti).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was a major \"trigger\" for behavior change in the Sirsa district?",
+    "answer": "The major trigger was the realization that open defecation was equivalent to community members consuming each other's fecal matter.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the strategy for sanitation in remote and difficult areas?",
+    "answer": "The strategy will be to develop separate guidelines on the programmatic and technical approach, with special provisions for adequate supply of sanitary products and services.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the strategy for addressing sanitation in disaster and emergency situations?",
+    "answer": "The strategy will include developing disaster and emergency preparedness plans to ensure a timely response to sanitation issues like toilets and garbage disposal.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the challenge with community sanitary complexes, even when they are created?",
+    "answer": "Gram Panchayats often lack knowledge on operation and maintenance, causing the facilities to fall into disrepair or become unhygienic, forcing beneficiaries to revert to open defecation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the suggested approach to overcome the challenge of public toilets falling into disrepair?",
+    "answer": "The approach is to disseminate maximum information about available technical options and share case studies of successfully operating complexes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will sanitation in public places like markets and religious sites be addressed?",
+    "answer": "It will be addressed through communication and incentives to motivate key stakeholders, as well as regulatory approaches to ensure compliance with existing rules.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What kind of institutional models will be explored for the operation and maintenance of sanitation facilities?",
+    "answer": "Various institutional models, including Public Private Partnerships (PPPs), shall be explored to ensure sustainable management.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What special attention will be given to people living with HIV (PLHIV)?",
+    "answer": "Special attention will be given in the form of incentives and rebates for the construction and use of sanitation and waste management facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does technology promotion include at the implementation level, beyond just toilet components?",
+    "answer": "It includes existing latrine technology options (e.g., septic tanks, ventilated double pit toilets), masonry services for installation, and sanitary services for operation and maintenance.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key principle for selecting a technology option for safe sanitation?",
+    "answer": "The key principle is that the technology must effectively contain human waste and completely eliminate the fecal-oral transmission routes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What two types of factors must be considered when selecting sanitation technology options?",
+    "answer": "The two factors are technical factors (e.g., terrain, ground water table) and demand factors (e.g., customs, affordability).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the focus of technology promotion for toilets, and what is left to the household?",
+    "answer": "The focus of promotion is on the substructure (which contains waste), while the choice of the superstructure is left to household preferences.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of promoting a variety of technological options?",
+    "answer": "The purpose is to provide options with varying affordability and site-specific characteristics to suit different needs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main characteristic of a Simple Pit Toilet?",
+    "answer": "It has a squat plate with a hole and lid, and a pit below. It is a low-cost option.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a limitation of both Simple Pit Toilets and Single-pit Pour Flush Toilets?",
+    "answer": "They are not suitable for high water table or rocky soil.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key feature of the Pour Flush Toilet with a Twin Pit?",
+    "answer": "It uses a pour-flush squat platform with lined two pits with honeycombs and allows for safe reuse of human waste as manure.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key advantage of an Eco-san Toilet?",
+    "answer": "It is suitable for any soil type, including rocky and high water table areas, as it uses water-tight chambers.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key feature of a Biogas plant linked with a toilet?",
+    "answer": "Instead of pits, it uses an underground biogas plant to treat the waste, and the biogas can be used for beneficial purposes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Which toilet technology has \"No Water\" requirement?",
+    "answer": "The Eco-san Toilet has no water requirement for use.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a limitation of a Septic Tank toilet?",
+    "answer": "The disposal of sludge and effluent is a problem.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the strategy address sanitation for the disadvantaged and elderly?",
+    "answer": "The strategy will undertake research or use existing models to design and promote toilet options specifically for these groups.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of resource conservation in promoting sanitation technologies?",
+    "answer": "Principles like the use of limited water and recycling of decomposed human waste shall be adopted.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the concept of \"ECOSAN\" and for what areas will it be promoted?",
+    "answer": "ECOSAN, or Ecological Sanitation, will be promoted for identified areas as a suitable technology, based on its resource-conservation principles.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a key characteristic of the technology for Solid and Liquid Waste Management (SLWM)?",
+    "answer": "The technology for SLWM shall be decentralized, with household and community-level facilities for safe disposal.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the approach to sanitation in disaster and emergency situations?",
+    "answer": "The approach is to develop specific preparedness plans to ensure a timely response to sanitation needs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why does community sanitation in public places assume importance?",
+    "answer": "It is important to tackle sanitation in public places, especially where there is a lack of space for household toilets or a high percentage of floating population.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a potential institutional model for operation and maintenance (O&M) of community toilets?",
+    "answer": "Potential models include Community Management, Community Contracting, NGO/SHG/CBO Involvement, and Private Sector Participation (PPP).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary message that will be disseminated through various media to motivate communities?",
+    "answer": "The main message will be the achievement of 100% safe sanitation at the collective level, in addition to individual achievements.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does the case study from Sirsa district demonstrate?",
+    "answer": "It demonstrates how a demand-driven, time-bound mission with dedicated motivators and innovative IEC techniques can lead to a district declaring itself completely ODF.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the difference between a Septic Tank toilet and a Pour Flush Toilet with a Twin Pit in terms of waste disposal?",
+    "answer": "The Twin Pit toilet allows for the safe reuse of human waste as manure, while the disposal of sludge and effluent is a problem with the Septic Tank toilet.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the key elements of the decentralized approach for the sanitation strategy?",
+    "answer": "The Gram Panchayat is the focus institution, with the mandate and responsibility to achieve and sustain sanitation outcomes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the national communication campaign be implemented?",
+    "answer": "It will be implemented in a phased manner, based on the understanding that people need both motivation and the necessary infrastructure.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the significance of the \"triggering\" in the Sirsa district case study?",
+    "answer": "The triggering, which included the realization of health risks from open defecation, was a powerful tool for inducing behavior change and was followed by consistent follow-up visits.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the strategy for sanitation in public places motivate key stakeholders?",
+    "answer": "It will use communication and incentives to encourage stakeholders like restaurant owners and religious authorities to provide sanitary facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary focus of the strategy concerning the sanitation supply chain?",
+    "answer": "The strategy will emphasize establishing or strengthening a robust supply chain mechanism for sanitary products and services to achieve total sanitation at scale.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some of the options for facilitating the supply of sanitary products and services?",
+    "answer": "Some options include private wholesale and retail networks and Rural Sanitary Marts (RSMs) or \"one-stop-shop\" retail outlets.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the Bardhaman district's approach to promoting rural sanitation?",
+    "answer": "RSMs, operated by NGOs, are the cornerstone of the district's strategy. The RSM network combines the supply of sanitation products with extensive social marketing.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How do motivators support the RSMs in Bardhaman district?",
+    "answer": "They campaign door to door to create awareness and generate demand for toilets.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the responsibility of the Gram Panchayat regarding Solid and Liquid Waste Management (SLWM)?",
+    "answer": "The Gram Panchayat is responsible for the management of solid and liquid waste in the village and ensuring service delivery.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of institutions at other levels in SLWM?",
+    "answer": "Institutions at other levels will facilitate with the communication, financial, technical, and human resources required for the GP to undertake its responsibility.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some of the potential sources of upfront capital expenditure for SLWM?",
+    "answer": "Potential sources include DDWS earmarked grant funding, Finance Commission funds, state subsidies, GP resources, and user fees.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can users contribute to SLWM?",
+    "answer": "Users can invest their own resources (financial, labor) into on-site household-level options and cover variable O&M (Operation & Maintenance) costs of community schemes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What types of incentives can be used for SLWM?",
+    "answer": "Community-level incentives can include the benefit of a clean environment, economic benefits from waste management, and potential cash prizes or recognition from higher levels of administration.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a potential approach to managing solid waste at the household level?",
+    "answer": "The focus may be on segregating waste at the source into biodegradable and non-biodegradable waste.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What happens to biodegradable waste at the household level?",
+    "answer": "It can be treated using technology options like composting, vermi-composting, or biogas plants to convert it into manure.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What happens to non-biodegradable waste that has economic value?",
+    "answer": "Non-biodegradable waste with economic value, such as metal, will be recycled by selling it to scrap dealers.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What happens to non-recyclable non-biodegradable waste?",
+    "answer": "Non-recyclable waste, such as thermocol and PET bottles, will be sent to landfills for safe disposal.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the estimated cost per household for solid waste management, according to the cost norms provided?",
+    "answer": "The total estimated expenditure for solid waste management per household works out to approximately Rs 2020/-.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the estimated cost per household for liquid waste management, according to the cost norms provided?",
+    "answer": "The total estimated expenditure for liquid waste management would be approximately Rs 1200/- per household.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the total estimated financial implication per household for a self-sustainable solid and liquid waste management model?",
+    "answer": "The financial implication is approximately Rs 3000/- per household.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some examples of technology options for managing biodegradable waste at the community level?",
+    "answer": "Technology options for composting biodegradable waste include composting, vermi-composting, or a bio-digester.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can greywater generated at the household level be treated?",
+    "answer": "Greywater can be treated and used for purposes like kitchen gardening or disposed of through soak pits or leach pits.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some off-site options for managing greywater at the community level?",
+    "answer": "Off-site options could include collection and transport of greywater and final disposal through a sullage stabilization pond and re-use.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary message of the \"Tapi Model\" regarding waste?",
+    "answer": "The model's philosophy is to view waste as a resource to be exploited, not as garbage to be disposed of.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key to making waste a resource, according to Mr. C. Srinivasan?",
+    "answer": "If waste is lifted within 12 hours, before it starts emitting a foul odor, it is a resource that can be sold.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the core principle of the Vellore Zero Waste Management (ZWM) Model?",
+    "answer": "The ZWM model aims for maximum waste recovery through recycling and reuse, with the goal of zero waste generation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the strengths of the ZWM system?",
+    "answer": "Its strengths include segregation of waste at the source, minimization of waste, and providing opportunities for income generation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the first step in the implementation of the SLRM project in Vallod Panchayat?",
+    "answer": "Each household was provided with two dustbins of red and green color to segregate waste at the source.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the initial challenge faced by the project in Vallod, and how was it overcome?",
+    "answer": "Families were initially reluctant to get involved in \"dirty work,\" but a few women came forward, and the district government provided workers with a uniform and equipment, which encouraged unemployed youth to join.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How was the organic waste from the Vallod project utilized?",
+    "answer": "Organic waste was used to produce compost fertilizer at a ZWM center.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was done to ensure the marketing and sustainability of the compost produced in Vallod?",
+    "answer": "An MOU was signed with the District's Forest Office, which agreed to purchase all the compost produced by the project.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How is the Vallod project sustained financially in the long term?",
+    "answer": "The Gram Panchayat passed a resolution to collect Rs 20 per family per month for waste collection and management.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How did the success of the Vallod project impact other Gram Panchayats and the government?",
+    "answer": "Five additional Gram Panchayats came forward to replicate the approach, and the Government of Gujarat plans to scale it up in a phased manner, starting with 5000 Gram Panchayats.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the name of the Project Director of the Indian Green Service mentioned in the text?",
+    "answer": "Mr. C Srinivasan.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a system of penalties or fines being considered for improper waste disposal?",
+    "answer": "A system of penalties/fines may be instituted for improper disposal of garbage and wastewater.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the main characteristic of a one-stop-shop retail outlet for sanitary products?",
+    "answer": "It is a single location that provides all the necessary sanitary products and services.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of NGOs in the Bardhaman experience with RSMs?",
+    "answer": "NGOs are responsible for the operation of the RSMs, combining supply of sanitation products with social marketing.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the mechanism for households to get a toilet in the Bardhaman district?",
+    "answer": "Once a household agrees to have a toilet, the hardware is delivered, and a trained mason installs the toilet, including digging the pit.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What specific functions are to be performed by a body selected by the Panchayat for waste collection?",
+    "answer": "The body, such as an SHG or youth group, will be responsible for collecting segregated household waste and transporting it.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the recommended type of vehicle for transporting waste at the community level?",
+    "answer": "Carts or tricycles are recommended, with one tricycle sufficient for 100 to 200 households.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the concept of a soak pit in liquid waste management?",
+    "answer": "A soak pit is an on-site option for household-level greywater management, allowing the water to be disposed of into the ground.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some of the components of the estimated expenditure for solid waste management for a community of 300 households?",
+    "answer": "The components include compost pit preparation, purchase of rickshaw vans, containers, dress materials for sanitary workers, construction of a segregation shade, and tools.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the estimated total cost of the equipment and manpower for solid waste management for 300 households?",
+    "answer": "The estimated total expenditure for solid waste management is Rs. 5,70,000/- for equipment and Rs. 36,000/- for manpower.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the cost of an unlined soak pit?",
+    "answer": "The cost of an unlined soak pit is estimated at Rs. 600/-.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the total cost of liquid waste management for a household according to the provided cost norms?",
+    "answer": "The total cost is Rs. 1200/- per household, which includes the cost of soak pits, stabilization ponds, and drainage channels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the estimated daily production of biodegradable solid waste for a household of five people?",
+    "answer": "The daily production is estimated to be approximately 600 grams per day.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the difference between primary and secondary segregation of waste?",
+    "answer": "Primary segregation is done at the household level, while secondary segregation is done at the community level after collection.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the recommended collection frequency for waste, according to the Tapi Model?",
+    "answer": "Waste is recommended to be lifted twice a day, in the morning and evening, to be considered a resource.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Who were initially engaged to collect waste in the Vallod project?",
+    "answer": "18 members of a Self Help Group were initially engaged for door-to-door waste collection.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the initial payment for the waste collection workers in Vallod?",
+    "answer": "They were paid Rs 100 per day or Rs 3000 per month.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What was the initial selling price of the compost produced in Vallod?",
+    "answer": "The compost was sold at the rate of Rs 5/kg.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why was the price of compost increased to Rs 8/kg by the Forest Department?",
+    "answer": "The price was increased because the quality of the compost was very good, and it was still below the rate the Department was sourcing it for earlier.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What specific types of non-recyclable waste are mentioned that would be sent to landfills?",
+    "answer": "Examples include tetra-pack, PET mineral water bottle, and thermocol.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How is the solid waste management in Bardhaman district a sustainable alternative delivery system?",
+    "answer": "It is a sustainable system because it is a cornerstone of the district's strategy, operated by NGOs that combine supply with extensive social marketing, and is supported by a network of motivators.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the overarching strategy for convergence in rural sanitation?",
+    "answer": "The strategy is to have good convergence among various schemes from ministries like Rural Development, Health and Family Welfare, and Panchayati Raj to enhance the quality of life in rural areas and accelerate sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the Mahatma Gandhi National Rural Employment Guarantee Scheme (MNREGS) converge with sanitation initiatives?",
+    "answer": "MNREGS can converge by providing unskilled labor for activities like preparing leach pits, constructing toilets in schools and Anganwadis, and managing solid and liquid waste.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What specific activities can be converged with the Sarva Shiksha Abhiyan (SSA)?",
+    "answer": "Activities that can be converged with SSA include joint action plans for covering all schools with water and sanitation, using common toilet designs, and including health and hygiene messages in learning methodologies.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the National Rural Health Mission (NRHM) and sanitation efforts be integrated?",
+    "answer": "Integration can occur through joint training programs, including health officials in sanitation committees, and providing toilets and incentives to Accredited Social Health Activists (ASHA Workers).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What kind of data convergence is suggested between the NRHM and sanitation programs?",
+    "answer": "Data collection can be converged on health indicators like Infant Mortality Rate (IMR), Maternal Mortality Rate (MMR), and child morbidity, linking them to sanitation-related illnesses.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can the Integrated Child Development Scheme (ICDS) contribute to sanitation?",
+    "answer": "The ICDS can contribute by ensuring water and sanitation facilities and health education in Anganwadi Centres, and by having Anganwadi workers act as sanitation motivators to generate demand.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the Indira Awaas Yojana (IAY) and sanitation efforts converge?",
+    "answer": "Households constructed under IAY will be essentially provided a toilet under TSC. Joint IEC and online monitoring of sanitation facilities in IAY houses will also be done.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of the National Rural Livelihood Mission (NRLM) in the sanitation strategy?",
+    "answer": "NRLM can support the sanitation strategy by setting up Rural Sanitary Marts/Production Units, training masons, and encouraging Self-Help Groups (SHGs) to access the revolving fund for APL households.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the continuing strategy for providing incentives to the poor?",
+    "answer": "The strategy will continue with the practice of providing incentives to BPL households for constructing and using sanitation facilities, with necessary corrections to improve results.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the strategy address the sanitation needs of weaker communities among APL (Above Poverty Line) households?",
+    "answer": "The efforts will also be to bring weaker communities, such as SC/STs and minorities among APLs, under the umbrella of incentives to accelerate sanitation coverage.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the strategy for motivating capable households to construct sanitation facilities?",
+    "answer": "The strategy is to motivate them to self-finance the construction of sanitation facilities using technology models that meet their affordability levels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the phased strategy for financing institutional sanitation?",
+    "answer": "The strategy is to first finance/facilitate construction of toilet facilities in all government rural schools and Anganwadis, and then, in a phased manner, extend this to government-aided and private rural schools.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are some alternative financial sources that the strategy will promote?",
+    "answer": "The strategy will promote alternative financial sources like the 13th Finance Commission, Public Private Partnerships (PPPs), banks, and microfinance institutions.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is there a need for funding for the operation and maintenance (O&M) of sanitation facilities?",
+    "answer": "Without proper maintenance, sanitation facilities will result in the entire community slipping back to open defecation status, especially for institutional facilities that often lack proper cleanliness.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the strategy for providing funds for O&M?",
+    "answer": "The strategy is to provide funds for O&M at the Gram Panchayat level, to be used according to a defined methodology.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of the \"Calamity Fund\"?",
+    "answer": "The purpose is to provide funds at the district level to restore sanitation facilities that have been destroyed due to natural calamities like floods, droughts, or earthquakes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is a revolving fund at the Gram Panchayat level required?",
+    "answer": "A revolving fund is needed for major repairs of damaged, disused, or misused sanitation facilities to bridge the gap between access and usage and help GPs achieve an ODF status in real terms.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the approach to impact assessment?",
+    "answer": "The approach is to have a more organized and periodic approach to assess the success and limitations of policies to make mid-course corrections.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the core principle of the monitoring strategy?",
+    "answer": "The strategy is to have a strong monitoring system where the institution responsible for an activity also undertakes its monitoring.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the basis for incentivizing the achievement of milestones?",
+    "answer": "The monitoring system itself will be the basis for incentivizing on the achievement of various milestones.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the two primary ingredients of an effective monitoring system?",
+    "answer": "The two primary ingredients are the timeliness and the robustness of the data.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How can mobile-based monitoring systems be effective?",
+    "answer": "They can collect data economically through a large number of data collectors, transfer it immediately, and analyze it to aid in decision-making.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the four types of monitoring mentioned in the text?",
+    "answer": "The four types are Process monitoring, Quality monitoring, Usage and sustainability monitoring, and Impact monitoring.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What does \"Quality monitoring\" entail?",
+    "answer": "It involves monitoring the quality of the facilities constructed to ensure they subscribe to improved sanitation parameters.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How often will usage and sustainability monitoring be undertaken?",
+    "answer": "It will be undertaken at quarterly intervals through sample studies of NGP villages, conducted by third-party organizations.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the impact of sanitation on health be monitored?",
+    "answer": "The impact will be monitored by comparing the changes in health parameters like diarrhea with the achievement of sanitation outcomes, using data from the health department.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What will a comprehensive Management Information System (MIS) be designed for?",
+    "answer": "A comprehensive MIS will be designed to incorporate the various monitoring outcomes, evolve composite indicators to assess performance, and benchmark states and districts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will the MIS system handle data from different sources?",
+    "answer": "It will develop common indicators and have inherent systems to compare and reconcile its data and results with other monitoring programs like NFHS, JMP, DLHS, and NSSO.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What are the components of community-level monitoring?",
+    "answer": "Community-level monitoring will incorporate community-level monitoring, third-party monitoring, and social audits of achievements.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the overall objective of convergence with other ministries?",
+    "answer": "The overall objective is to achieve optimum results and effective acceleration in rural sanitation coverage by enhancing the quality of life in rural areas.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What specific activity can be converged with NRHM regarding high-risk polio districts?",
+    "answer": "The significance of sanitation can be highlighted in high Polio risk Districts.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the financial policy of the Government of India under TSC for the poor?",
+    "answer": "The policy has been to disburse incentives to BPL households, which are considered the poorest in rural areas.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "Why is poverty considered a barrier to accelerating rural sanitation coverage?",
+    "answer": "Poverty continues to be a barrier because it prevents the poorest from constructing and using sanitation facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary role of IEC (Information, Education, and Communication) in the sanitation strategy?",
+    "answer": "IEC is meant to be a continuous activity that involves all sections of the rural population to generate willingness to create sanitation facilities for themselves.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What kind of support will be provided for Anganwadis operating from non-government buildings?",
+    "answer": "The strategy is to finance/facilitate construction of toilet facilities in these Anganwadis in a phased manner.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How do sanitation committees at the district and Gram Panchayat level facilitate intersectoral convergence?",
+    "answer": "They facilitate by including health-related officials to pool financial and human resources.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of the ASHA worker in the convergence with NRHM?",
+    "answer": "The ASHA worker will receive a toilet and incentives for their role in community mobilization on the importance of sanitation facilities.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of an Anganwadi worker as a sanitation motivator?",
+    "answer": "An Anganwadi worker can work as a sanitation motivator to generate effective demand for sanitation and earn an incentive under the TSC.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What specific data is mentioned that can be used for impact monitoring of sanitation on health?",
+    "answer": "Data from the health department on diarrhea is specifically mentioned as a key health parameter.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of reconciling monitoring data from different sources?",
+    "answer": "The purpose is to compare and validate data and results with other national and international monitoring programs to ensure accuracy.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How does the strategy link monitoring to incentives?",
+    "answer": "The monitoring system will serve as the basis for incentivizing the achievement of various milestones.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the core principle behind the strategy for funding O&M?",
+    "answer": "The principle is to provide funds directly at the Gram Panchayat level to ensure that sanitation facilities are maintained.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the proposed solution for damaged or disused toilets?",
+    "answer": "A revolving fund will be made available at the Gram Panchayat level for major repairs.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the objective of carrying out joint studies between health and sanitation?",
+    "answer": "The objective is to generate comprehensive data on the linkages between health and sanitation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the long-term objective of the MIS system?",
+    "answer": "The MIS system will evolve to provide composite indicators to assess overall performance and benchmark states and districts against each other.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the role of the political leadership in the sanitation program?",
+    "answer": "Political leadership is required to ensure adequate funding and priority for the sanitation sector at all levels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the specific role of the National Rural Health Mission (NRHM) in joint training programs?",
+    "answer": "NRHM will participate in joint training programs with sanitation functionaries at the District, Block, and Village levels.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a specific activity that can be converged with NRLM to support sanitation?",
+    "answer": "The NRLM can support the setting up of Rural Sanitary Marts and production units.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the difference between process monitoring and quality monitoring?",
+    "answer": "Process monitoring tracks the steps adopted by the program, while quality monitoring checks the quality of the facilities constructed.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary role of the Gram Panchayat in the financing for sustainability?",
+    "answer": "The Gram Panchayat is expected to use funds provided to maintain sanitation facilities as per a defined methodology.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the primary reason that sustainability of sanitation facilities is of utmost importance?",
+    "answer": "Sustainability is crucial because studies have shown that villages awarded the Nirmal Gram Puraskar (NGP) have slipped back to open defecation status when sanitation facilities are not sustained.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the strategy for addressing the lack of operation and maintenance (O&M) for sanitation facilities?",
+    "answer": "The strategy is to provide funds for operation and maintenance at the Gram Panchayat (GP) level.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the purpose of the \"Calamity Fund\"?",
+    "answer": "The Calamity Fund is intended to provide funds at the district level to restore sanitation facilities that have been destroyed by natural calamities like floods, droughts, or earthquakes.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the key principle behind the incentive strategy?",
+    "answer": "The principle is to institute multi-level incentives to motivate the achievement and sustainability of sanitation outcomes at different levels, including individuals, villages, GPs, and state governments.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the \"Swachch Gram Puraskar\" in Rewa district, Madhya Pradesh?",
+    "answer": "It is a district-level award of Rs. 50,000 to reward one GP from each block that follows demand-driven principles and sustains its ODF (Open Defecation Free) status.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How is the \"Swachch Gram Puraskar\" awarded?",
+    "answer": "The award is presented based on scores given in a peer review process led by sub-division-level officers.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is the scope of the \"Swachch Gram Puraskar\" award?",
+    "answer": "The award is limited to those GPs that have applied for the Nirmal Gram Puraskar (NGP).",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "How will states be encouraged to design their own reward programs?",
+    "answer": "States will be encouraged to design and implement reward programs for villages that achieve and sustain their Nirmal status.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a disincentive strategy for local governments that slip back from their \"Nirmal\" status?",
+    "answer": "The strategy includes implementing disincentives for local governments that revert to open defecation.",
+    "specialty": "general_medicine"
+  },
+  {
+    "question": "What is a disincentive strategy to discourage frivolous applications for the Nirmal Gram Puraskar?",
+    "answer": "The strategy is to have states bear the cost of the survey for such applications, in addition to any other deemed disincentives.",
+    "specialty": "general_medicine"
+  }
+]

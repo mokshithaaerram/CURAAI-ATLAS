@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What are common side effects of calcium channel blockers and how are they managed?",
+    "answer": "Peripheral edema (dose-dependent) \u2013 may improve with dose reduction or combination with ACE inhibitors.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are common side effects of diuretics and their precautions?",
+    "answer": "Metabolic side effects: hypokalemia, hyperglycemia (less at 12.5 mg dose or with ACE inhibitors); Thiazide-induced hyponatremia: more common in elderly/low body weight; may cause altered consciousness or seizures, sometimes requiring hospitalization and saline administration.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are side effects of ACE inhibitors?",
+    "answer": "Dry cough \u2013 may require discontinuation; Hypotension in patients on diuretics or low-salt diet; Serum creatinine rise \u2013 usually reversible; Hyperkalemia \u2013 higher risk in renal insufficiency, diabetes, potassium-sparing diuretics, elderly.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should hypertension be monitored at the community level?",
+    "answer": "Train community health workers to detect hypertension, promote lifestyle changes, monitor therapy response, and ensure adherence; Create hypertension registries at PHC & CHC for tracking and recall; Encourage home BP monitoring with validated automated devices; Perform annual review of BP, lifestyle adherence, drug side effects, and target organ damage.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What lifestyle advice should be given to patients with high normal BP?",
+    "answer": "Annual review of BP; Maintain healthy weight; Implement dietary modifications; Avoid tobacco; Promote regular exercise.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended procedure for measuring blood pressure?",
+    "answer": "Patient preparation: rest 5 min, no caffeine 1 hr, no smoking 30 min, seated with back supported, arm at heart level, legs uncrossed; Device: mercury or validated oscillometric devices, calibrated regularly; Cuff: bladder length 80% arm circumference, width 40%, large cuff for obese, place 2\u20133 cm above cubital fossa; Measurement: Inflate above radial pulse disappearance, deflate 2\u20133 mm/sec, record first and last Korotkoff sounds (systolic & diastolic), for diabetics/elderly also measure standing BP; Repeat readings: at least 2 readings 1 min apart, third if difference >5 mm Hg, use lower reading as representative.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is hypertension classified by grade?",
+    "answer": "Grade 1 HT: SBP 140\u2013159 / DBP 90\u201399 mm Hg; Grade 2 HT: SBP 160\u2013179 / DBP 100\u2013109 mm Hg; Grade 3 HT: SBP \u2265180 / DBP \u2265110 mm Hg; Isolated systolic HT: SBP \u2265140 (<80 yrs) or \u2265150 (>80 yrs) with DBP <90.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the difference between hypertensive urgency and emergency?",
+    "answer": "Hypertensive urgency: severe BP elevation without acute target organ damage; managed with oral drugs gradually; Hypertensive emergency: severe BP with acute cardiac, neurologic, renal, or retinal damage; requires IV antihypertensives and hospitalization.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What investigations are recommended in a patient with hypertension?",
+    "answer": "Grade 1 HT: history for risk factors/CVD, exam for CVD, screen for diabetes/proteinuria; Grade 2 HT: above + lipids, urinalysis, serum creatinine, ECG; Grade 3 HT / <40 or >60 yrs / resistant HT: comprehensive evaluation for secondary HT, ophthalmoscopy, renal ultrasound if indicated, ECHO if heart failure suspected.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should antihypertensive therapy be initiated in patients without compelling indications?",
+    "answer": "Grade 1 HT: lifestyle modification trial 3 months, then start one drug (A, C*, or D); Grade 2 HT: two drugs (A+C, C+D, A+D preferred); Grade 3 HT: two or more drugs, escalate to three drugs (A+C+D) if needed; Resistant HT: consider specialist referral.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should antihypertensive therapy be tailored for patients with comorbidities?",
+    "answer": "DM: A/C/D; CAD / post-MI: B + A/C; CHF: D + A + B \u00b1 MRA; CKD: A/C/D; monitor creatinine and potassium if ACE inhibitors used; Elderly (>60 yrs): CCBs preferred.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the patient flow pathway for hypertension management in primary care?",
+    "answer": "Non-physician staff: screen, refer, educate, assess, advise lifestyle & adherence, monitor, follow-up; Physician at PHC/CHC: diagnose, classify, educate, assess TOD/comorbidities, advise, register, initiate therapy, refer if needed, follow-up.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When should patients be referred to district hospitals?",
+    "answer": "Hypertensive emergency after treatment initiation; Resistant hypertension evaluation; Management of associated clinical conditions (e.g., ischemic heart disease).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should hypertensive crisis (>180/110 mm Hg) be assessed and managed?",
+    "answer": "Assess: consciousness, breathlessness, chest pain, limb weakness, urinary output, edema, fundus, seizures; Investigations: serum creatinine, X-ray chest, ECG, CT if indicated; Management: Asymptomatic / no organ damage \u2192 hypertensive urgency \u2192 oral drugs gradually; With organ damage \u2192 hypertensive emergency \u2192 IV antihypertensives, hospitalization, manage underlying cause (cardiac, neurologic, renal, obstetric, surgical).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What lifestyle modifications are recommended for all patients with hypertension?",
+    "answer": "Dietary changes: reduce salt intake, low-fat diet, maintain healthy weight; Physical activity: regular exercise; Tobacco cessation; Alcohol moderation; Stress management.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How long should lifestyle modifications be tried before starting drug therapy in uncomplicated Grade 1 HT?",
+    "answer": "3 months of lifestyle modifications before initiating drug therapy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the preferred antihypertensive drug for the elderly (>60 years)?",
+    "answer": "Calcium channel blockers (CCBs) are preferred due to efficacy and safety.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the role of home blood pressure monitoring?",
+    "answer": "Allows patients to track BP at home using validated devices; Helps detect white-coat hypertension or masked hypertension; Encourages self-management and adherence.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the importance of a hypertension registry at PHC/CHC level?",
+    "answer": "Tracks patients systematically; Enables recall and follow-up by community health workers; Facilitates monitoring of adherence, control, and outcomes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is isolated systolic hypertension and its criteria?",
+    "answer": "SBP \u2265140 mm Hg (<80 yrs) or \u2265150 mm Hg (>80 yrs) with DBP <90 mm Hg; Common in the elderly due to arterial stiffness.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the urgent referral criteria during screening?",
+    "answer": "BP >180 mm Hg systolic and/or >110 mm Hg diastolic; Immediate referral to higher-level facility.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the standard procedure for BP measurement in diabetic or elderly patients?",
+    "answer": "Measure BP supine, then after 2 minutes of standing to detect postural hypotension.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should the number of BP measurements be taken and recorded?",
+    "answer": "At least 2 readings, 1 minute apart; If difference >5 mm Hg, take a third reading; Use the lower of the two closest readings as representative BP.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What investigations are part of essential evaluation in Grade 1 HT?",
+    "answer": "History: risk factors, cardiovascular disease; Examination: clinical cardiovascular signs (angina, heart failure, stroke); Screening: diabetes, proteinuria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What additional investigations are part of desirable evaluation in Grade 2 HT?",
+    "answer": "Lipid profile; Urinalysis; Serum creatinine; ECG.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What does a comprehensive evaluation in Grade 3 HT or young/elderly/resistant HT patients include?",
+    "answer": "Essential + desirable evaluation; Investigate secondary HT; Ophthalmoscopy; Renal ultrasound if suspicion of parenchymal or renovascular disease; ECHO if heart failure suspected.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is hypertensive urgency managed?",
+    "answer": "Reduce BP gradually over hours to days using oral antihypertensives; Do not use sublingual nifedipine due to risk of rapid BP drop.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is hypertensive emergency managed?",
+    "answer": "Requires hospitalization; Use IV antihypertensives; Treat underlying cardiac, neurologic, renal, obstetric, or surgical emergency.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are common cardiac emergencies associated with hypertensive crisis?",
+    "answer": "Acute left ventricular failure; Myocardial infarction; Unstable angina.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are common neurologic emergencies in hypertensive crisis?",
+    "answer": "Hypertensive encephalopathy; Ischemic stroke; Intracerebral hemorrhage; Subarachnoid hemorrhage; Head injury.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are renal emergencies in hypertensive crisis?",
+    "answer": "Acute glomerulonephritis; Renovascular hypertension.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are surgical and obstetric emergencies related to hypertension?",
+    "answer": "Surgical: postoperative hypertension, severe burns; Obstetric: eclampsia.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the general role of non-physician health staff in hypertension management?",
+    "answer": "Screening, referring for diagnosis; Educating on lifestyle modifications and drug adherence; Monitoring and follow-up in community settings.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the general role of physicians at PHC/CHC in hypertension management?",
+    "answer": "Diagnose and classify hypertension; Educate patients; Assess target organ damage and comorbidities; Advise treatment and lifestyle measures; Register patients, initiate therapy, and refer if needed; Follow-up monitoring for BP control and complications.",
+    "specialty": "diabetes"
+  }
+]
