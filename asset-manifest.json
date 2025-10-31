@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miriad-atlas-clone/static/css/main.0862c03c.css",
+    "main.js": "/miriad-atlas-clone/static/js/main.4da8bf9c.js",
+    "index.html": "/miriad-atlas-clone/index.html",
+    "main.0862c03c.css.map": "/miriad-atlas-clone/static/css/main.0862c03c.css.map",
+    "main.4da8bf9c.js.map": "/miriad-atlas-clone/static/js/main.4da8bf9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0862c03c.css",
+    "static/js/main.4da8bf9c.js"
+  ]
+}

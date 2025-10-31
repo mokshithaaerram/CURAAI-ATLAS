@@ -1,0 +1,878 @@
+[
+  {
+    "question": "What is acne vulgaris and what causes it?",
+    "answer": "Acne vulgaris is a common skin condition caused by clogged hair follicles and sebaceous glands. It is influenced by hormonal changes, excess oil production, bacteria, and inflammation."
+  },
+  {
+    "question": "How is eczema different from psoriasis?",
+    "answer": "Eczema is an inflammatory skin condition causing itchy, red patches, often triggered by allergens or irritants. Psoriasis is an autoimmune disorder leading to thick, scaly plaques, often on the elbows, knees, and scalp."
+  },
+  {
+    "question": "What are the signs of fungal skin infections?",
+    "answer": "Fungal skin infections often present as red, itchy, and scaly patches, sometimes with blisters or rings. Common examples include ringworm, athlete's foot, and candidiasis."
+  },
+  {
+    "question": "What is the treatment for seborrheic dermatitis?",
+    "answer": "Seborrheic dermatitis is treated with antifungal shampoos or creams, corticosteroids for inflammation, and regular cleansing of affected areas."
+  },
+  {
+    "question": "How can one prevent sunburn?",
+    "answer": "Sunburn can be prevented by applying broad-spectrum sunscreen, wearing protective clothing, avoiding peak sun hours, and using hats or umbrellas for shade."
+  },
+  {
+    "question": "What are the risk factors for skin cancer?",
+    "answer": "Risk factors include excessive sun exposure, fair skin, family history of skin cancer, immunosuppression, and exposure to certain chemicals."
+  },
+  {
+    "question": "What is the difference between basal cell carcinoma and melanoma?",
+    "answer": "Basal cell carcinoma is a slow-growing skin cancer often appearing as a pearly nodule. Melanoma is an aggressive cancer arising from melanocytes, usually appearing as a dark, irregular mole."
+  },
+  {
+    "question": "How can warts be treated?",
+    "answer": "Warts can be treated with topical salicylic acid, cryotherapy (freezing), laser treatment, or immune-modulating therapies."
+  },
+  {
+    "question": "What is alopecia areata?",
+    "answer": "Alopecia areata is an autoimmune condition causing patchy hair loss, where the immune system attacks hair follicles."
+  },
+  {
+    "question": "How is dermatitis herpetiformis related to celiac disease?",
+    "answer": "Dermatitis herpetiformis is a chronic, itchy skin rash caused by gluten sensitivity. It is closely linked to celiac disease and improves with a gluten-free diet."
+  },
+  {
+    "question": "What causes rosacea?",
+    "answer": "Rosacea is a chronic inflammatory skin condition caused by a combination of genetic, vascular, and environmental factors, leading to redness and pimples on the face."
+  },
+  {
+    "question": "What is the role of moisturizers in treating dry skin?",
+    "answer": "Moisturizers help to restore the skin barrier, lock in hydration, and reduce itching and flaking in dry skin conditions."
+  },
+  {
+    "question": "What are the common triggers of contact dermatitis?",
+    "answer": "Contact dermatitis can be triggered by allergens like nickel, fragrances, or chemicals, and irritants like soaps or detergents."
+  },
+  {
+    "question": "How can hyperpigmentation be managed?",
+    "answer": "Hyperpigmentation can be managed with sun protection, topical treatments like hydroquinone, retinoids, vitamin C, and chemical peels."
+  },
+  {
+    "question": "What is vitiligo?",
+    "answer": "Vitiligo is a condition where melanocytes are destroyed, leading to depigmented patches on the skin. Its exact cause is autoimmune-related."
+  },
+  {
+    "question": "How are keloids treated?",
+    "answer": "Keloids are treated using corticosteroid injections, silicone sheets, pressure therapy, cryotherapy, or surgical removal in some cases."
+  },
+  {
+    "question": "What is the difference between impetigo and cellulitis?",
+    "answer": "Impetigo is a superficial bacterial skin infection causing crusty sores, mostly in children. Cellulitis is a deeper infection of the dermis and subcutaneous tissue, often causing swelling, redness, and pain."
+  },
+  {
+    "question": "What is the most common cause of nail fungal infections?",
+    "answer": "Nail fungal infections are most commonly caused by dermatophytes, especially Trichophyton species."
+  },
+  {
+    "question": "How is melasma treated?",
+    "answer": "Melasma is treated using sun protection, topical bleaching agents like hydroquinone, retinoids, chemical peels, and sometimes laser therapy."
+  },
+  {
+    "question": "What are the symptoms of urticaria (hives)?",
+    "answer": "Urticaria presents as raised, itchy, red or skin-colored welts that can appear anywhere on the body and may be triggered by allergens, infections, or stress."
+  },
+  {
+    "question": "What is the role of corticosteroids in dermatology?",
+    "answer": "Corticosteroids reduce inflammation, itching, and redness in various skin conditions such as eczema, psoriasis, and allergic reactions."
+  },
+  {
+    "question": "How can fungal infections of the scalp be prevented?",
+    "answer": "Prevention includes maintaining scalp hygiene, avoiding sharing combs or hats, keeping hair dry, and treating pets if infected."
+  },
+  {
+    "question": "What are the complications of severe acne?",
+    "answer": "Complications include scarring, post-inflammatory hyperpigmentation, and psychological effects like anxiety or depression."
+  },
+  {
+    "question": "How is lichen planus recognized?",
+    "answer": "Lichen planus presents as purple, flat-topped, itchy papules, often on the wrists, ankles, or oral mucosa."
+  },
+  {
+    "question": "What is the treatment for pityriasis rosea?",
+    "answer": "Pityriasis rosea is usually self-limiting and treated with symptomatic relief like antihistamines, emollients, and topical corticosteroids for itching."
+  },
+  {
+    "question": "What are the causes of contact urticaria?",
+    "answer": "Contact urticaria can be caused by allergens like latex, foods, or plants, and sometimes by irritants like chemicals."
+  },
+  {
+    "question": "What is the role of retinoids in dermatology?",
+    "answer": "Retinoids help regulate skin cell growth and are used for acne, psoriasis, and photoaging treatments."
+  },
+  {
+    "question": "How can psoriasis be managed?",
+    "answer": "Psoriasis management includes topical corticosteroids, vitamin D analogs, systemic treatments like methotrexate or biologics, and phototherapy."
+  },
+  {
+    "question": "What are the symptoms of scabies?",
+    "answer": "Scabies presents with intense itching, especially at night, and a rash with burrows, usually between fingers, wrists, and waistline."
+  },
+  {
+    "question": "What is the difference between tinea corporis and tinea cruris?",
+    "answer": "Tinea corporis affects the body (trunk and limbs) while tinea cruris affects the groin area. Both are caused by dermatophyte fungi."
+  },
+  {
+    "question": "How is acne scarring treated?",
+    "answer": "Treatment options include chemical peels, microneedling, laser therapy, dermal fillers, and in some cases, surgical revision."
+  },
+  {
+    "question": "What is the role of antibiotics in dermatology?",
+    "answer": "Antibiotics treat bacterial skin infections like impetigo, cellulitis, and acne caused by bacterial overgrowth."
+  },
+  {
+    "question": "What are the common types of eczema?",
+    "answer": "Common types include atopic dermatitis, contact dermatitis, nummular eczema, and seborrheic dermatitis."
+  },
+  {
+    "question": "What causes photosensitivity reactions?",
+    "answer": "Photosensitivity reactions can be caused by medications, chemicals, or genetic disorders that make skin more sensitive to sunlight."
+  },
+  {
+    "question": "What is the treatment for actinic keratosis?",
+    "answer": "Actinic keratosis is treated with cryotherapy, topical 5-fluorouracil, imiquimod, or photodynamic therapy to prevent progression to skin cancer."
+  },
+  {
+    "question": "How can cold sores be managed?",
+    "answer": "Cold sores caused by HSV-1 are managed with antiviral medications, topical creams, and avoiding triggers like stress and sunlight."
+  },
+  {
+    "question": "What is the difference between dry and oily skin?",
+    "answer": "Dry skin lacks moisture and often appears flaky, while oily skin produces excess sebum and may be prone to acne."
+  },
+  {
+    "question": "What is the role of emollients in eczema?",
+    "answer": "Emollients help hydrate the skin, restore the skin barrier, and reduce flare-ups in eczema patients."
+  },
+  {
+    "question": "How is rosacea flaring managed?",
+    "answer": "Rosacea flares are managed by avoiding triggers, using topical metronidazole or azelaic acid, and sometimes oral antibiotics."
+  },
+  {
+    "question": "What is the difference between erythema multiforme minor and major?",
+    "answer": "EM minor usually presents with target lesions without mucosal involvement, while EM major involves mucous membranes and can be more severe."
+  },
+  {
+    "question": "What is the treatment for warts in children?",
+    "answer": "Treatment includes topical salicylic acid, cryotherapy, or observation, as many warts resolve spontaneously in children."
+  },
+  {
+    "question": "What are the symptoms of pityriasis versicolor?",
+    "answer": "Pityriasis versicolor causes hypo- or hyperpigmented patches with fine scaling, usually on the trunk and shoulders, caused by Malassezia yeast."
+  },
+  {
+    "question": "What is the role of immunotherapy in dermatology?",
+    "answer": "Immunotherapy is used for allergic skin conditions, melanoma, and other cancers to modulate the immune system's response."
+  },
+  {
+    "question": "How can eczema be prevented in infants?",
+    "answer": "Prevention includes avoiding harsh soaps, maintaining skin hydration, breastfeeding, and minimizing exposure to allergens."
+  },
+  {
+    "question": "What is the treatment for sebaceous cysts?",
+    "answer": "Sebaceous cysts are treated with incision and drainage, surgical excision, or sometimes observation if asymptomatic."
+  },
+  {
+    "question": "What causes itchy scalp?",
+    "answer": "Itchy scalp can be caused by dandruff, psoriasis, fungal infections, lice, or allergic reactions to hair products."
+  },
+  {
+    "question": "What are the features of bullous pemphigoid?",
+    "answer": "Bullous pemphigoid is an autoimmune blistering disorder in elderly patients, presenting with tense blisters and itching."
+  },
+  {
+    "question": "How can sunspots be treated?",
+    "answer": "Sunspots can be treated with topical bleaching agents, chemical peels, laser therapy, and strict sun protection."
+  },
+  {
+    "question": "What is the role of phototherapy in dermatology?",
+    "answer": "Phototherapy uses UV light to treat conditions like psoriasis, eczema, and vitiligo by modulating immune responses."
+  },
+  {
+    "question": "What are the causes of itchy skin?",
+    "answer": "Itchy skin can be caused by dry skin, allergies, infections, liver or kidney disease, medications, or systemic conditions."
+  },
+  {
+    "question": "How is eczema flare managed?",
+    "answer": "Eczema flares are managed with topical corticosteroids, antihistamines, moisturizers, and avoiding triggers."
+  },
+  {
+    "question": "What is the treatment for ingrown nails?",
+    "answer": "Treatment includes proper nail trimming, warm soaks, topical antibiotics if infected, and sometimes surgical removal."
+  },
+  {
+    "question": "How can fungal nail infections be prevented?",
+    "answer": "Prevention includes keeping nails dry, avoiding sharing nail tools, wearing breathable shoes, and treating tinea infections promptly."
+  },
+  {
+    "question": "What are the symptoms of hand, foot, and mouth disease?",
+    "answer": "HFMD causes fever, mouth sores, and vesicular rash on hands, feet, and sometimes buttocks, mostly in children."
+  },
+  {
+    "question": "What is the role of zinc in skin health?",
+    "answer": "Zinc helps in wound healing, reducing inflammation, regulating oil production, and supporting overall skin health."
+  },
+  {
+    "question": "How is fungal skin infection diagnosed?",
+    "answer": "Diagnosis involves clinical examination, KOH test, culture, and sometimes skin biopsy for atypical cases."
+  },
+  {
+    "question": "What are the signs of bacterial skin infections?",
+    "answer": "Bacterial infections may present as redness, warmth, swelling, pain, pus, or crusted lesions."
+  },
+  {
+    "question": "What is the difference between eczema and dermatitis?",
+    "answer": "Eczema is a chronic condition with itchy inflammation, while dermatitis is a broader term referring to skin inflammation from various causes."
+  },
+  {
+    "question": "How is hives treated?",
+    "answer": "Hives are treated with antihistamines, corticosteroids for severe cases, and avoiding triggers."
+  },
+  {
+    "question": "What is the treatment for chilblains?",
+    "answer": "Chilblains are treated with warming the affected area, avoiding cold exposure, topical corticosteroids, and in severe cases, nifedipine."
+  },
+  {
+    "question": "What causes acne in adults?",
+    "answer": "Adult acne is caused by hormonal fluctuations, stress, certain medications, and sometimes underlying endocrine disorders."
+  },
+  {
+    "question": "How can dry lips be treated?",
+    "answer": "Treatment includes using emollient lip balms, avoiding lip licking, and addressing underlying causes like dehydration or vitamin deficiency."
+  },
+  {
+    "question": "What is the role of chemical peels?",
+    "answer": "Chemical peels remove the outer layers of skin to improve texture, pigmentation, acne scars, and signs of aging."
+  },
+  {
+    "question": "What are the signs of allergic reactions on skin?",
+    "answer": "Signs include redness, swelling, hives, itching, blisters, or rash, often after exposure to an allergen."
+  },
+  {
+    "question": "What is the difference between primary and secondary skin infections?",
+    "answer": "Primary infections occur on previously healthy skin, while secondary infections develop on already damaged or diseased skin."
+  },
+  {
+    "question": "How is dermatitis managed during pregnancy?",
+    "answer": "Management includes using mild emollients, avoiding irritants, and using pregnancy-safe topical corticosteroids if necessary."
+  },
+  {
+    "question": "What is the treatment for scabies?",
+    "answer": "Scabies is treated with topical permethrin, oral ivermectin for severe cases, and washing clothes and bedding to prevent reinfection."
+  },
+  {
+    "question": "What are the symptoms of molluscum contagiosum?",
+    "answer": "Molluscum contagiosum causes small, firm, pearly or flesh-colored papules, often with a central dimple, commonly in children."
+  },
+  {
+    "question": "How can acne be prevented?",
+    "answer": "Prevention includes proper cleansing, avoiding comedogenic products, healthy diet, managing stress, and sometimes topical treatments."
+  },
+  {
+    "question": "What is the role of moisturizers in psoriasis?",
+    "answer": "Moisturizers reduce scaling, redness, and itching in psoriasis, and help improve skin barrier function."
+  },
+  {
+    "question": "What are the common causes of acne in teenagers?",
+    "answer": "Acne in teenagers is commonly caused by hormonal changes during puberty, excess oil production, bacterial growth on the skin, and clogged hair follicles. Diet and stress can also contribute."
+  },
+  {
+    "question": "How can psoriasis be managed effectively?",
+    "answer": "Psoriasis can be managed with topical treatments like corticosteroids, vitamin D analogs, moisturizers, phototherapy, and systemic medications in severe cases, along with lifestyle modifications."
+  },
+  {
+    "question": "What are the early signs of skin cancer?",
+    "answer": "Early signs of skin cancer include new growths, sores that do not heal, changes in existing moles, irregular borders, varied color, and itching or bleeding lesions."
+  },
+  {
+    "question": "How is eczema different from dermatitis?",
+    "answer": "Eczema is a chronic condition causing dry, itchy, inflamed skin, whereas dermatitis is a broader term for inflammation of the skin, which can include allergic reactions and irritants."
+  },
+  {
+    "question": "What precautions should be taken for sun protection?",
+    "answer": "Sun protection includes applying broad-spectrum sunscreen with SPF 30 or higher, wearing protective clothing, hats, sunglasses, and avoiding sun exposure during peak hours (10 am to 4 pm)."
+  },
+  {
+    "question": "How can fungal infections of the skin be prevented?",
+    "answer": "Fungal infections can be prevented by keeping the skin dry and clean, avoiding sharing personal items, wearing breathable clothing, and promptly treating athlete's foot or other fungal conditions."
+  },
+  {
+    "question": "What are the symptoms of alopecia areata?",
+    "answer": "Alopecia areata causes sudden hair loss in round patches, sometimes with tingling or itching. In severe cases, it may lead to total scalp hair loss or complete body hair loss."
+  },
+  {
+    "question": "How is vitiligo treated in India?",
+    "answer": "Vitiligo treatment includes topical corticosteroids, calcineurin inhibitors, phototherapy, depigmentation therapy in extensive cases, and sometimes surgical options like skin grafting."
+  },
+  {
+    "question": "What is the role of moisturizers in skincare?",
+    "answer": "Moisturizers help maintain skin hydration, repair the skin barrier, reduce dryness and irritation, and can improve the effectiveness of topical medications in dermatological treatments."
+  },
+  {
+    "question": "How can children prevent chickenpox infections?",
+    "answer": "Prevention includes vaccination with the varicella vaccine, avoiding contact with infected individuals, maintaining good hygiene, and isolating affected children to reduce spread."
+  },
+  {
+    "question": "What are the triggers for urticaria (hives)?",
+    "answer": "Triggers include allergic reactions to food, medications, insect stings, infections, stress, temperature changes, and sometimes idiopathic causes."
+  },
+  {
+    "question": "How is melasma treated?",
+    "answer": "Melasma treatment includes sun protection, topical depigmenting agents like hydroquinone, chemical peels, laser therapy in resistant cases, and avoiding triggers such as hormonal changes or sun exposure."
+  },
+  {
+    "question": "What causes ringworm infections in children?",
+    "answer": "Ringworm is caused by dermatophyte fungi, transmitted through direct contact with infected individuals, animals, or contaminated objects like towels or bedding."
+  },
+  {
+    "question": "What are the common symptoms of scabies?",
+    "answer": "Scabies symptoms include intense itching, especially at night, red rashes, burrow tracks in the skin, and secondary infections due to scratching."
+  },
+  {
+    "question": "How can acne scars be minimized?",
+    "answer": "Acne scars can be minimized using topical retinoids, chemical peels, laser therapy, microneedling, dermal fillers, and maintaining proper skincare to prevent new acne formation."
+  },
+  {
+    "question": "What is the role of diet in managing eczema?",
+    "answer": "A balanced diet, avoiding food allergens, and ensuring adequate intake of omega-3 fatty acids and vitamins can help reduce eczema flare-ups and improve skin health."
+  },
+  {
+    "question": "How is a skin biopsy performed?",
+    "answer": "A skin biopsy involves removing a small piece of skin using a punch, shave, or excisional method under local anesthesia, which is then examined under a microscope for diagnosis."
+  },
+  {
+    "question": "What are the signs of allergic contact dermatitis?",
+    "answer": "Signs include redness, itching, swelling, blistering, and sometimes oozing at the site of contact with allergens like nickel, cosmetics, or plants."
+  },
+  {
+    "question": "How is bacterial skin infection treated?",
+    "answer": "Bacterial skin infections are treated with topical or oral antibiotics, proper hygiene, wound care, and in severe cases, drainage of abscesses."
+  },
+  {
+    "question": "What are the types of acne lesions?",
+    "answer": "Acne lesions include comedones (whiteheads and blackheads), papules, pustules, nodules, and cysts, varying in severity and depth in the skin."
+  },
+  {
+    "question": "How can diabetic patients prevent skin complications?",
+    "answer": "Prevention includes regular skin inspection, keeping skin clean and moisturized, controlling blood sugar, wearing appropriate footwear, and promptly treating infections."
+  },
+  {
+    "question": "What causes hyperpigmentation in Indian skin?",
+    "answer": "Hyperpigmentation is caused by sun exposure, hormonal changes, post-inflammatory conditions, certain medications, and genetic predisposition."
+  },
+  {
+    "question": "What is the treatment for warts?",
+    "answer": "Warts can be treated with topical salicylic acid, cryotherapy, laser therapy, immunotherapy, or surgical removal, depending on type and location."
+  },
+  {
+    "question": "How can hair loss due to telogen effluvium be managed?",
+    "answer": "Management includes addressing underlying causes like stress, hormonal changes, nutritional deficiencies, and using gentle hair care practices."
+  },
+  {
+    "question": "What is the difference between basal cell carcinoma and melanoma?",
+    "answer": "Basal cell carcinoma is a slow-growing, less aggressive skin cancer, often due to sun exposure, whereas melanoma is a more aggressive cancer with higher risk of metastasis."
+  },
+  {
+    "question": "How can chronic dandruff be treated?",
+    "answer": "Treatment includes medicated shampoos containing ketoconazole, zinc pyrithione, selenium sulfide, or salicylic acid, along with regular hair washing and scalp care."
+  },
+  {
+    "question": "What are the common side effects of topical steroids?",
+    "answer": "Side effects include skin thinning, stretch marks, redness, burning sensation, acne-like eruptions, and possible systemic absorption with prolonged use."
+  },
+  {
+    "question": "How can nail fungal infections be prevented?",
+    "answer": "Prevention includes keeping nails dry and trimmed, avoiding shared nail tools, wearing breathable footwear, and promptly treating athlete's foot."
+  },
+  {
+    "question": "What are the triggers for rosacea flare-ups?",
+    "answer": "Triggers include sun exposure, hot beverages, spicy foods, alcohol, stress, extreme temperatures, and certain medications or skincare products."
+  },
+  {
+    "question": "How can children prevent eczema flare-ups?",
+    "answer": "Prevention includes moisturizing skin regularly, avoiding known triggers, using gentle soaps, wearing breathable clothing, and managing environmental factors like humidity."
+  },
+  {
+    "question": "What are the common causes of dark circles under eyes?",
+    "answer": "Causes include genetics, lack of sleep, aging, allergies, dehydration, and sun exposure."
+  },
+  {
+    "question": "How is seborrheic dermatitis treated?",
+    "answer": "Treatment includes antifungal shampoos or creams, mild topical corticosteroids, maintaining scalp hygiene, and avoiding harsh hair products."
+  },
+  {
+    "question": "What are the symptoms of lupus affecting the skin?",
+    "answer": "Symptoms include red or purplish rashes, often on the face (butterfly rash), sensitivity to sunlight, hair loss, and sores on the skin or mucous membranes."
+  },
+  {
+    "question": "What are the best practices for acne-prone skin?",
+    "answer": "Best practices include gentle cleansing, non-comedogenic products, avoiding excessive scrubbing, sun protection, and consulting a dermatologist for persistent acne."
+  },
+  {
+    "question": "How can post-inflammatory hyperpigmentation be treated?",
+    "answer": "Treatment includes topical bleaching agents, chemical peels, laser therapy, sun protection, and avoiding picking or scratching lesions."
+  },
+  {
+    "question": "What are the causes of cold sores?",
+    "answer": "Cold sores are caused by the herpes simplex virus (HSV-1), transmitted through direct contact with an infected person or contaminated objects."
+  },
+  {
+    "question": "How is contact dermatitis diagnosed?",
+    "answer": "Diagnosis is based on patient history, physical examination, and sometimes patch testing to identify specific allergens."
+  },
+  {
+    "question": "How can oily skin be managed?",
+    "answer": "Oily skin can be managed with gentle cleansers, non-comedogenic moisturizers, oil-absorbing products, regular exfoliation, and avoiding harsh soaps."
+  },
+  {
+    "question": "What are the early signs of eczema in infants?",
+    "answer": "Early signs include dry, itchy patches on cheeks, scalp, or joints, redness, and sometimes oozing or crusting in severe cases."
+  },
+  {
+    "question": "How is cellulitis treated?",
+    "answer": "Cellulitis is treated with oral or intravenous antibiotics, proper wound care, elevation of the affected area, and monitoring for complications."
+  },
+  {
+    "question": "What is the role of antioxidants in skincare?",
+    "answer": "Antioxidants help protect the skin from free radical damage, reduce signs of aging, improve skin tone, and enhance overall skin health."
+  },
+  {
+    "question": "What causes keloid formation?",
+    "answer": "Keloids are caused by excessive collagen deposition during wound healing, often influenced by genetics, skin tension, and skin injury."
+  },
+  {
+    "question": "How can sunburn be treated?",
+    "answer": "Treatment includes cool compresses, moisturizing lotions, aloe vera, pain relief with NSAIDs, hydration, and avoiding further sun exposure."
+  },
+  {
+    "question": "What is the treatment for cold urticaria?",
+    "answer": "Treatment includes avoiding cold exposure, taking antihistamines, using protective clothing, and in severe cases, carrying an epinephrine auto-injector."
+  },
+  {
+    "question": "How is hair loss due to androgenetic alopecia treated?",
+    "answer": "Treatment includes topical minoxidil, oral finasteride for men, low-level laser therapy, hair transplant in advanced cases, and lifestyle support."
+  },
+  {
+    "question": "What is the role of chemical peels in dermatology?",
+    "answer": "Chemical peels remove damaged outer layers of skin, improve texture, reduce pigmentation, treat acne scars, and stimulate collagen production."
+  },
+  {
+    "question": "How can allergic reactions to cosmetics be prevented?",
+    "answer": "Prevention includes patch testing new products, choosing hypoallergenic formulations, avoiding expired products, and discontinuing use at first signs of reaction."
+  },
+  {
+    "question": "What are the symptoms of hand, foot, and mouth disease?",
+    "answer": "Symptoms include fever, painful sores in the mouth, and red rashes or blisters on the hands, feet, and sometimes buttocks."
+  },
+  {
+    "question": "How can psoriasis triggers be managed?",
+    "answer": "Triggers like stress, infections, medications, alcohol, and smoking can be managed with lifestyle modifications and adherence to treatment plans."
+  },
+  {
+    "question": "What is the role of retinoids in acne treatment?",
+    "answer": "Retinoids help unclog pores, reduce inflammation, promote skin cell turnover, and prevent new acne lesions from forming."
+  },
+  {
+    "question": "How is impetigo treated in children?",
+    "answer": "Impetigo is treated with topical or oral antibiotics, proper hygiene, cleaning affected areas, and avoiding close contact to prevent spread."
+  },
+  {
+    "question": "What causes perioral dermatitis?",
+    "answer": "Perioral dermatitis is caused by topical steroid use, certain cosmetics, hormonal changes, and bacterial or fungal factors."
+  },
+  {
+    "question": "How can eczema be managed during winters?",
+    "answer": "Management includes regular moisturizing, using humidifiers, avoiding hot showers, wearing soft fabrics, and adhering to prescribed topical medications."
+  },
+  {
+    "question": "What are the common causes of itchy scalp?",
+    "answer": "Causes include dandruff, seborrheic dermatitis, psoriasis, fungal infections, lice, allergies, and dry scalp."
+  },
+  {
+    "question": "How is actinic keratosis treated?",
+    "answer": "Treatment includes cryotherapy, topical fluorouracil, photodynamic therapy, chemical peels, and regular monitoring for malignant transformation."
+  },
+  {
+    "question": "What are the symptoms of ringworm on the scalp?",
+    "answer": "Symptoms include round, scaly patches, hair loss in affected areas, itching, and sometimes pus-filled lesions in severe cases."
+  },
+  {
+    "question": "How can stretch marks be minimized?",
+    "answer": "Stretch marks can be minimized with moisturizers, topical retinoids, laser therapy, microdermabrasion, and maintaining healthy skin elasticity through diet and hydration."
+  },
+  {
+    "question": "What is the treatment for pityriasis rosea?",
+    "answer": "Treatment includes antihistamines for itching, topical corticosteroids, moisturizers, and usually the condition resolves on its own within several weeks."
+  },
+  {
+    "question": "How is fungal nail infection diagnosed?",
+    "answer": "Diagnosis is made by clinical examination, KOH preparation, fungal culture, or sometimes nail biopsy to confirm the infection."
+  },
+  {
+    "question": "What are the common side effects of isotretinoin?",
+    "answer": "Side effects include dry skin and lips, nosebleeds, liver enzyme changes, elevated cholesterol, photosensitivity, and teratogenicity."
+  },
+  {
+    "question": "What are the causes of dark spots after acne?",
+    "answer": "Post-inflammatory hyperpigmentation after acne is caused by inflammation, sun exposure, and genetic predisposition, leading to dark patches."
+  },
+  {
+    "question": "How can atopic dermatitis be managed in infants?",
+    "answer": "Management includes regular moisturization, avoiding irritants, using gentle cleansers, topical corticosteroids when prescribed, and monitoring for infections."
+  },
+  {
+    "question": "What are the symptoms of lupus rash?",
+    "answer": "Symptoms include red, butterfly-shaped rash across the cheeks and nose, sensitivity to sunlight, and sometimes scaling or blistering."
+  },
+  {
+    "question": "What are the causes of itchy feet?",
+    "answer": "Itchy feet can be caused by fungal infections, eczema, allergies, dry skin, insect bites, or contact with irritants."
+  },
+  {
+    "question": "How can acne be prevented during Indian summers?",
+    "answer": "Prevention includes keeping the skin clean, using oil-free sunscreens, staying hydrated, avoiding heavy makeup, and controlling sweat and oil buildup."
+  },
+  {
+    "question": "What is the treatment for eczema flare-ups?",
+    "answer": "Treatment includes topical corticosteroids, moisturizers, antihistamines for itching, avoiding triggers, and in severe cases, systemic therapy."
+  },
+  {
+    "question": "How can hair be protected from damage due to pollution?",
+    "answer": "Protection includes washing hair regularly, using mild shampoos, covering hair outdoors, using antioxidants and hair oils, and avoiding excessive heat styling."
+  },
+  {
+    "question": "What are the common causes of hives in children?",
+    "answer": "Common causes include food allergies, insect bites, infections, medications, and environmental triggers like pollen or dust."
+  },
+  {
+    "question": "What is the role of phototherapy in dermatology?",
+    "answer": "Phototherapy helps treat conditions like psoriasis, vitiligo, and eczema by exposing the skin to controlled ultraviolet light under medical supervision."
+  },
+  {
+    "question": "How is a bacterial skin abscess treated?",
+    "answer": "Treatment includes incision and drainage if needed, antibiotics, proper hygiene, and monitoring for systemic infection."
+  },
+  {
+    "question": "How can chronic sun exposure affect the skin?",
+    "answer": "Chronic sun exposure can cause premature aging, wrinkles, pigmentation, sunburn, and increase the risk of skin cancers."
+  },
+  {
+    "question": "What are the signs of eczema herpeticum?",
+    "answer": "Signs include painful, blistering rash with oozing, fever, swollen lymph nodes, and sometimes systemic symptoms, requiring urgent medical care."
+  },
+  {
+    "question": "How can sebaceous cysts be treated?",
+    "answer": "Treatment includes monitoring if small and asymptomatic, incision and drainage if infected, or surgical excision if recurrent or bothersome."
+  },
+  {
+    "question": "What are the common causes of dry skin in India?",
+    "answer": "Causes include low humidity, excessive bathing, harsh soaps, aging, vitamin deficiencies, and underlying skin conditions like eczema."
+  },
+  {
+    "question": "How is lichen planus treated?",
+    "answer": "Treatment includes topical corticosteroids, antihistamines for itching, phototherapy, systemic medications in severe cases, and monitoring for complications."
+  },
+  {
+    "question": "What are the symptoms of contact urticaria?",
+    "answer": "Symptoms include redness, itching, swelling, and hives at the site of contact with allergens or irritants."
+  },
+  {
+    "question": "What are the common causes of acne in Indian teenagers?",
+    "answer": "Acne in Indian teenagers is commonly caused by hormonal changes during puberty, excessive sebum production, stress, dietary factors, and sometimes genetic predisposition."
+  },
+  {
+    "question": "How is eczema diagnosed in children?",
+    "answer": "Eczema in children is diagnosed through clinical examination, observing characteristic dry, itchy, and inflamed skin, family history of allergies, and sometimes patch testing."
+  },
+  {
+    "question": "What are the risk factors for psoriasis in India?",
+    "answer": "Risk factors for psoriasis include genetic predisposition, stress, infections, certain medications, smoking, and environmental triggers."
+  },
+  {
+    "question": "How is fungal skin infection treated?",
+    "answer": "Fungal skin infections are treated with topical antifungals like clotrimazole or terbinafine, and severe cases may require oral antifungal medications."
+  },
+  {
+    "question": "What is the difference between vitiligo and albinism?",
+    "answer": "Vitiligo is an acquired loss of skin pigment in patches due to autoimmune destruction of melanocytes, while albinism is a genetic condition characterized by a complete or partial lack of melanin from birth."
+  },
+  {
+    "question": "How can sunburn be prevented in Indian summers?",
+    "answer": "Sunburn can be prevented by using broad-spectrum sunscreens, wearing protective clothing, avoiding peak sun hours, and staying hydrated."
+  },
+  {
+    "question": "What are the early signs of melanoma?",
+    "answer": "Early signs include asymmetrical moles, irregular borders, color variation, diameter over 6mm, and any mole that changes in size, shape, or color."
+  },
+  {
+    "question": "How is hair loss treated in Indian adults?",
+    "answer": "Treatment includes topical minoxidil, oral finasteride for men, lifestyle modifications, correcting nutritional deficiencies, and in some cases, hair transplant procedures."
+  },
+  {
+    "question": "What causes dandruff in Indian adults?",
+    "answer": "Dandruff is commonly caused by Malassezia yeast, oily scalp, stress, poor hair hygiene, and sometimes underlying skin conditions like seborrheic dermatitis."
+  },
+  {
+    "question": "How is ringworm diagnosed?",
+    "answer": "Ringworm is diagnosed through clinical examination, KOH (potassium hydroxide) microscopy of skin scrapings, and sometimes fungal cultures."
+  },
+  {
+    "question": "What are the common triggers of contact dermatitis?",
+    "answer": "Triggers include soaps, detergents, cosmetics, metals like nickel, plants like poison ivy, and certain medications applied to the skin."
+  },
+  {
+    "question": "How is melasma managed in Indian women?",
+    "answer": "Management includes sun protection, topical depigmenting agents like hydroquinone, chemical peels, and laser therapy in resistant cases."
+  },
+  {
+    "question": "What are the symptoms of scabies?",
+    "answer": "Symptoms include intense itching, especially at night, small red bumps or burrows on skin, and sometimes secondary infections due to scratching."
+  },
+  {
+    "question": "How is scabies treated?",
+    "answer": "Treatment involves topical permethrin 5% cream, oral ivermectin in severe cases, and washing bedding and clothing in hot water."
+  },
+  {
+    "question": "What is the role of diet in acne?",
+    "answer": "High-glycemic foods, dairy products, and excessive oily foods can exacerbate acne, while a balanced diet rich in fruits and vegetables may help control it."
+  },
+  {
+    "question": "How are warts treated?",
+    "answer": "Warts are treated with cryotherapy, salicylic acid topical preparations, laser therapy, or immune-modulating treatments depending on severity."
+  },
+  {
+    "question": "What is the difference between psoriasis and eczema?",
+    "answer": "Psoriasis often has well-defined, silvery-scaled plaques, while eczema is more itchy, red, and can ooze or crust, with a tendency to affect flexural areas."
+  },
+  {
+    "question": "What are the common bacterial skin infections in India?",
+    "answer": "Common infections include impetigo, folliculitis, cellulitis, and erysipelas, often caused by Staphylococcus aureus or Streptococcus species."
+  },
+  {
+    "question": "How is cellulitis treated?",
+    "answer": "Treatment involves oral or intravenous antibiotics depending on severity, elevation of the affected limb, and pain management."
+  },
+  {
+    "question": "What are the signs of allergic reactions on skin?",
+    "answer": "Signs include redness, itching, swelling, hives, and sometimes blisters, often triggered by allergens like food, drugs, or chemicals."
+  },
+  {
+    "question": "How is fungal nail infection treated?",
+    "answer": "Treatment includes topical antifungals, oral antifungal medications like terbinafine, and in severe cases, nail removal."
+  },
+  {
+    "question": "What are the causes of premature graying in Indians?",
+    "answer": "Causes include genetics, vitamin B12 deficiency, oxidative stress, thyroid disorders, and certain chronic illnesses."
+  },
+  {
+    "question": "What is the first-line treatment for acne?",
+    "answer": "First-line treatment includes topical retinoids, benzoyl peroxide, and antibiotics for inflammatory lesions."
+  },
+  {
+    "question": "How is alopecia areata managed?",
+    "answer": "Management includes corticosteroid injections, topical immunotherapy, minoxidil, and counseling for psychological support."
+  },
+  {
+    "question": "What are common skin manifestations of diabetes?",
+    "answer": "Manifestations include acanthosis nigricans, diabetic dermopathy, necrobiosis lipoidica, fungal infections, and poor wound healing."
+  },
+  {
+    "question": "How is eczema treated in adults?",
+    "answer": "Treatment includes moisturizers, topical corticosteroids, antihistamines for itching, avoiding triggers, and sometimes systemic immunosuppressants."
+  },
+  {
+    "question": "What is the role of sunscreen in dermatology?",
+    "answer": "Sunscreens protect against UV radiation, prevent sunburn, photoaging, melasma, and reduce the risk of skin cancers."
+  },
+  {
+    "question": "How is vitiligo managed in India?",
+    "answer": "Management includes topical corticosteroids, calcineurin inhibitors, phototherapy, camouflage, and counseling for psychological support."
+  },
+  {
+    "question": "What are the causes of dark circles in Indian adults?",
+    "answer": "Causes include genetics, allergies, lack of sleep, pigmentation, dehydration, and periorbital hyperpigmentation."
+  },
+  {
+    "question": "How is psoriasis treated?",
+    "answer": "Treatment includes topical corticosteroids, vitamin D analogs, phototherapy, systemic immunosuppressants, and biologics in severe cases."
+  },
+  {
+    "question": "What is the role of patch testing?",
+    "answer": "Patch testing identifies allergens causing contact dermatitis, helping to avoid triggers and guide treatment."
+  },
+  {
+    "question": "What are the common viral skin infections in India?",
+    "answer": "Common infections include herpes simplex, varicella, molluscum contagiosum, and warts caused by human papillomavirus."
+  },
+  {
+    "question": "How is herpes zoster treated?",
+    "answer": "Treatment involves oral antivirals like acyclovir, pain management, and sometimes corticosteroids for severe inflammation."
+  },
+  {
+    "question": "What causes keloid formation in Indian skin?",
+    "answer": "Keloids form due to excessive collagen deposition after skin injury, surgery, or inflammation, with a genetic predisposition."
+  },
+  {
+    "question": "How are keloids treated?",
+    "answer": "Treatment includes intralesional corticosteroids, silicone sheets, laser therapy, surgical removal, and cryotherapy."
+  },
+  {
+    "question": "What is seborrheic dermatitis?",
+    "answer": "Seborrheic dermatitis is a chronic inflammatory skin disorder causing red, scaly, itchy patches, commonly on the scalp, face, and chest."
+  },
+  {
+    "question": "How is seborrheic dermatitis managed?",
+    "answer": "Management includes medicated shampoos containing ketoconazole or zinc pyrithione, topical corticosteroids, and proper skin care."
+  },
+  {
+    "question": "What are the common triggers for acne in Indian adults?",
+    "answer": "Triggers include hormonal changes, stress, oily skin, certain cosmetics, diet, and environmental pollution."
+  },
+  {
+    "question": "What is the role of retinoids in acne treatment?",
+    "answer": "Retinoids help normalize follicular keratinization, reduce comedones, and have anti-inflammatory effects in acne management."
+  },
+  {
+    "question": "How is bacterial folliculitis treated?",
+    "answer": "Treatment includes topical or oral antibiotics, antiseptic washes, and avoiding occlusive clothing or hot tubs."
+  },
+  {
+    "question": "What are the early signs of skin cancer?",
+    "answer": "Early signs include new growths, changing moles, non-healing sores, bleeding lesions, and pigmented patches."
+  },
+  {
+    "question": "How is skin cancer prevented?",
+    "answer": "Prevention includes sun protection, avoiding tanning, regular skin checks, healthy diet, and avoiding carcinogens."
+  },
+  {
+    "question": "What is the difference between basal cell carcinoma and squamous cell carcinoma?",
+    "answer": "Basal cell carcinoma is slow-growing, rarely metastasizes, and appears pearly; squamous cell carcinoma may grow faster, can metastasize, and appears as scaly red patches or ulcers."
+  },
+  {
+    "question": "How is impetigo treated?",
+    "answer": "Treatment includes topical antibiotics like mupirocin and oral antibiotics for widespread cases."
+  },
+  {
+    "question": "What are the symptoms of lupus rash?",
+    "answer": "Symptoms include a butterfly-shaped red rash over the cheeks and nose, photosensitivity, scaling, and sometimes lesions on other sun-exposed areas."
+  },
+  {
+    "question": "How is cutaneous lupus managed?",
+    "answer": "Management includes sun protection, topical corticosteroids, antimalarials like hydroxychloroquine, and systemic immunosuppressants in severe cases."
+  },
+  {
+    "question": "What causes hyperpigmentation in Indians?",
+    "answer": "Causes include sun exposure, hormonal changes, post-inflammatory changes, medications, and genetic predisposition."
+  },
+  {
+    "question": "How is melasma treated?",
+    "answer": "Treatment includes sun protection, topical hydroquinone, chemical peels, and laser therapy in resistant cases."
+  },
+  {
+    "question": "What is the role of emollients in dermatology?",
+    "answer": "Emollients moisturize the skin, restore the skin barrier, prevent dryness, and reduce irritation in conditions like eczema and psoriasis."
+  },
+  {
+    "question": "What are the symptoms of drug-induced skin reactions?",
+    "answer": "Symptoms include rashes, urticaria, blisters, redness, and sometimes systemic symptoms depending on the drug."
+  },
+  {
+    "question": "How is drug-induced rash managed?",
+    "answer": "Management includes discontinuing the offending drug, antihistamines, topical corticosteroids, and supportive care."
+  },
+  {
+    "question": "What is the role of phototherapy in dermatology?",
+    "answer": "Phototherapy treats psoriasis, vitiligo, eczema, and other skin disorders by exposing affected skin to controlled UV light."
+  },
+  {
+    "question": "How is bacterial impetigo prevented?",
+    "answer": "Prevention includes good hygiene, avoiding sharing personal items, prompt treatment of skin injuries, and keeping wounds clean."
+  },
+  {
+    "question": "What is the common presentation of scaly scalp conditions?",
+    "answer": "Common presentations include flaking, itching, redness, and sometimes secondary infections or hair loss."
+  },
+  {
+    "question": "What causes hair greying in young adults?",
+    "answer": "Causes include genetics, vitamin deficiencies, oxidative stress, autoimmune disorders, and hormonal imbalances."
+  },
+  {
+    "question": "How is dermatophytosis treated?",
+    "answer": "Treatment includes topical antifungals for mild cases, oral antifungals for severe or extensive cases, and keeping the skin dry and clean."
+  },
+  {
+    "question": "What is the role of corticosteroids in dermatology?",
+    "answer": "Corticosteroids reduce inflammation, itching, and immune responses in conditions like eczema, psoriasis, and dermatitis."
+  },
+  {
+    "question": "How is photodermatitis managed?",
+    "answer": "Management includes sun avoidance, protective clothing, broad-spectrum sunscreens, and topical or systemic corticosteroids."
+  },
+  {
+    "question": "What is acne rosacea?",
+    "answer": "Acne rosacea is a chronic skin condition causing redness, visible blood vessels, papules, and pustules on the face."
+  },
+  {
+    "question": "How is rosacea treated?",
+    "answer": "Treatment includes topical metronidazole, azelaic acid, oral antibiotics like doxycycline, and lifestyle modifications."
+  },
+  {
+    "question": "What are the complications of untreated eczema?",
+    "answer": "Complications include skin infections, chronic itching, lichenification, sleep disturbances, and psychological distress."
+  },
+  {
+    "question": "What causes pruritus in adults?",
+    "answer": "Causes include dry skin, eczema, liver or kidney disease, infections, allergic reactions, and systemic illnesses."
+  },
+  {
+    "question": "How is pruritus treated?",
+    "answer": "Treatment involves addressing the underlying cause, topical emollients, antihistamines, and sometimes systemic therapy."
+  },
+  {
+    "question": "What is the difference between macules and papules?",
+    "answer": "Macules are flat, discolored spots, while papules are small, raised bumps on the skin."
+  },
+  {
+    "question": "What is urticaria and how is it treated?",
+    "answer": "Urticaria (hives) is an allergic skin reaction with itchy red welts, treated with antihistamines, avoiding triggers, and corticosteroids in severe cases."
+  },
+  {
+    "question": "What are the common skin infections in Indian children?",
+    "answer": "Common infections include impetigo, scabies, fungal infections, molluscum contagiosum, and viral exanthems."
+  },
+  {
+    "question": "How is scabies outbreak prevented in schools?",
+    "answer": "Prevention includes avoiding sharing bedding or clothing, treating infected individuals promptly, and maintaining good hygiene."
+  },
+  {
+    "question": "What causes contact urticaria?",
+    "answer": "Contact urticaria is caused by immediate hypersensitivity to substances like latex, cosmetics, or foods, leading to hives and itching."
+  },
+  {
+    "question": "How is contact urticaria treated?",
+    "answer": "Treatment includes avoiding the allergen, using antihistamines, and in severe cases, corticosteroids."
+  },
+  {
+    "question": "What is pityriasis rosea?",
+    "answer": "Pityriasis rosea is a self-limiting skin rash with oval, scaly lesions, often following a herald patch, commonly affecting young adults."
+  },
+  {
+    "question": "How is pityriasis rosea managed?",
+    "answer": "Management includes reassurance, antihistamines for itching, and topical corticosteroids if needed."
+  },
+  {
+    "question": "What is lichen planus?",
+    "answer": "Lichen planus is an inflammatory skin disorder causing purplish, itchy, flat-topped papules, commonly on wrists, legs, and oral mucosa."
+  },
+  {
+    "question": "How is lichen planus treated?",
+    "answer": "Treatment includes topical corticosteroids, oral antihistamines, systemic steroids in severe cases, and phototherapy if required."
+  }
+]

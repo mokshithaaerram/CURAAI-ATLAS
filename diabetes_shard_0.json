@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "What is diabetes mellitus?",
+    "answer": "Diabetes mellitus is a syndrome of multiple etiologies characterized by chronic hyperglycaemia with disturbances of carbohydrate, fat, and protein metabolism resulting from defects in insulin secretion, insulin action, or both.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which organs are affected by long-term complications of diabetes?",
+    "answer": "Long-term complications of diabetes often involve the eyes, kidneys, nerves, heart, and blood vessels.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many people in India had diabetes in 2017, and what is the projected number for 2045?",
+    "answer": "In 2017, there were 72.9 million people with diabetes in India, which is projected to rise to 134.3 million by 2045.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How has diabetes prevalence changed in urban India since the 1970s?",
+    "answer": "The prevalence has increased from 2% in the 1970s to over 20% at present.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the four main types of diabetes?",
+    "answer": "The four main types are Type 1 diabetes, Type 2 diabetes, gestational diabetes, and other types such as monogenic, pancreatic, and drug-induced diabetes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the cause and treatment requirement of Type 1 diabetes?",
+    "answer": "Type 1 diabetes is primarily due to autoimmune-mediated destruction of pancreatic beta cells, resulting in absolute insulin deficiency, and requires insulin for health and survival.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which type of diabetes accounts for the majority of cases in India?",
+    "answer": "Type 2 diabetes accounts for over 90-95% of all people with diabetes in India.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What characterizes Type 2 diabetes?",
+    "answer": "Type 2 diabetes is characterized by insulin resistance and abnormal insulin secretion, either of which may predominate.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the clinical differences between Type 1 and Type 2 diabetes in terms of age at diagnosis and family history?",
+    "answer": "Type 1 diabetes usually occurs in childhood and adolescence and is unusual in 1st degree relatives, whereas Type 2 diabetes usually occurs postpubertal and is common in 1st degree relatives.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do severe osmotic symptoms and ketosis differ between Type 1 and Type 2 diabetes at diagnosis?",
+    "answer": "Severe osmotic symptoms and ketosis can occur in Type 1 diabetes but are rare in Type 2 diabetes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What markers differentiate Type 1 from Type 2 diabetes?",
+    "answer": "Type 1 diabetes has absent markers of insulin resistance and presence of pancreatic autoantibodies, whereas Type 2 diabetes shows markers of insulin resistance and absence of pancreatic autoantibodies.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What does Type 2 diabetes often associate with in terms of health conditions?",
+    "answer": "Type 2 diabetes is often associated with central obesity, dyslipidaemia, and hypertension.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is Type 2 diabetes prevalence changing in younger age groups?",
+    "answer": "Type 2 diabetes is increasingly being seen in younger age groups and in individuals with lower BMI.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the \u201cAsian Indian phenotype\u201d?",
+    "answer": "The \u201cAsian Indian phenotype\u201d refers to higher total body fat, visceral fat, insulin resistance, and increased prevalence of diabetes at lower BMI compared to white Caucasians.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "List the goals for diabetes management according to the passage.",
+    "answer": "Goals include relief from symptoms, improvement in quality of life, glycemic control, prevention of acute and chronic complications, identification and management of comorbidities like obesity, hypertension, and dyslipidaemia, and prevention of infections.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is diabetes education and what does it include?",
+    "answer": "Diabetes education empowers people with knowledge and tools for self-management, including in-depth information about diabetes, appropriate self-care skills, resources for self-care, a positive attitude, and self-monitoring skills.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is patient compliance important in diabetes management?",
+    "answer": "Compliance is essential for effective management and ensures patients understand the importance of self-care actions, thereby increasing motivation for self-management.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is prevention of diabetes necessary?",
+    "answer": "Prevention is necessary to slow down the emerging epidemic due to urbanization and lifestyle changes, in addition to treating diabetes and associated complications.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the stages of prevention mentioned in the passage?",
+    "answer": "The stages are primordial prevention, primary prevention, secondary prevention, and tertiary prevention.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is primordial prevention?",
+    "answer": "Primordial prevention attempts to reduce the risk factors for diabetes, such as reducing or preventing obesity to lower future risk.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is primary prevention?",
+    "answer": "Primary prevention targets people with prediabetes to prevent onset of diabetes through lifestyle changes and, if necessary, medications like metformin.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is secondary prevention?",
+    "answer": "Secondary prevention aims to prevent complications in diagnosed diabetics through meticulous control of diabetes including diet, physical activity, lifestyle modification, and antihyperglycaemic drugs.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is tertiary prevention?",
+    "answer": "Tertiary prevention focuses on limiting physical disability, providing rehabilitation for patients with complications, and preventing progression to end-stage complications.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "At what age should screening for Type 2 diabetes be performed?",
+    "answer": "Screening should be performed in all individuals over 30 years of age and earlier for those with risk factors.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What methods are recommended for screening Type 2 diabetes?",
+    "answer": "Screening can be done via fasting plasma glucose, oral glucose tolerance test (75 gm glucose), random plasma glucose, or HbA1c testing, considering limitations in India.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the diagnostic criteria for diabetes according to the passage?",
+    "answer": "Diabetes can be diagnosed using any of the following criteria: casual or random plasma glucose \u2265 200 mg/dl with symptoms, fasting plasma glucose \u2265 126 mg/dl, 2-hour post 75 g glucose \u2265 200 mg/dl (OGTT), or glycated hemoglobin \u2265 6.5%. Each diagnosis should be confirmed with another test subsequently.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the common symptoms of diabetes?",
+    "answer": "Common symptoms include osmotic symptoms such as polyuria and polydipsia, weight loss despite polyphagia, tiredness, weakness, generalized pruritus, recurrent urogenital infections, and delayed wound healing. More than half of patients may have no symptoms at all.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What does the term \u201cprediabetes\u201d mean?",
+    "answer": "Prediabetes refers to blood glucose levels higher than normal but not high enough to warrant a diabetes diagnosis. It consists of impaired fasting glucose (IFG) and impaired glucose tolerance (IGT).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the fasting plasma glucose ranges for normoglycemia, prediabetes, and diabetes according to WHO?",
+    "answer": "WHO defines normoglycemia as FPG < 110 mg/dl, prediabetes (IFG) as 110\u2013125 mg/dl, and diabetes as FPG \u2265 126 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the fasting plasma glucose ranges for normoglycemia, prediabetes, and diabetes according to ADA?",
+    "answer": "ADA defines normoglycemia as FPG < 100 mg/dl, prediabetes (IFG) as 100\u2013125 mg/dl, and diabetes as FPG \u2265 126 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the 2-hour post glucose load ranges for normoglycemia, prediabetes, and diabetes according to WHO?",
+    "answer": "Normoglycemia: <140 mg/dl, prediabetes (IGT): 140\u2013199 mg/dl, diabetes: \u2265200 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What HbA1c ranges define normoglycemia, prediabetes, and diabetes?",
+    "answer": "Normoglycemia: <5.7%, prediabetes: 5.7\u20136.4%, diabetes: \u22656.5%.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is recommended for individuals with random plasma glucose between 140\u2013199 mg/dl?",
+    "answer": "They are recommended to undergo an OGTT for further assessment.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should a person prepare for an OGTT?",
+    "answer": "The person should be on a normal diet with at least 200 g carbohydrate per day for at least 3 days before the test and must fast overnight for 8\u201310 hours before the test.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is the OGTT performed?",
+    "answer": "A fasting blood sample is collected, followed by administration of 75 g glucose (1.75 g/kg for children, max 75 g) dissolved in at least 250 ml water, consumed within 5 minutes. The second blood sample is collected 2 hours after glucose intake, with the individual resting and refraining from smoking or eating between samples.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which children and adolescents should be screened for Type 2 diabetes?",
+    "answer": "Children and adolescents aged \u226418 years who are overweight (>120% of ideal body weight) and have any of the following risk factors: family history of Type 2 diabetes in first-degree relatives, signs of insulin resistance (Acanthosis nigricans), hypertension, dyslipidemia, or PCOS.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is tight glycemic control essential in the early stages of diabetes?",
+    "answer": "Tight control is essential, especially in the young, to prevent complications.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should glycemic targets be adjusted in elderly patients or those with complications?",
+    "answer": "Targets should be revised based on the condition of the patient, taking into account the onset of complications and age.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the ideal fasting plasma glucose targets for metabolic control in diabetes?",
+    "answer": "Ideal FPG is 80\u2013110 mg/dl, satisfactory 111\u2013125 mg/dl, and unsatisfactory >125 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the ideal 2-hour postprandial glucose targets?",
+    "answer": "Ideal: 120\u2013140 mg/dl, satisfactory: 141\u2013180 mg/dl, unsatisfactory: >180 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the ideal blood pressure targets for patients with diabetes?",
+    "answer": "Ideal BP: <130/80 mmHg, satisfactory: <140/90 mmHg, unsatisfactory: >140/90 mmHg.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the ideal BMI target for diabetic patients?",
+    "answer": "Ideal BMI: 20\u201323 kg/m\u00b2, satisfactory: 23.1\u201325 kg/m\u00b2, unsatisfactory: >25 kg/m\u00b2.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the recommended waist circumference targets?",
+    "answer": "Men <90 cm, women <80 cm.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the HbA1c targets for diabetes control?",
+    "answer": "Ideal: <7%, satisfactory: 7\u2013<8%, unsatisfactory: 8%.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the targets for lipid control in diabetes?",
+    "answer": "Total cholesterol <200 mg/dl, HDL >40 mg/dl (men), >50 mg/dl (women), LDL <100 mg/dl (<70 mg/dl for high-risk patients), non-HDL <130 mg/dl, triglycerides <150 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the glycemic targets during pregnancy?",
+    "answer": "Fasting plasma glucose <90 mg/dl, 1-hour postprandial <140 mg/dl, 2-hour postprandial <120 mg/dl. Physician may choose either 1-hour or 2-hour postprandial value for monitoring.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How often should fasting plasma glucose (FPG) and 2-hour postprandial plasma glucose (PPPG) be monitored in people with diabetes?",
+    "answer": "FPG and 2-hour PPPG should be monitored at least once a month and more often if values are not in the ideal target range.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How frequently should HbA1c be tested in people with diabetes?",
+    "answer": "HbA1c should be tested at least every 6\u201312 months, and more often (every 3 months) if values are not in the ideal target range or tight control is being attempted.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How often should clinical examination be done for diabetic patients?",
+    "answer": "Clinical examination should be done during every visit, at a minimum every 3 months.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How often should screening for long-term complications be conducted?",
+    "answer": "Screening for complications like retinopathy, nephropathy, neuropathy, peripheral vascular disease (PVD), and coronary artery disease (CAD) should be done at least once a year, more often if needed.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What routine measures should be taken during diabetic patient visits?",
+    "answer": "Measures include optimizing weight, waist, blood pressure, lipids; routine foot examination; education regarding foot care; and discouraging tobacco use and excess alcohol consumption.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Is urine glucose monitoring recommended for diabetic patients?",
+    "answer": "No, urine glucose monitoring is not recommended. Urine examination for ketones should be done if blood glucose is greater than 400 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "In which conditions is self-monitoring of blood glucose (SMBG) indicated?",
+    "answer": "SMBG is indicated for all patients on insulin, brittle diabetes, those prone to ketosis or recurrent hypoglycemia, hypoglycemia unawareness, during tight control situations (pregnancy, acute illness, complications), and ideally for every patient to achieve better control of diabetes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should the frequency of SMBG be determined?",
+    "answer": "The frequency should be individualized, with greater frequency during pregnancy or other situations requiring tight control.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What should be included during an annual check-up for a diabetic patient?",
+    "answer": "Annual check-up should include basic clinical examination with detailed foot exam, retinal check-up, blood urea/serum creatinine, urine protein/albumin or micro-albuminuria, ECG, lipids, hemogram, routine urine, reinforcement of diet/exercise, psychological support, and additional tests like X-ray chest, uric acid, TSH, liver function tests, vitamin B12, electrolytes, ultrasound abdomen as needed.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What advanced monitoring methods can be used for special cases?",
+    "answer": "Continuous Glucose Monitoring (CGM) for 5\u20137 days or intermittently scanned CGM (iSCGM) for 14 days may be used in cases of recurrent hypoglycemia, severe fluctuations in blood glucose, disparity in measured glucose values and HbA1c, severe anemia, hemoglobinopathy, or hypoglycemia unawareness.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the lifestyle goals in diabetes management?",
+    "answer": "Goals include improving health through optimum nutrition, maintaining glycemic control, achieving optimal physical activity, achieving optimum blood lipid levels, individualizing diet according to complications, advising behavioral changes (smoking, alcohol), and stress management.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the four components of Medical Nutrition Therapy (MNT) for diabetes?",
+    "answer": "Nutritional assessment (metabolic, nutritional, lifestyle parameters), setting practical and individualized goals, nutritional intervention including individualized meal plans and education, and evaluation to assess goal achievement and make necessary changes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should a diabetic diet be planned?",
+    "answer": "Diet should be individualized based on age, sex, physical activity, height, weight, BMI, and cultural factors. It should be close to the family pattern, flexible, varied, and timed according to the patient\u2019s daily schedule.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the ideal daily energy intake for a moderately active adult with diabetes?",
+    "answer": "Approximately 25 kcal per kg of ideal body weight per day, with gradual changes not exceeding 500 kcal/day. Ideal Body Weight (IBW) = (Height in cm \u2013 100) \u00d7 0.9.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended carbohydrate intake for people with diabetes?",
+    "answer": "55\u201360% of energy from complex carbohydrates, preferably high-fiber foods such as whole grains, legumes, peas, beans, oats, barley, and some low-GI fruits. Six small meals a day are encouraged.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the general fiber recommendation for diabetic patients?",
+    "answer": "40 g/day for a 2000 kcal diet, from whole grains, pulses, green leafy vegetables, and moderate amounts of fruits; fruit juices should be avoided.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How much protein should diabetic patients consume?",
+    "answer": "Proteins should provide 12\u201315% of total energy intake, preferably from vegetable sources (pulses, soy, grams, peas), low-fat dairy, fish, and lean meats. Cereal-pulse combinations (e.g., 4:1 ratio) can improve protein quality.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended fat intake for diabetic patients?",
+    "answer": "20\u201330% of total energy intake, with quality as important as quantity. Saturated fat \u226410% energy (7% if raised lipids), PUFA 10% energy (n6: 3\u20137%, n3 >1%), MUFA 10\u201315% energy, trans fats <1% energy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which oils are recommended for MUFA and PUFA intake?",
+    "answer": "MUFA-rich oils like mustard, rice bran, peanut, gingelly; n6 PUFA-rich oils like safflower, sunflower, cottonseed should be mixed with n3-rich oils like soy and mustard to maintain n6:n3 ratio 5\u201310.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the sodium and alcohol recommendations for diabetic patients?",
+    "answer": "Added salt <5 g/day (or <3 g/day if hypertensive), restriction for nephropathy; alcohol should be avoided or consumed in moderation, not counted as part of the meal plan, and recognized as empty calories.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which sweeteners are recommended or discouraged in diabetes?",
+    "answer": "Nutritive sweeteners (fructose, honey, corn syrup, molasses, fruit juice concentrates, dextrose, maltose, mannitol, sorbitol, xylitol) are best avoided. Non-nutritive sweeteners (aspartame, acesulfame K, stevia, sucralose, saccharin) may be used in moderation; best avoided during pregnancy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should dietary modifications be made in diabetic nephropathy?",
+    "answer": "Protein 0.6 g/kg IBW plus 24-hour urinary protein loss (minimum 40 g/day), sodium 1000\u20132000 mg/day depending on fluid status, and potassium restriction based on blood values and diuretic use, under nephrologist guidance.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should diet be managed for cardiovascular disease in diabetes?",
+    "answer": "Maintain optimal body weight, restrict salt, encourage fruits, vegetables, good quality fats in moderation, restrict saturated and trans fats, incorporate fiber-rich foods, possibly flax seeds or fish, and combine dietary management with exercise.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should the diabetic diet be modified during sick days?",
+    "answer": "Modify consistency and texture to maintain calorie intake; encourage semi-solid foods, fluids, thin soups, milk, buttermilk, or fresh lime juice.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the lifestyle recommendations regarding tobacco and stress for diabetic patients?",
+    "answer": "Smoking and tobacco chewing are strictly prohibited. Stress management through meditation, yoga, exercise, hobbies, or other relaxation techniques is recommended.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the benefits of regular physical activity and exercise in diabetes?",
+    "answer": "Improves insulin sensitivity, reduces risk of heart disease, high blood pressure, bone disease, unhealthy weight gain; increases flexibility, strength, stamina, metabolic rate, digestion; reduces stress, anxiety, and depression; promotes sleep; lowers lipids; delays aging.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended exercise routine for people with diabetes?",
+    "answer": "About 150 minutes of aerobic activity per week, with resistance training at least twice a week, plus flexibility exercises. Extra quick-acting carbohydrate snacks may be needed before or during exercise.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How can yoga benefit people with type 2 diabetes?",
+    "answer": "Yoga may improve glycemic control, lipids, body fat, reduce oxidative stress and blood pressure, improve pulmonary and autonomic function, mood, sleep, quality of life, and reduce anti-diabetic medication doses. Techniques include asanas, pranayama, and dhyana.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Is there conclusive evidence on yoga benefits for diabetes?",
+    "answer": "While there is growing evidence, additional high-quality studies are needed to confirm benefits and mechanisms of action.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What factors determine blood glucose levels in the body?",
+    "answer": "Blood glucose levels are determined by glucose absorption from the gut, uptake by peripheral tissues (muscle, adipose), hepatic glucose output, secretion of hormones such as insulin and glucagon, incretins from the gut, and renal glucose handling.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the main mechanism of action of metformin?",
+    "answer": "Metformin enhances the sensitivity of the liver and peripheral tissues to circulating insulin, reduces hepatic glucose production, and may aid in weight loss.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended starting dose of metformin?",
+    "answer": "The recommended starting dose is 500 mg after meals, which can be increased by 500 mg every two weeks until therapeutic goals are achieved or the maximum daily dose of 2500 mg is reached.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Does metformin cause hypoglycaemia when used alone?",
+    "answer": "Metformin rarely produces hypoglycaemia when used as monotherapy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the common side effects of metformin?",
+    "answer": "Common side effects include gastrointestinal discomfort such as abdominal pain and diarrhea, which can be minimized with slow titration and use of sustained release formulations.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the contraindications for metformin use?",
+    "answer": "Metformin is contraindicated in renal, hepatic, or respiratory insufficiency, acute myocardial infarction, congestive cardiac failure, alcohol abuse, ketoacidosis, severe infections, and peri-operative situations.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should metformin be adjusted in renal insufficiency?",
+    "answer": "Metformin can be used in full doses if eGFR >60 ml/min, monitored closely if eGFR is 45-60 ml/min, halved if eGFR <45 ml/min, and stopped if eGFR <30 ml/min.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do sulphonylureas work?",
+    "answer": "Sulphonylureas increase insulin secretion by binding to sulphonylurea receptors on pancreatic \u03b2-cells.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When should sulphonylurea therapy be initiated and titrated?",
+    "answer": "Therapy should start with the lowest effective dose and titrated upwards every two weeks until desired glucose control or maximal dosage is reached.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are common side effects of sulphonylureas?",
+    "answer": "Hypoglycaemia, weight gain, photosensitivity reactions, rare skin rashes, leucopenia, anaemia, thrombocytopenia, cholestatic jaundice, Stevens-Johnson syndrome, or granulomatous hepatitis.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the contraindications for sulphonylureas?",
+    "answer": "Type 1 diabetes, renal or hepatic insufficiency, acute hepatitis, ketoacidosis, acute myocardial infarction, extensive infections, and history of adverse reactions to sulphonylureas.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the mechanism of DPP-4 inhibitors?",
+    "answer": "DPP-4 inhibitors prevent the breakdown of incretin hormones (GLP-1 and GIP), enhancing glucose-dependent insulin secretion and suppressing glucagon release.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Are DPP-4 inhibitors associated with hypoglycaemia?",
+    "answer": "No, DPP-4 inhibitors do not cause hypoglycaemia when used as monotherapy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do SGLT2 inhibitors lower blood glucose?",
+    "answer": "SGLT2 inhibitors block glucose reabsorption in the proximal tubule of the kidney, causing glycosuria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the additional benefits of SGLT2 inhibitors besides glucose lowering?",
+    "answer": "They promote weight loss, reduce blood pressure, and may have cardiovascular benefits.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the mechanism of action of thiazolidinediones (pioglitazone)?",
+    "answer": "Pioglitazone is an insulin sensitizer that activates PPAR-\u03b3 in adipose tissue and skeletal muscle, reducing hepatic glucose output and improving lipid profile.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the side effects of pioglitazone?",
+    "answer": "Weight gain, edema, risk of heart failure, fractures, and possible bladder cancer with prolonged use.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do glinides work?",
+    "answer": "Glinides bind to non-sulphonylurea sites on pancreatic \u03b2-cells, causing rapid and short insulin release, useful for postprandial glucose control.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do alpha-glucosidase inhibitors (AGIs) work?",
+    "answer": "AGIs inhibit intestinal alpha-glucosidase, delaying carbohydrate digestion and absorption, reducing postprandial hyperglycaemia.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are common side effects of AGIs?",
+    "answer": "Gastrointestinal issues such as bloating, abdominal discomfort, diarrhea, and flatulence.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the role of GLP-1 receptor agonists in diabetes management?",
+    "answer": "GLP-1 RAs stimulate glucose-dependent insulin secretion, suppress glucagon, reduce hyperglycaemia with low risk of hypoglycaemia, and promote weight loss.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Can GLP-1 receptor agonists be combined with DPP-4 inhibitors?",
+    "answer": "No, GLP-1 RAs should not be combined with DPP-4 inhibitors.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are common side effects of GLP-1 receptor agonists?",
+    "answer": "Nausea and vomiting, with rare cases of acute pancreatitis.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When is insulin therapy indicated in type 2 diabetes at diagnosis?",
+    "answer": "In cases of significant symptomatic hyperglycaemia, weight loss, fasting glucose >270 mg/dl, HbA1c >9%, severe infections, or ketosis.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are other indications for insulin in type 2 diabetes?",
+    "answer": "Poor response to oral agents, acute hyperglycaemia, diabetic ketoacidosis, stress situations (MI, stroke, infection), pregnancy, peri-operative state, intolerance to oral agents, hepatic/renal failure, steroid use.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What types of insulin preparations are available?",
+    "answer": "Human insulin (short acting, intermediate acting, premixed) and insulin analogues (rapid acting, long acting, premixed, co-formulations).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should insulin be stored?",
+    "answer": "Refrigerated at 2\u20138\u00b0C, away from sunlight/heat, not frozen, avoid excessive agitation; if no fridge, store in cool place like earthen pot with water.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should regular and NPH insulin be mixed?",
+    "answer": "Draw rapid/short acting insulin first, then NPH; inject immediately after mixing.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the main problems associated with insulin use?",
+    "answer": "Hypoglycaemia and weight gain.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are recommended sites for insulin injection?",
+    "answer": "Abdomen, thighs, upper arms, and buttocks; abdomen has fastest absorption, rotation of sites is important.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should insulin needles be disposed?",
+    "answer": "In a bio-safe container, sealed, labelled, and handed over to a healthcare facility; needles must not be shared.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are GLP-1 receptor agonists available in India?",
+    "answer": "Exenatide, liraglutide, lixisenatide, and dulaglutide.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How often is dulaglutide administered?",
+    "answer": "Once per week.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the two broad categories of diabetes complications?",
+    "answer": "Diabetes complications are divided into acute complications (hypoglycaemia, hyperglycaemic emergencies) and chronic complications (microvascular disease, macrovascular disease, diabetic foot).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the common acute complications of diabetes?",
+    "answer": "Common acute complications include hypoglycaemia and hyperglycaemic emergencies such as Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycaemic State (HHS).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the classical symptoms of hypoglycaemia?",
+    "answer": "Classical symptoms include hunger, sweating, tremors, palpitation, with or without loss of consciousness.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What steps should be taken if a hypoglycaemic patient is conscious and has no glucose monitor?",
+    "answer": "The patient should be treated with oral glucose, sweets, or sugar.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should an unconscious hypoglycaemic patient be treated?",
+    "answer": "Give 25-50 ml of 25% dextrose IV; if inadequate response, maintain a 5% dextrose drip and refer to hospital immediately.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What should be checked in recurrent hypoglycaemia?",
+    "answer": "Check renal function and hypothyroidism.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What usually triggers hyperglycaemic emergencies like DKA and HHS?",
+    "answer": "Infections, other stressful conditions, missed doses of insulin, or poor control of diabetes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the typical symptoms of DKA?",
+    "answer": "Abdominal pain, breathlessness, vomiting, altered sensorium, and dehydration.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do symptoms of HHS differ from DKA?",
+    "answer": "HHS symptoms are predominantly neurological, with profound dehydration; abdominal pain is uncommon.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the immediate step in management of DKA or HHS?",
+    "answer": "Monitor glucose levels, check for urine ketones, start intravenous saline infusion (1 litre in half an hour), and refer to hospital.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which organs are commonly affected by chronic diabetes complications?",
+    "answer": "Eyes, heart, kidneys, nerves, and limbs.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the importance of early diagnosis in chronic complications?",
+    "answer": "Early diagnosis and treatment can prevent or reverse organ damage.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What key information should be obtained in the present history of a diabetic patient?",
+    "answer": "Symptoms related to organ involvement, duration of diabetes, medications and doses, compliance, latest blood glucose and HbA1C, and retinal referrals if needed.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What past history is relevant for diabetic complications assessment?",
+    "answer": "Hypertension, heart disease, kidney disease, tuberculosis, eye problems, surgery, non-healing ulcers, or amputation history.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What personal history is important in diabetes management?",
+    "answer": "Smoking, alcohol intake, dietary habits, and exercise regimen.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is family history important in diabetes?",
+    "answer": "Family history of diabetes, hypertension, kidney diseases, stroke, and coronary artery disease increases risk.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What systemic examinations are essential in a diabetic patient?",
+    "answer": "Blood pressure, CVS (heart sounds, murmurs), respiratory, neurology, abdomen, musculoskeletal, peripheral pulses, pedal edema, and complete foot examination.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What should be included in an eye examination for diabetics?",
+    "answer": "Visual acuity, intraocular pressure, fundus examination after dilation, and cataract assessment.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What investigations are essential in chronic complications of diabetes?",
+    "answer": "Detailed tests are complication-specific; may include urine microscopy, blood urea, serum creatinine, eGFR, microalbuminuria, USG abdomen, serum electrolytes, and X-ray chest in selected cases.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should asymptomatic patients with abnormal ECG be managed?",
+    "answer": "Refer to a specialist, physician, or cardiologist.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the first step if unstable angina or MI is suspected in a diabetic patient?",
+    "answer": "Give aspirin (300 mg chewed) and a statin (e.g., Atorvastatin 80 mg) and refer to the nearest hospital urgently.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What tests are used to evaluate diabetic nephropathy?",
+    "answer": "Urine microscopy, blood urea, serum creatinine, eGFR calculation, microalbuminuria, USG abdomen, serum sodium and potassium.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the first-line treatment of hypertension in diabetic nephropathy?",
+    "answer": "ACE inhibitors or ARBs; never combine both.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When should a diabetic patient be referred to a nephrologist?",
+    "answer": "Severe/resistant hypertension, serum potassium >5.5 meq/L, nephrotic range proteinuria, proteinuria without retinopathy, serum creatinine >1.5 mg%, pregestational diabetes or GDM with proteinuria, eGFR <60 ml/min, fluid overload, or oliguria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What percentage of blindness from diabetic retinopathy is preventable?",
+    "answer": "Ninety percent.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What factors increase the risk of diabetic retinopathy?",
+    "answer": "Long duration of diabetes, poor glycemic control, uncontrolled hypertension, and presence of diabetic nephropathy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When should retinal examination be performed in type 1 and type 2 diabetes?",
+    "answer": "Type 1: within 5 years of diagnosis; Type 2: at the time of diagnosis; subsequently annually for both.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why are pregnant women with diabetes monitored closely for retinopathy?",
+    "answer": "Pregnancy may accelerate development and progression of retinopathy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is diabetic neuropathy clinically recognized?",
+    "answer": "Symptoms include paresthesia, numbness, pain, loss of sensation, foot deformities, dryness, motor weakness, quadriceps wasting, cranial nerve involvement, radiculopathy, and autonomic symptoms.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What investigations are recommended for diabetic neuropathy?",
+    "answer": "TSH, Vitamin B12 assay, paraproteinemias, and nerve conduction studies for atypical cases.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the first-line treatment for painful diabetic neuropathy?",
+    "answer": "Antiepileptics (gabapentin, pregabalin), tricyclic antidepressants (amitryptiline, imipramine), and SNRIs (venlafaxine, duloxetine).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is diabetic foot risk assessed?",
+    "answer": "Foot inspection, 10g monofilament sensation, vibration perception (128 Hz tuning fork), biothesiometer test, and vascular assessment (pulses, ABI).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the risk categories for diabetic foot?",
+    "answer": "Low risk, moderate risk, high risk, and active foot disease, based on sensation, pulses, history of ulceration, deformity, and ischemia.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are general principles of managing diabetic foot?",
+    "answer": "Educate all patients on foot care, control risk factors, refer patients with deformity or absent pulses for specialist assessment, treat ulceration promptly, and use antibiotics for infection.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are key foot care do\u2019s for diabetic patients?",
+    "answer": "Inspect feet daily, wash feet daily, apply moisturizing lotion, check feet at clinic visits, inspect footwear, change footwear regularly, buy footwear in the evening.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are key foot care don\u2019ts for diabetic patients?",
+    "answer": "Do not walk barefoot, smoke or consume excess alcohol, expose feet to extreme temperatures, use hot fomentation, use chemical agents or blades for corns, wear new footwear excessively, neglect minor lesions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is pre-gestational diabetes?",
+    "answer": "Women with pre-existing diabetes (type 1 or type 2) who become pregnant are said to have pre-gestational diabetes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What improves maternal and fetal outcomes in pre-gestational diabetes?",
+    "answer": "Outcomes are good if pregnancy is planned, preconception checkup is done, and tight glycemic control is achieved.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What HbA1C target is recommended before a planned pregnancy in women with pre-gestational diabetes?",
+    "answer": "Preferably HbA1C < 6.5%.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What supplementation should be given before pregnancy in women with pre-gestational diabetes?",
+    "answer": "Folic acid supplementation.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which antihypertensive agents should be used in pre-gestational diabetes?",
+    "answer": "Calcium channel blockers or alpha methyldopa.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which drugs should be discontinued before pregnancy in women with pre-gestational diabetes?",
+    "answer": "ACE inhibitors, ARBs, diuretics, and statins.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What baseline evaluations must be done before pregnancy in women with pre-gestational diabetes?",
+    "answer": "Eyes and kidney function evaluations.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Who should ideally manage maternal and fetal surveillance during pregnancy in pre-gestational diabetes?",
+    "answer": "An obstetrician and a physician.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is gestational diabetes mellitus (GDM)?",
+    "answer": "Glucose intolerance of any severity detected for the first time during pregnancy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Who should be screened for GDM in India?",
+    "answer": "Ideally, all pregnant women; if selective screening, those with history of GDM, first-degree relative with diabetes, pre-pregnancy obesity (BMI >25), history of large babies, bad obstetric history, recurrent UTI, glycosuria, or age above 25.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the first trimester screening criteria for pre-existing diabetes?",
+    "answer": "Fasting glucose \u2265 126 mg/dl, random glucose \u2265 200 mg/dl, or HbA1C \u2265 6.5%.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What fasting plasma glucose range indicates GDM in the first trimester?",
+    "answer": "92\u2013125 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When is second trimester GDM screening done?",
+    "answer": "Between 24 and 28 weeks of gestation.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What test is used for GDM screening in the second trimester?",
+    "answer": "Oral Glucose Tolerance Test (OGTT) with 75 gm glucose using IADPSG criteria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the IADPSG OGTT cut-offs for diagnosing GDM?",
+    "answer": "Fasting \u2265 92 mg/dl, 1-hour \u2265 180 mg/dl, 2-hour \u2265 153 mg/dl; diagnosis is made if any one value is above the cut-off.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What alternative GDM screening is suggested in resource-limited settings?",
+    "answer": "DIPSI guideline: non-fasting 75 gm glucose, 2-hour post-glucose \u2265 140 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the first step in managing hyperglycemia in pregnancy?",
+    "answer": "Exercise and medical nutritional therapy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which drug is preferred for treating diabetes in pregnancy?",
+    "answer": "Insulin, as most types are approved except Glargine, Glulisine, and Degludec.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Can metformin be used in GDM management?",
+    "answer": "Yes, after the MIG study, some centers use it as first-line, though more data are needed in Indians.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What parameters should be monitored besides glycemic control in pregnancy?",
+    "answer": "Fetal growth and maternal blood pressure.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the glycemic goals for therapy in pregnancy?",
+    "answer": "Fasting plasma glucose < 90 mg/dl, 1-hour postprandial < 140 mg/dl, 2-hour postprandial < 120 mg/dl.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is post-partum follow-up important in women with GDM?",
+    "answer": "Because 50\u201370% of women with GDM develop diabetes within 5\u201310 years after delivery.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When should postpartum OGTT be done after delivery in women with GDM?",
+    "answer": "6\u20138 weeks after delivery using a 2-hour 75 gm OGTT.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How often should OGTT be repeated in women with normal postpartum results?",
+    "answer": "Annually.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is blood pressure control crucial in diabetes?",
+    "answer": "Hypertension doubles the risk of morbidity and mortality from strokes and heart attacks and contributes to diabetic nephropathy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What non-pharmacological measures are recommended to control BP in diabetic patients?",
+    "answer": "Weight reduction, dietary modification (reducing salt), and stress management.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When should drug therapy for hypertension be initiated in diabetic patients?",
+    "answer": "If BP remains >140/90 mm Hg after non-pharmacological measures and confirmed on repeat check.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the first-line drugs for hypertension in diabetes?",
+    "answer": "ACE inhibitors/ARBs (not combined) or calcium channel blockers; selective beta blockers or diuretics as third-line.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When should a diabetic patient with hypertension be referred to a specialist?",
+    "answer": "If BP is uncontrolled with optimal doses of two agents, or if severe hypertension (>180/110 mmHg) or end-organ damage is present.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is recommended for dyslipidemia in diabetes?",
+    "answer": "All patients should be screened and treated aggressively if dyslipidemia is present.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the mainstay of treatment for obesity in diabetes?",
+    "answer": "Lifestyle modification; drugs may be used judiciously, and bariatric surgery considered in morbid obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does diabetes affect tuberculosis risk?",
+    "answer": "Diabetes increases the risk of TB by 2.5\u20133 fold.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What approach is recommended for TB management in diabetic patients?",
+    "answer": "Integrated prevention, bidirectional screening, early detection, and management of TB and diabetes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which drug is preferred for uncontrolled diabetes during TB treatment?",
+    "answer": "Insulin.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the definition of health according to Dr. YC Porwal?",
+    "answer": "Health is a state of complete physical, mental, and social well-being and not merely the absence of disease.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What does a healthy lifestyle focus on?",
+    "answer": "A healthy lifestyle focuses on incorporating the eight aspects of wellbeing into one's life (emotional, environmental, financial, intellectual, occupational, physical, social, and spiritual).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Name some causes of unhealthy lifestyle.",
+    "answer": "Sedentary lifestyle, dietary ignorance, addictive habits (smoking, drinking, tobacco, etc.), excess stress in workplace, hormonal drugs usage (OCPs, steroids), steroid abuse in body building.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are some lifestyle diseases mentioned?",
+    "answer": "Hypertension, diabetes, fatty liver disease, obesity, pollution-related diseases, cardiovascular diseases, cerebrovascular diseases.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many people die annually from noncommunicable diseases (NCDs) globally?",
+    "answer": "41 million people each year, equivalent to 71% of all deaths globally.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which NCD accounts for most deaths globally?",
+    "answer": "Cardiovascular diseases, causing 17.9 million deaths annually.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many deaths are caused annually by cancers, respiratory diseases, and diabetes?",
+    "answer": "Cancers: 9.3 million, respiratory diseases: 4.1 million, diabetes: 1.5 million.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many people die prematurely from NCDs each year and what percentage occurs in low- and middle-income countries?",
+    "answer": "More than 15 million people die between ages 30 and 69; 85% occur in low- and middle-income countries.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Name modifiable behaviors that increase risk of NCDs.",
+    "answer": "Tobacco use, physical inactivity, unhealthy diet, harmful use of alcohol.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many deaths annually are attributed to tobacco use?",
+    "answer": "Over 7.2 million deaths annually.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many deaths annually are attributed to excess salt/sodium intake?",
+    "answer": "4.1 million deaths annually.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many deaths annually are attributable to alcohol use?",
+    "answer": "More than 3.3 million deaths, with over half from NCDs including cancer.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many deaths annually are attributable to insufficient physical activity?",
+    "answer": "1.6 million deaths annually.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What does NPCDCS stand for and when was it launched?",
+    "answer": "National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases & Stroke (NPCDCS) under NRHM, 2005.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the strategy of NPCDCS?",
+    "answer": "Health promotion through healthy lifestyle, awareness generation of silent diseases, screening and early detection, timely and affordable diagnosis, access to treatment, rehabilitation.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What BMI is considered overweight and obese in adults according to Asian parameters?",
+    "answer": "BMI >23 is overweight; BMI >25 is obese.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is overweight and obesity defined in children aged 5\u201318 years?",
+    "answer": "Overweight: BMI-for-age greater than 1 SD above WHO Growth Reference; Obese: BMI greater than 2 SD above WHO Growth Reference.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Name health risks of being overweight or obese.",
+    "answer": "Sleep apnea, high blood pressure, heart disease, stroke, osteoarthritis, high cholesterol, gallbladder disease, fatty liver disease, cancer.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does regular exercise impact health?",
+    "answer": "Regular exercise helps prevent or manage obesity, stroke, metabolic syndrome, high blood pressure, type 2 diabetes, depression, anxiety, many types of cancer, arthritis, and falls.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the recommended aerobic activity guidelines?",
+    "answer": "At least 150 minutes of moderate aerobic activity or 75 minutes of vigorous aerobic activity per week, spread out during the week.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is recommended for strength training?",
+    "answer": "Do strength training exercises for all major muscle groups at least two times a week; use weight/resistance heavy enough to tire muscles after 12\u201315 repetitions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the main focuses of health promotion activities?",
+    "answer": "Increased intake of healthy foods, salt reduction, increased physical activity, avoidance of tobacco and alcohol, reduction of obesity, stress management, awareness about cancer warning signs, regular health check-up.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are occupational lifestyle diseases caused by?",
+    "answer": "Factors present in the vicinity like heat, sound, dust, fumes, smoke, cold, and other pollutants.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Name some common occupational lifestyle diseases.",
+    "answer": "Alzheimer\u2019s disease, atherosclerosis, cancer, chronic liver disease/cirrhosis, COPD, diabetes, hypertension, heart disease, CKD, stroke.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How can heavy computer use affect health?",
+    "answer": "It may be linked to glaucoma, neck and back pain, and infertility in males from laptop heat exposure.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are effects of biological clock disturbance from night shifts?",
+    "answer": "Insomnia, indigestion, acidity, loss of appetite, headache, irritability, hypertension, mood fluctuations, body pain, compromised immunity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are traffic-related ailments from frequent travel?",
+    "answer": "Backache, vertebra damage, spondylolysis, slip disk, sciatica.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are cold-related injuries from extreme working conditions?",
+    "answer": "Hypothermia, shock, seasickness, motion sickness.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should occupational posture-related ailments be decreased?",
+    "answer": "Avoid long sitting hours, take frequent breaks for stretching or physical movement.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What constitutes a healthy diet?",
+    "answer": "Generous consumption of fruits and vegetables, adequate folic acid, whole-grain cereals, limited sugar and sugar-based beverages, unsaturated fats including omega-3 fatty acids, limited caloric intake, avoid alcohol.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is a healthy diet important?",
+    "answer": "Nutrients support daily activities, protect and repair cells, rebuild tissue, fuel body, aid immune system, and assist body processes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is protein important for the body?",
+    "answer": "Protein maintains muscle mass, promotes muscle growth, creates antibodies, keeps cells healthy, creates new cells, powers chemical reactions, and carries oxygen in blood.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is fat and its composition?",
+    "answer": "Fat is a macronutrient also called triglycerides, comprising 3 fatty acid ester chains and glycerol.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the functions of fat in the body?",
+    "answer": "Provides energy, aids in vitamin absorption (A, D, E, K), maintains body temperature, stores excess calories as lipids.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Name healthier cooking oils that withstand high cooking temperatures.",
+    "answer": "Olive oil, avocado oil, sesame oil, safflower oil.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is MUFA and its sources?",
+    "answer": "Monounsaturated fatty acids (MUFA) are healthy fat molecules; sources include dairy products, nuts, seeds, olives, avocados, olive oil.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are PUFA and their types?",
+    "answer": "Polyunsaturated fatty acids (PUFA) have two or more carbon-carbon double bonds; types include omega-3 and omega-6 fatty acids.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are sources of omega-3 fatty acids?",
+    "answer": "Fish, chia seeds, hemp seeds, flaxseeds.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are sources of omega-6 fatty acids?",
+    "answer": "Oils of palm, soybean, rapeseed, sunflower; eggs, whole grains, nuts, pumpkin seeds, pine nuts, walnuts.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are health benefits of MUFA and PUFA?",
+    "answer": "MUFA improves insulin levels, lowers bad cholesterol, raises good cholesterol; omega-3 PUFA reduces inflammation, promotes heart and brain health, vision, mood, and lowers depression/anxiety.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the primary source of fat in the Mediterranean diet?",
+    "answer": "Olive oil.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Name superfoods rich in antioxidants mentioned.",
+    "answer": "Berries, dark green leafy vegetables, fatty fish (salmon, sardines, mackerel), nuts (walnuts, almonds), black beans, beets, avocado, dark chocolate.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Describe Finland's intervention example.",
+    "answer": "In 1972, Finland had high CVD mortality; they increased low-fat dairy, antismoking legislation, improved school meals, media campaigns; five years later, improvements in smoking, cholesterol, blood pressure; by 1992, 57% drop in male CVD mortality aged 35\u201364; expanded program reduced other lifestyle diseases; 20 years later, 75% decrease in CVD mortality.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do school-based physical education programs impact health in China?",
+    "answer": "72% of children aged 6\u201318 engage in 90\u2013100 minutes of moderate to vigorous physical activity per week, contributing to historically low obesity rates.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does London promote walking and bicycling?",
+    "answer": "Through congestion charging of US$8/day for cars entering central London, reducing congestion and encouraging active transport.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What urban design strategies promote health?",
+    "answer": "Prioritizing pedestrians, cyclists, public transport; citywide bicycle networks, greenways, park-and-ride programs, rail and bus services; building design encouraging stair use.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are examples of fortifying food for health?",
+    "answer": "Iodine fortification to prevent deficiency, fortifying with folic acid to reduce chronic disease and neural tube defects, fortifying with vitamins B12 and B6 where low intake contributes to elevated homocysteine.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What do successes in Finland, Poland, Denmark, and Singapore suggest for developing countries?",
+    "answer": "That similar diet and lifestyle interventions can reduce rates of CAD, stroke, and smoking-related cancers.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is overweight and obesity defined?",
+    "answer": "It is an abnormal or excessive increase in weight due to accumulation of fat that presents a risk to health; chronic, relapsing progressive disease defined by excessive adiposity that may impair health.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What BMI range defines overweight in India?",
+    "answer": "BMI between 23.0 and 24.9 kg/m\u00b2.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What BMI range defines obesity in India?",
+    "answer": "BMI \u2265 25 kg/m\u00b2.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What BMI defines morbid obesity?",
+    "answer": "BMI \u2265 35.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the main causes of obesity?",
+    "answer": "Wrong choices of food (high sugar & fat and/or fast food), excessive eating, and lack of physical activity (sedentary life).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "List factors responsible for rising obesity in India.",
+    "answer": "a) Unhealthy diet high in refined carbohydrate and saturated fat, high calories and low nutrients; b) Easy access to processed and packed food; c) Increasing trend of eating out with unhealthy oils; d) Use of genetically modified crops; e) Inadequate physical activity; f) Sedentary lifestyle.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are age-related factors contributing to obesity?",
+    "answer": "Seeds of obesity laid during intrauterine period and early childhood; weight tends to increase with age, especially in women around menopause; dietary habits need monitoring throughout life.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which long-term health problems are obese individuals at risk of developing?",
+    "answer": "Type 2 diabetes, hypertension, heart disease, joint problems (especially knees and lower back), respiratory difficulty (including sleep apnea), mental health issues, cancer, precocious puberty in girls, and PCOS leading to infertility.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do socioeconomic conditions affect obesity?",
+    "answer": "Poor socioeconomic conditions limit access to healthy food; people may overeat when food is available; strategies like slow eating can help prevent obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How are physical activity and obesity related?",
+    "answer": "Lack of physical activity contributes to obesity; obesity makes physical activity difficult, creating a vicious cycle; lack of activity leads to deconditioning and related health problems (breathlessness, high BP, NAFLD, diabetes, joint problems).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the relationship between sleep and obesity?",
+    "answer": "Obesity increases risk of obstructive sleep apnea and snoring, causing respiratory problems and reduced physical activity; psychological problems related to obesity can also worsen sleep and eating disorders.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does stress contribute to obesity?",
+    "answer": "Stress can trigger binge eating, causing or worsening obesity; obesity can worsen psychological stress, creating a vicious cycle.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do cultural factors influence obesity and diabetes?",
+    "answer": "High intake of cereals and direct sugars in a culture increases risk of obesity and metabolic disorders; cultural dietary practices also affect diabetes control.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the relationship between obesity and chronic diseases?",
+    "answer": "Obesity predisposes to metabolic diseases (diabetes & hypertension), cancers, bone and joint problems, and higher mortality from infectious diseases.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do environmental factors affect weight?",
+    "answer": "Extreme weather conditions or prolonged day/night cycles can lead to psychiatric problems and eating disorders, resulting in obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do hormones influence obesity?",
+    "answer": "Insulin increases appetite; adrenal hormones increase appetite; hypothyroidism causes weight gain due to deposition of myxomatous tissue.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is food addiction and stress/emotional eating?",
+    "answer": "Emotion and stress can cause binge eating and eating disorders, leading to obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Is stress eating the same as binge eating?",
+    "answer": "No; they are related but not synonymous and can coexist.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Is obesity genetic/hereditary?",
+    "answer": "Yes; obesity can be genetic, hereditary, and/or acquired; acquired obesity can also become genetic over generations.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do family dynamics affect weight?",
+    "answer": "Family eating habits, including use of fat/fried food or frequent eating out, influence obesity; managing obesity may require diet modification for the entire family.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the relationship between mental health and obesity?",
+    "answer": "Obesity can cause mental health issues related to body image; depression may lead to binge eating, creating a vicious cycle of weight gain.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do social media and peer pressure affect weight?",
+    "answer": "They can influence incorrect food choices, resulting in abnormal weight gain and obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How do alcohol and smoking affect weight?",
+    "answer": "Alcohol leads to high-calorie consumption; smoking suppresses appetite, and quitting can cause weight gain due to increased eating.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which medical conditions can cause weight gain?",
+    "answer": "a) Diseases restricting movement (heart, lung, kidney, liver, CNS); b) Endocrine/hormonal diseases (Cushing\u2019s, Myxedema); c) Drug intake (steroids, antidepressants, antipsychotics).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the difference between craving and hunger?",
+    "answer": "Craving is a desire for a specific food, not related to appetite; it can lead to obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Can children be affected by obesity?",
+    "answer": "Yes; mainly due to fast/processed food and decreased physical activity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the long-term effects of childhood obesity?",
+    "answer": "Early onset of NCDs (hypertension, type 2 diabetes), mental health issues, PCOD in adolescent girls.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the health effects of overweight to morbid obesity?",
+    "answer": "Inactive life, NCDs (diabetes, hypertension), bone/joint problems, breathing disorders (sleep apnea, hypoventilation), psychiatric problems.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Does obesity affect fertility?",
+    "answer": "Yes; females may develop PCOD, males may develop diabetes-related erectile dysfunction.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does obesity affect pregnancy and vice versa?",
+    "answer": "Pregnancy causes weight gain; obese women have higher risk of hypertension, diabetes, toxemia; labor and cesarean may be difficult.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the effect of obesity on cognitive function?",
+    "answer": "Obesity itself has no direct effect, but associated mental illness and early-onset dementia can affect cognitive functions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Can an obese person be healthy?",
+    "answer": "It is very unlikely for an obese person to be absolutely healthy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the significance of waist circumference in obesity?",
+    "answer": "Waist circumference and waist-to-hip ratio (>0.9 men, >0.85 women) indicate obesity-related disease risk.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Can obesity be reversed?",
+    "answer": "Yes, by increasing physical activity, stopping direct sugars, reducing carbohydrate/fat intake, and eating slowly.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is obesity treated?",
+    "answer": "Primarily through lifestyle changes; drugs and surgery for morbid obesity are not generally advisable.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are health risks associated with obesity?",
+    "answer": "Diabetes, hypertension, atherosclerosis, heart disease, sudden cardiac death, snoring, sleep apnea, restrictive lung disease, NAFLD, bone/joint disease, mental disorders, cancer.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How can obesity be prevented?",
+    "answer": "Healthy lifestyle, dietary discipline, regular physical activity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Any specific diet effective for obesity prevention/treatment?",
+    "answer": "Diet low in direct sugars, refined/simple carbohydrates, hydrogenated oils; eat slowly; inculcate good habits from childhood.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What type and amount of exercise is recommended for obesity treatment?",
+    "answer": "Aerobic exercise, walking, mild yoga initially; gradually increase intensity as weight decreases.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is obesity measured beyond weight? Difference in men and women?",
+    "answer": "BMI, waist circumference, waist-hip ratio; BMI \u2265 26 in Indians, waist >90 cm men, >80 cm women indicates obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Importance of hydration in weight management?",
+    "answer": "Water is essential (55-60% body weight); dehydration can cause tiredness and exhaustion.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How can food marketing affect weight management?",
+    "answer": "Marketing may mislead (e.g., \"no added sugar\" products still contain sugar); consumers must read labels carefully.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Are there public policies to prevent obesity?",
+    "answer": "Yes; FSSAI mandates nutritional info on food items; availability of Yoga and health advice at Arogya Mandirs.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Importance of breakfast in weight management?",
+    "answer": "Individualized; 12-16 hour gap after last meal is suggested; timing depends on work profile.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is intermittent fasting?",
+    "answer": "Concept of a 16-hour gap after the last meal of the day.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Recommendations for diet and eating timings for weight management?",
+    "answer": "Low direct sugars, refined/simple carbs, processed food, soft drinks; adapt to local food and traditions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Healthy snacking tips?",
+    "answer": "Prefer fresh fruits, dry fruits, salads, roasted grams, cereals without fat.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Grocery shopping tips for weight management?",
+    "answer": "Read labels, avoid processed/preserved foods high in sugar, salt, fat (palm oil).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Cooking methods to prevent/treat obesity?",
+    "answer": "Use minimal fat; steaming, light roasting preferred; if frying, deep frying over shallow frying.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Importance of portion size in weight management?",
+    "answer": "Small portions and slow eating (chewing 15-30 times per bite) are important.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Behavioral strategies for weight management?",
+    "answer": "Regular meal timings, avoid eating out, control meal content.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How to choose weight reduction programs?",
+    "answer": "Programs providing slow weight reduction (1 kg/month) over 1 year; avoid drastic reduction diets.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Healthy eating while dining out or at social gatherings?",
+    "answer": "Difficult due to uncertainty of fat content and hygiene; choose cautiously.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Difference in weight management strategy for children vs adults?",
+    "answer": "Similar strategies; children may struggle with discipline; excessive restriction may affect growth.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does gut health affect weight? Role of probiotics?",
+    "answer": "Preservation of gut flora is vital; intake of curd and fermented foods; avoid drugs affecting stomach acid; chew slowly.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the keto diet? Is it advisable?",
+    "answer": "High-fat, high-protein, near-zero carb diet; induces ketosis; potentially harmful long-term; best avoided.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Role of Yoga and meditation in weight management?",
+    "answer": "Helps reduce stress and related eating problems; stabilizes mind.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is liposuction and bariatric surgery? Their usefulness?",
+    "answer": "Liposuction removes subcutaneous fat; bariatric surgery reduces stomach size; effective short-term but carry surgical risks; reserved for morbid obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How to manage craving, binge eating, night-time eating?",
+    "answer": "Regular food timings, slow eating, proper chewing, meditation, early sleeping, early morning rise.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are distorted eating patterns?",
+    "answer": "Abnormal patterns like binge eating, night-time eating, and frequent snacking.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Do underweight individuals face health risks similar to overweight?",
+    "answer": "Yes; depends on bony framework; additional measures like waist-hip ratio considered; malnourishment relevant mainly in childhood.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How to promote healthy lifestyle at workplace?",
+    "answer": "Take stairs, short walks, shoulder exercises, avoid sweetened/caffeinated drinks and snacks.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How to incorporate physical activity in busy work schedule?",
+    "answer": "Take stairs, walk short distances, use public transport to increase activity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Effect of technology on weight?",
+    "answer": "Technology eases life but increases physical inactivity, contributing to obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Importance of regular health checkups in weight management?",
+    "answer": "Helps diagnose lifestyle diseases; weight monitoring can be self-assessed via clothes fit.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Can lifestyle diseases reverse after weight reduction?",
+    "answer": "Diabetes and hypertension can reverse with 1-2 years of dietary and lifestyle discipline.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How to measure progress in obesity management?",
+    "answer": "Monthly measurements aiming for 1-2 kg reduction per month.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How to maintain ideal weight long-term?",
+    "answer": "Initial 1-2 years of lifestyle discipline leads to sustainable maintenance.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How to prevent childhood obesity?",
+    "answer": "Limit screen time, promote outdoor play, avoid processed food, encourage home-cooked meals, slow eating, teach importance of fruits/vegetables.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What constitutes a healthy diet?",
+    "answer": "Adequate vegetables, whole grains, pulses/beans, modest nuts/seeds, fruits, plain fermented yogurt or curd.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What was the main research question of the study by Ganie et al. on PCOS in India?",
+    "answer": "The study aimed to determine the prevalence, phenotypic variations, and comorbidities associated with polycystic ovary syndrome (PCOS) among Indian women.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many women participated in this cross-sectional study on PCOS in India?",
+    "answer": "A total of 9,824 women aged 18 to 40 years were recruited.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What were the weighted national prevalences of PCOS in India according to the NIH 1990 and Rotterdam 2003 criteria?",
+    "answer": "The prevalence was 7.2% by NIH 1990 criteria and 19.6% by Rotterdam 2003 criteria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which PCOS phenotype was the most prevalent among Indian women according to this study?",
+    "answer": "Phenotype C was the most prevalent, observed in 40.8% of women with PCOS.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What proportion of women with PCOS had obesity?",
+    "answer": "Among women with PCOS, 43.2% had obesity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What were the percentages of dyslipidemia, nonalcoholic fatty liver disease (NAFLD), and metabolic syndrome among women with PCOS?",
+    "answer": "Dyslipidemia: 91.9%, NAFLD: 32.9%, and metabolic syndrome: 24.9%.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How prevalent were diabetes and hypertension among women with PCOS?",
+    "answer": "Diabetes was present in 3.3% and hypertension in 8.3% of women with PCOS.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What was the significance of the study findings for public health in India?",
+    "answer": "The high prevalence of PCOS, along with metabolic comorbidities, highlights the need for preventive and therapeutic strategies and potential integration of PCOS management into national health programs.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What criteria were used to categorize women as having PCOS in the study?",
+    "answer": "The study used NIH 1990, Rotterdam 2003, and AE-PCOS Society criteria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the definition of pre-PCOS in this study?",
+    "answer": "Pre-PCOS refers to women exhibiting only hyperandrogenism, oligomenorrhea, or polycystic ovarian morphology without meeting full PCOS criteria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which comorbidities were also noted among women in the pre-PCOS subgroup?",
+    "answer": "Dyslipidemia (79.3%), metabolic syndrome (15.9%), NAFLD (33.1%), impaired glucose tolerance (12.6%), diabetes (1.4%), and hypertension (5.3%).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What age group showed a higher prevalence of PCOS according to this study?",
+    "answer": "Younger women had a higher prevalence, with prevalence decreasing with increasing age.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How did PCOS prevalence differ between urban and rural areas in India?",
+    "answer": "Urban areas showed slightly higher prevalence rates compared with rural areas.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which regions in India had the highest and lowest PCOS prevalence?",
+    "answer": "Central and North India had the highest prevalence, while Northeastern India had the lowest.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How were participants for the study selected?",
+    "answer": "Women aged 18 to 40 were selected from the voter ID list via stratified sampling, ensuring representation from urban and rural constituencies across five zones of India.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What method was used to screen women for PCOS in this study?",
+    "answer": "Screening involved clinical evaluation, biochemical tests, and ultrasonography to assess ovarian morphology and hormone levels.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which hormones were measured to assess hyperandrogenism?",
+    "answer": "Total testosterone, free androgen index, and dehydroepiandrosterone sulfate (DHEAS) were measured.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How was oligomenorrhea defined in the study?",
+    "answer": "Oligomenorrhea was defined as menstrual cycles longer than 35 days or fewer than 8 cycles per year.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How was polycystic ovarian morphology (PCOM) defined on ultrasound?",
+    "answer": "PCOM was defined as having \u226512 follicles per ovary measuring 2\u20139 mm in diameter and/or increased ovarian volume >10 mL.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many women were categorized as having pre-PCOS?",
+    "answer": "A total of 5,432 women were classified as pre-PCOS.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What were the most common phenotypes of PCOS in Indian women?",
+    "answer": "Phenotype C (hyperandrogenism + polycystic ovaries) was the most common, followed by Phenotype A (hyperandrogenism + oligo/anovulation + polycystic ovaries).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which metabolic parameters were most frequently abnormal in women with PCOS?",
+    "answer": "Dyslipidemia was the most frequent (91.9%), followed by NAFLD (32.9%) and metabolic syndrome (24.9%).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How was obesity assessed in this study?",
+    "answer": "Obesity was assessed using body mass index (BMI), with BMI \u226525 kg/m\u00b2 considered overweight/obese for Asian criteria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What proportion of women with PCOS had impaired fasting glucose or impaired glucose tolerance?",
+    "answer": "12.6% had impaired glucose tolerance, and 6.2% had impaired fasting glucose.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How was dyslipidemia defined in the study?",
+    "answer": "Dyslipidemia was defined by abnormal levels of total cholesterol, LDL, HDL, or triglycerides based on standard clinical cutoffs.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which cardiovascular risk factors were assessed in women with PCOS?",
+    "answer": "Hypertension, dyslipidemia, metabolic syndrome, and insulin resistance were evaluated as cardiovascular risk factors.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What diagnostic imaging tool was used for assessing NAFLD?",
+    "answer": "Abdominal ultrasonography was used to detect nonalcoholic fatty liver disease.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How did metabolic comorbidities vary among different PCOS phenotypes?",
+    "answer": "Phenotype A had the highest prevalence of metabolic comorbidities, while phenotype D had the lowest.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What was the prevalence of insulin resistance among Indian women with PCOS?",
+    "answer": "Insulin resistance was observed in 38.5% of women with PCOS.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How did age affect the prevalence of metabolic comorbidities in women with PCOS?",
+    "answer": "Older age was associated with higher prevalence of metabolic comorbidities like diabetes, hypertension, and metabolic syndrome.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What was the clinical significance of identifying different PCOS phenotypes?",
+    "answer": "Phenotype-specific identification helps predict metabolic risk, guide management, and tailor lifestyle or pharmacological interventions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How was metabolic syndrome diagnosed in this study?",
+    "answer": "Metabolic syndrome was diagnosed using the modified National Cholesterol Education Program Adult Treatment Panel III (NCEP ATP III) criteria adapted for Asians.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What was the overall prevalence of PCOS among the study population of Indian women?",
+    "answer": "The prevalence of PCOS was 22.5% among the studied Indian women.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How did body mass index (BMI) correlate with PCOS prevalence?",
+    "answer": "Higher BMI was strongly associated with increased prevalence of PCOS and metabolic comorbidities.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What was the prevalence of nonalcoholic fatty liver disease (NAFLD) in women with PCOS?",
+    "answer": "NAFLD was present in 32.9% of women with PCOS.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which lipid abnormality was most common in women with PCOS?",
+    "answer": "Low HDL cholesterol was the most common lipid abnormality observed.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What proportion of women with PCOS had hypertension?",
+    "answer": "Hypertension was found in 9.4% of women with PCOS.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which comorbidity showed the highest prevalence in women with PCOS?",
+    "answer": "Dyslipidemia showed the highest prevalence at 91.9%.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What impact did hyperandrogenism have on metabolic risk?",
+    "answer": "Hyperandrogenism was associated with increased risk of insulin resistance, dyslipidemia, and metabolic syndrome.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which phenotype had the lowest prevalence of metabolic syndrome?",
+    "answer": "Phenotype D (oligo/anovulation + polycystic ovaries, without hyperandrogenism) had the lowest prevalence.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How did age and BMI together influence metabolic risk in PCOS?",
+    "answer": "Older age combined with higher BMI significantly increased the likelihood of diabetes, metabolic syndrome, and cardiovascular risk.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Were there any regional differences in PCOS prevalence within India?",
+    "answer": "The study did not find significant regional differences; PCOS prevalence was fairly consistent across Indian regions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What role does early screening play in women at risk for PCOS?",
+    "answer": "Early screening allows timely lifestyle and medical interventions to prevent long-term metabolic and reproductive complications.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which reproductive complication was most frequently reported in women with PCOS?",
+    "answer": "Infertility and menstrual irregularities were the most frequently reported reproductive complications.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How were androgen levels measured?",
+    "answer": "Serum total testosterone, free androgen index, and DHEAS levels were measured using standardized biochemical assays.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How can phenotyping of PCOS guide personalized treatment?",
+    "answer": "Phenotyping allows clinicians to target treatments based on dominant features, e.g., insulin sensitizers for metabolic risk or anti-androgens for hyperandrogenism.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What percentage of women with PCOS were overweight or obese?",
+    "answer": "Approximately 60% of women with PCOS were overweight or obese according to Asian BMI criteria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Did the study report any psychiatric comorbidities in women with PCOS?",
+    "answer": "Yes, mood disorders such as anxiety and depression were noted, although specific prevalence percentages were not the primary focus.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does PCOS impact long-term health beyond reproductive age?",
+    "answer": "Women with PCOS remain at higher risk for metabolic syndrome, type 2 diabetes, cardiovascular disease, and NAFLD even after reproductive age.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the importance of early lifestyle intervention in women with PCOS?",
+    "answer": "Early lifestyle intervention, including diet, exercise, and weight management, can reduce metabolic complications and improve reproductive outcomes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How prevalent was insulin resistance among the studied women with PCOS?",
+    "answer": "Insulin resistance was present in a significant proportion, affecting around 50\u201370% depending on phenotype and BMI.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which PCOS phenotype showed the highest metabolic risk?",
+    "answer": "Phenotype A (hyperandrogenism + oligo/anovulation + polycystic ovaries) exhibited the highest metabolic risk.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What clinical feature was most strongly linked with hyperandrogenism?",
+    "answer": "Hirsutism (excess hair growth) was most strongly linked with hyperandrogenism.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does PCOS affect lipid metabolism?",
+    "answer": "PCOS is associated with dyslipidemia, especially low HDL cholesterol, high triglycerides, and sometimes elevated LDL cholesterol.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What was the study\u2019s recommendation for monitoring women with PCOS?",
+    "answer": "Regular screening for glucose intolerance, dyslipidemia, hypertension, and liver disease is recommended.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Did the study find any differences in metabolic risk between lean and obese PCOS women?",
+    "answer": "Yes, obese PCOS women had significantly higher metabolic risk than lean PCOS women, though even lean women could have insulin resistance.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does PCOS impact fertility treatments?",
+    "answer": "Women with PCOS may require tailored fertility treatments such as ovulation induction or IVF, with attention to avoiding ovarian hyperstimulation.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Are all PCOS phenotypes equally at risk for type 2 diabetes?",
+    "answer": "No, risk is higher in phenotypes with hyperandrogenism and obesity; phenotype D has relatively lower risk.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the clinical significance of differentiating PCOS phenotypes?",
+    "answer": "Differentiating phenotypes allows individualized management, predicting metabolic and reproductive risks more accurately.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does NAFLD relate to PCOS?",
+    "answer": "NAFLD prevalence is higher in PCOS, particularly in women with obesity, insulin resistance, and hyperandrogenism.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the prevalence of metabolic syndrome in Indian women with PCOS according to the study?",
+    "answer": "Metabolic syndrome was present in approximately 29\u201335% of women with PCOS.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What hormonal assay is recommended for PCOS diagnosis?",
+    "answer": "Serum total testosterone and free androgen index are recommended, along with clinical assessment for hyperandrogenism.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How can PCOS management reduce long-term cardiovascular risk?",
+    "answer": "Management through lifestyle modification, weight control, insulin sensitizers, and lipid management can reduce long-term cardiovascular risk.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Did the study observe any age-related trends in PCOS features?",
+    "answer": "Yes, younger women were more likely to present with reproductive symptoms, whereas older women showed higher metabolic complications.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the overall takeaway regarding PCOS in Indian women?",
+    "answer": "PCOS is highly prevalent, phenotypically diverse, and associated with significant metabolic and reproductive comorbidities, necessitating early identification and personalized management.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What was the primary aim of the May Measurement Month 2018 campaign in India?",
+    "answer": "To raise awareness about raised blood pressure (hypertension) and educate communities on steps to prevent it.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which organizations led the May Measurement Month 2018 campaign in India?",
+    "answer": "The Indian Council of Medical Research (ICMR), International Society of Hypertension (ISH), Centre for Chronic Disease Control (CCDC), PHFI, Association of Physicians of India, and over 50 partner institutions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is hypertension a significant health concern in India?",
+    "answer": "Hypertension is a leading cause of morbidity and mortality, responsible for 10.8% of all deaths in India and directly causing 29% of strokes and 24% of heart attacks.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many individuals were screened during the May Measurement Month initiative in 2017?",
+    "answer": "Over 2.5 lakh (250,000) individuals were screened.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "According to the campaign, what lifestyle modifications can help prevent hypertension?",
+    "answer": "Maintaining a healthy weight, regular exercise (including yoga), eating fruits and vegetables, reducing salt, fat, sugar, and alcohol, stopping tobacco use, reducing caffeine, and managing stress.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Who launched the campaign and participated in the panel discussion at ICMR?",
+    "answer": "Prof. Balram Bhargava, Prof. D. Prabhakaran, Dr. Manas Pratim Roy, Dr. C. Venkata S. Ram, Dr. Y. P. Munjal, and Dr. Narsingh Verma.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many deaths in India are attributed to hypertension annually?",
+    "answer": "Approximately 2.6 lakh (260,000) deaths.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is hypertension often called a \u2018Silent Killer\u2019?",
+    "answer": "Because it usually has no symptoms and many people are unaware they have it until they suffer a heart attack, stroke, or another related disease.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the global impact of raised blood pressure?",
+    "answer": "It causes approximately 9.4 million deaths worldwide each year.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What percentage of ischemic heart disease, peripheral vascular disease, acute myocardial infarctions, and strokes in India is attributed to hypertension?",
+    "answer": "16% of ischemic heart disease, 21% of peripheral vascular disease, 24% of acute myocardial infarctions, and 29% of strokes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How has adult hypertension prevalence in India changed over the past three decades?",
+    "answer": "It has drastically increased in both urban and rural areas.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the main objective of the International Society of Hypertension (ISH) in launching May Measurement Month?",
+    "answer": "To increase access to blood pressure screening and reduce the adverse health impacts of hypertension globally.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What role does ICMR play in health research and policy in India?",
+    "answer": "ICMR coordinates, promotes, and funds biomedical and health research, aiming to reduce disease burden and promote population health, while informing policy and fund allocation.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the mission of the Centre for Chronic Disease Control (CCDC)?",
+    "answer": "To address chronic disease challenges in developing countries, generate knowledge, translate it into policies, and empower programs for prevention and control of chronic diseases.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is regular blood pressure screening emphasized in the campaign?",
+    "answer": "Because early detection helps prevent complications and reduces the burden of cardiovascular disease.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which risk factors can be modified to manage blood pressure effectively according to the campaign?",
+    "answer": "Diet, physical activity, stress levels, smoking, alcohol, salt intake, and body weight.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How does hypertension contribute to the healthcare burden in India?",
+    "answer": "It significantly increases cardiovascular disease prevalence and related healthcare costs, affecting both individuals and the system.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the prevalence of hypertension among the adult population in India?",
+    "answer": "29.8% overall, with higher prevalence in urban areas (33.8%) compared to rural areas (27.6%).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How many deaths annually in India are attributed to hypertension-related ischemic heart disease and stroke?",
+    "answer": "Approximately 1.6 million deaths.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What percentage of stroke-related deaths in India is linked to hypertension?",
+    "answer": "57% of stroke-related deaths.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is awareness of hypertension low in India?",
+    "answer": "Because hypertension is largely asymptomatic, and there is a lack of systematic screening for adults.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the five components of a public health approach to hypertension in India?",
+    "answer": "1) Prevention, 2) Screening, 3) Diagnosis, 4) Management including lifestyle changes, 5) Follow-up and monitoring adherence.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What preventive measures are recommended to reduce hypertension risk?",
+    "answer": "Weight reduction, increased physical activity, decreased salt, sugar, and fat intake, cessation of tobacco, moderation of alcohol, and increased fruit and vegetable consumption.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should screening for hypertension be conducted?",
+    "answer": "Opportunistic screening for adults over 18 at all points of care, and targeted community screening for high-risk populations using standardized BP measurement.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the standardized procedure for measuring blood pressure?",
+    "answer": "The patient should be relaxed for 5 minutes, seated with back supported, arm at heart level, legs uncrossed; appropriate cuff size used; at least 2 readings taken 1 minute apart; a third reading if readings differ by >5 mm Hg.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which devices are recommended for accurate BP measurement?",
+    "answer": "Mercury sphygmomanometers or validated electronic digital oscillometric devices that are regularly calibrated.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What errors can cause inaccurate BP measurements?",
+    "answer": "Unsupported back, arm not at heart level, crossed legs, recent caffeine or smoking, inappropriate cuff size, rapid deflation, patient anxiety (\u201cwhite coat hypertension\u201d).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What defines a diagnosis of hypertension in India?",
+    "answer": "Persistently elevated BP \u2265140 mm Hg systolic and/or \u226590 mm Hg diastolic, confirmed on at least 2 visits with 2 measurements each, except in emergencies.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the role of patient education in hypertension management?",
+    "answer": "To explain the asymptomatic nature of the disease, the need for long-term therapy, BP control targets, and the importance of lifestyle measures.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the key components of patient assessment for hypertension?",
+    "answer": "1) Lifestyle and cardiovascular risk factors, 2) Target organ damage, 3) Associated clinical conditions, 4) Clues to secondary hypertension, 5) Overall cardiovascular risk.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What lifestyle and risk factors should be assessed?",
+    "answer": "Smoking, salt/fat intake, exercise, alcohol consumption, family history, BMI, abdominal circumference, blood glucose, lipids.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is target organ damage assessed?",
+    "answer": "By evaluating the heart (heart failure, LVH), kidneys (proteinuria), and retina (hypertensive retinopathy) using history, examination, and lab tests.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What clues suggest secondary hypertension?",
+    "answer": "Abrupt onset <30 or >60 years, palpitations/headache/perspiration (pheochromocytoma), sleep apnea, drug intake (NSAIDs, steroids, contraceptives), Cushing features, unequal pulses, coarctation of aorta, renal artery stenosis.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is overall cardiovascular risk determined?",
+    "answer": "Based on hypertension grade, number of risk factors, organ damage, presence of diabetes, symptomatic CVD, or chronic kidney disease.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended pragmatic assessment approach in India?",
+    "answer": "Essential assessment for Grade 1 HT, desirable for Grade 2 HT or diabetes/proteinuria, comprehensive for Grade 3 HT or suspected secondary HT, balancing resources and patient needs.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which assessments are considered essential at primary care?",
+    "answer": "History, physical exam, fasting capillary or plasma glucose, and assessment of cardiovascular disease.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which additional assessments are desirable for higher-risk patients?",
+    "answer": "Serum creatinine, lipid profile, ECG for LVH or ischemia, urinalysis for proteinuria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is screening for diabetes integral in hypertension care?",
+    "answer": "Because hypertension and diabetes often coexist, and integrated management improves outcomes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What advice should all hypertensive patients receive regarding tobacco?",
+    "answer": "They should be asked about tobacco use and advised to stop.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the first step in managing all patients with hypertension?",
+    "answer": "Implement lifestyle modifications in all patients, regardless of grade.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What lifestyle modifications are recommended for hypertension management?",
+    "answer": "Weight control, regular exercise (including yoga), reduced salt, sugar, and fat intake, increased fruits/vegetables, tobacco cessation, moderation of alcohol, stress reduction.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When is drug therapy initiated for hypertension?",
+    "answer": "In Grade 2 or 3 hypertension, in Grade 1 when indicated (high risk or target organ damage), or during hypertensive emergencies.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the first-line antihypertensive drugs recommended in India?",
+    "answer": "Calcium channel blockers, ACE inhibitors (or ARBs if ACE inhibitors are contraindicated), thiazide/thiazide-like diuretics.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should drug therapy be titrated?",
+    "answer": "Using optimal doses of one or more classes of drugs to achieve target blood pressures.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should comorbidities be managed in hypertensive patients?",
+    "answer": "By addressing diabetes, heart disease, chronic kidney disease, and other cardiovascular conditions alongside BP control.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What special considerations exist for managing hypertension in elderly patients?",
+    "answer": "Adjust therapy carefully to avoid hypotension, consider comorbidities, and monitor for side effects more closely.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How are hypertensive urgencies and emergencies handled?",
+    "answer": "Emergencies require immediate evaluation and initiation of treatment for acute target organ damage; urgencies require rapid but non-emergent BP reduction.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What follow-up measures are recommended for hypertensive patients?",
+    "answer": "Regular BP review, adherence assessment, monitoring of target organ damage, lifestyle counseling, and referral if uncontrolled on three drugs or if secondary hypertension is suspected.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is a team-based approach recommended for follow-up?",
+    "answer": "To provide comprehensive care, improve adherence, and ensure monitoring by physicians and allied health staff.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the role of a hypertension registry in patient management?",
+    "answer": "To track patient adherence, monitor therapy, and provide accessible data to all healthcare providers in the public health system.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the target BP for most hypertensive patients under treatment?",
+    "answer": "Generally <140/90 mm Hg, with adjustments for age, comorbidities, and specific clinical guidelines.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should adherence to therapy be promoted?",
+    "answer": "Through simplified drug regimens, patient education, lifestyle counseling, and regular follow-up.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What additional measures may be used to reduce cardiovascular risk in hypertensive patients?",
+    "answer": "Statins, aspirin (if indicated), and management of other risk factors like diabetes and dyslipidemia.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended approach for lifestyle modifications in India?",
+    "answer": "Use population-wide interventions for prevention, combined with individualized counseling during screening and follow-up.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How are special groups such as pregnant women, children, or patients with secondary hypertension managed?",
+    "answer": "They require tailored approaches, careful drug selection, and specialist referral when necessary.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the rationale for early diagnosis and treatment of hypertension?",
+    "answer": "To prevent target organ damage, reduce morbidity/mortality, and avoid costly complications like stroke, heart attack, and renal failure.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How often should BP be rechecked in patients with initial high-normal readings (130\u2013139/85\u201389 mm Hg)?",
+    "answer": "Within 1 year, with advice on lifestyle modifications.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should patients with severely elevated BP (>180/110 mm Hg) be managed initially?",
+    "answer": "Assess for acute target organ damage, treat as hypertensive emergency if present, and refer immediately to a PHC/CHC for evaluation and treatment.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the overall goal of hypertension management in India?",
+    "answer": "To reduce the burden of cardiovascular disease, prevent complications, and improve population health through a combination of lifestyle interventions, drug therapy, and follow-up care.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is Grade 1 hypertension defined?",
+    "answer": "Systolic BP 140\u2013159 mm Hg and/or diastolic BP 90\u201399 mm Hg.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is Grade 2 hypertension defined?",
+    "answer": "Systolic BP 160\u2013179 mm Hg and/or diastolic BP 100\u2013109 mm Hg.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is Grade 3 hypertension defined?",
+    "answer": "Systolic BP \u2265180 mm Hg and/or diastolic BP \u2265110 mm Hg.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is isolated systolic hypertension?",
+    "answer": "Systolic BP \u2265140 mm Hg with diastolic BP <90 mm Hg.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What distinguishes a hypertensive urgency from a hypertensive emergency?",
+    "answer": "Urgency: BP >180/110 mm Hg without acute target organ damage.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the \u201cABCDEG\u201d signs for hypertensive crisis assessment?",
+    "answer": "A: Altered consciousness, B: Breathlessness, C: Chest pain (ischemic), D: Deficit/limb weakness or decreased urine output, E: Edema, F: Fundus changes (hemorrhages/exudates/papilledema), G: Generalized seizures.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the essential investigations for all hypertensive patients at primary care?",
+    "answer": "History and physical exam for risk factors, fasting glucose (capillary or plasma), and assessment of clinical cardiovascular disease.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are desirable investigations for higher-risk patients?",
+    "answer": "Serum creatinine, lipid profile, ECG for LVH or ischemia, urinalysis for proteinuria.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is urinalysis important in hypertension assessment?",
+    "answer": "Proteinuria doubles the risk of morbidity/mortality for a given BP and predicts all-cause mortality in hypertension.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which patients should be assessed for secondary hypertension?",
+    "answer": "Those with abrupt onset <30 or >60 years, resistant hypertension, or clinical features suggesting secondary causes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are common secondary causes of hypertension in India?",
+    "answer": "Renovascular disease, pheochromocytoma, sleep apnea, Cushing syndrome, coarctation of the aorta, renal parenchymal disease, or drug-induced hypertension.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended follow-up for patients with controlled BP?",
+    "answer": "Review BP and lifestyle adherence periodically, reassess risk factors and organ damage, typically at the primary care level.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should hypertension be managed in patients with diabetes?",
+    "answer": "Integrated care with blood pressure control, glucose management, and regular monitoring for organ damage; lifestyle interventions are emphasized.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the main public health goals of hypertension management in India?",
+    "answer": "Increase awareness, early detection, effective BP control, prevent complications, and reduce cardiovascular morbidity and mortality.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should hypertensive patients be educated about their disease?",
+    "answer": "Explain the asymptomatic nature, long-term therapy importance, BP targets, lifestyle modifications, and adherence to drug therapy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What lifestyle measures are most effective in reducing BP?",
+    "answer": "Weight reduction, regular physical activity, dietary salt reduction, increased fruit/vegetable intake, moderation of alcohol, and tobacco cessation.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should blood pressure be monitored during follow-up?",
+    "answer": "Measure at every visit initially (every 2\u20134 weeks), then every 3\u20136 months once target BP is achieved, using standardized techniques.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended population-wide intervention for hypertension prevention?",
+    "answer": "Promote the five-point strategy: reduce weight, exercise, decrease salt/sugar/fat intake, stop tobacco, moderate alcohol, and increase fruits/vegetables.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Why is a standardized BP measurement procedure emphasized in India?",
+    "answer": "To minimize errors, ensure accurate diagnosis, and guide appropriate management decisions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended approach for patients with hypertension who do not respond to two drugs in full doses?",
+    "answer": "The physician should review factors such as BP measurement accuracy, adherence to medications and lifestyle modifications, suboptimal treatment regimens, presence of associated conditions, drug interactions, and the possibility of secondary hypertension.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the target BP for patients under 80 years with hypertension?",
+    "answer": "Less than 140 mm Hg systolic and less than 90 mm Hg diastolic.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What lifestyle modifications are recommended for all patients with hypertension?",
+    "answer": "Heart-healthy diet (reduced salt 5\u20136 g/day, low saturated fat), regular exercise, weight management (BMI 18.5\u201322.9 kg/m\u00b2), and cessation of smoking.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How long should lifestyle modifications be tried in Grade 1 hypertension before starting drugs if no target is achieved?",
+    "answer": "For 1\u20133 months, with shorter durations if additional risk factors are present.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which patients with Grade 1 hypertension should start drug therapy immediately?",
+    "answer": "Patients with target organ damage, clinical cardiovascular disease, diabetes, chronic kidney disease, or \u22653 cardiovascular risk factors.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the initial drug therapy strategy for Grade 2 hypertension?",
+    "answer": "Drug therapy should be initiated along with lifestyle measures after confirmation of diagnosis on repeat BP measurements.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the initial drug therapy strategy for Grade 3 hypertension?",
+    "answer": "Start with two drugs combined with lifestyle modifications (e.g., CCB + ACE inhibitor, CCB + diuretic, or ACE inhibitor + diuretic).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the BP targets in patients over 80 years?",
+    "answer": "Systolic BP <150 mm Hg and diastolic BP <90 mm Hg.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Is intensive BP lowering (<120/80 mm Hg) generally recommended in India?",
+    "answer": "No, it is not recommended except in select patients with close monitoring, due to increased risk of adverse events.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which antihypertensive drugs are considered first-line in patients without compelling indications?",
+    "answer": "Long-acting calcium channel blockers, low-dose thiazide diuretics, or low-cost ACE inhibitors.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which drugs are preferred in hypertensive patients with diabetes?",
+    "answer": "ACE inhibitors, especially if proteinuria is present. Calcium channel blockers or low-dose diuretics can be added if needed.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which drugs are preferred in hypertensive patients with heart failure?",
+    "answer": "ACE inhibitors, diuretics (loop or thiazide), beta-blockers, and mineralocorticoid receptor antagonists (e.g., spironolactone).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which drugs are preferred in hypertensive patients with coronary artery disease?",
+    "answer": "Beta-blockers, ACE inhibitors, or calcium channel blockers.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the initial recommended doses for commonly used antihypertensives in Indian patients?",
+    "answer": "Amlodipine (CCB): 5 mg (2.5 mg in elderly), Enalapril (ACE inhibitor): 5 mg (2.5 mg in elderly or on diuretics), Hydrochlorothiazide (diuretic): 12.5 mg, Atenolol (beta-blocker): 50 mg.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should BP medications be titrated if the first drug does not achieve target BP?",
+    "answer": "Increase the dose or add a second drug every 2\u20134 weeks; if two drugs fail, add a third from a different class.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is a hypertensive emergency?",
+    "answer": "A hypertensive emergency is a severe elevation in BP (usually \u2265180/120 mm Hg) with evidence of acute target organ damage, such as stroke, acute coronary syndrome, heart failure, aortic dissection, or acute kidney injury.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is a hypertensive urgency?",
+    "answer": "A hypertensive urgency is a severe elevation in BP (\u2265180/120 mm Hg) without acute target organ damage.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should hypertensive emergencies be managed?",
+    "answer": "Immediate IV antihypertensive therapy in an ICU setting with close monitoring. BP should be lowered gradually (not more than 25% in the first hour, then to ~160/100 mm Hg over 2\u20136 hours), depending on the organ involved.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How should hypertensive urgencies be managed?",
+    "answer": "Use oral antihypertensives to gradually reduce BP over 24\u201348 hours; hospitalization is usually not required unless complications arise.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which IV drugs are commonly used in hypertensive emergencies?",
+    "answer": "Nitroglycerin (ACS), labetalol (stroke/ACS), sodium nitroprusside (general), nicardipine (ICU), hydralazine (pregnancy-related hypertension).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the recommended BP reduction in acute ischemic stroke?",
+    "answer": "Only if BP >220/120 mm Hg; lower gradually to <185/110 mm Hg before thrombolysis.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is BP managed in acute intracerebral hemorrhage?",
+    "answer": "Reduce systolic BP to 140 mm Hg rapidly if presenting with 150\u2013220 mm Hg, using IV antihypertensives; avoid excessive drop.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is BP managed in acute myocardial infarction?",
+    "answer": "Lower BP cautiously with IV nitroglycerin or beta-blockers; avoid hypotension.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is BP managed in acute aortic dissection?",
+    "answer": "Rapidly reduce systolic BP to 100\u2013120 mm Hg within minutes using IV beta-blockers (labetalol or esmolol) \u00b1 vasodilators (nitroprusside).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the role of lifestyle measures in hypertensive emergencies?",
+    "answer": "Minimal; focus is on immediate BP control with medications. Lifestyle modifications are important for long-term prevention.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How often should BP be monitored after starting antihypertensive therapy?",
+    "answer": "Every 2\u20134 weeks until target BP is achieved, then every 3\u20136 months once stable.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is resistant hypertension?",
+    "answer": "BP above target despite three antihypertensives of different classes, including a diuretic, at optimal doses.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are common causes of resistant hypertension?",
+    "answer": "Poor adherence, suboptimal therapy, secondary causes (renal disease, hyperaldosteronism, sleep apnea, medications like NSAIDs or steroids).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What initial investigations are recommended for newly diagnosed hypertension?",
+    "answer": "Basic labs: CBC, fasting glucose, lipid profile, serum creatinine/eGFR, electrolytes, urinalysis, ECG; echocardiography if LVH or heart disease suspected.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When should secondary causes of hypertension be suspected?",
+    "answer": "Onset <30 years or >55 years, resistant hypertension, sudden worsening, severe hypertension with hypokalemia, adrenal or renal abnormalities.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the common causes of secondary hypertension?",
+    "answer": "Renal disease (chronic kidney disease, renal artery stenosis), endocrine disorders (hyperaldosteronism, Cushing\u2019s syndrome, pheochromocytoma, thyroid disorders), obstructive sleep apnea, medications (NSAIDs, steroids, oral contraceptives, decongestants), coarctation of the aorta.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is primary aldosteronism (Conn\u2019s syndrome) diagnosed?",
+    "answer": "Screen with plasma aldosterone concentration (PAC)/plasma renin activity (PRA) ratio; confirm with saline suppression or fludrocortisone suppression tests.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is pheochromocytoma?",
+    "answer": "A rare catecholamine-secreting tumor of the adrenal medulla causing paroxysmal or sustained hypertension, headache, sweating, palpitations.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is pheochromocytoma diagnosed?",
+    "answer": "Measure plasma free metanephrines or 24-hour urinary fractionated catecholamines/metanephrines; confirm with imaging (CT/MRI of adrenal glands).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is renal artery stenosis diagnosed?",
+    "answer": "Suspected in sudden-onset or refractory hypertension with renal dysfunction; diagnosis via Doppler ultrasound, CT angiography, or MR angiography.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the typical presentation of Cushing\u2019s syndrome?",
+    "answer": "Features include central obesity, moon face, buffalo hump, purple striae, easy bruising, and secondary hypertension.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is Cushing\u2019s syndrome diagnosed?",
+    "answer": "Screen with 24-hour urinary free cortisol, low-dose dexamethasone suppression test, or late-night salivary cortisol; confirm with imaging if positive.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is renovascular hypertension?",
+    "answer": "Hypertension caused by narrowing of the renal arteries, leading to renal ischemia and increased renin-angiotensin-aldosterone activity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the clinical clues suggesting renovascular hypertension?",
+    "answer": "Sudden-onset hypertension, refractory hypertension, worsening renal function, abdominal bruit, asymmetric kidney size.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is hypertension in pregnancy classified?",
+    "answer": "Chronic hypertension \u2013 present before pregnancy or before 20 weeks; Gestational hypertension \u2013 BP \u2265140/90 mm Hg after 20 weeks without proteinuria; Preeclampsia \u2013 BP \u2265140/90 mm Hg after 20 weeks with proteinuria or organ dysfunction; Eclampsia \u2013 preeclampsia + seizures.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is preeclampsia managed?",
+    "answer": "Antihypertensives (labetalol, methyldopa, nifedipine), seizure prophylaxis (magnesium sulfate), definitive treatment: delivery of the baby depending on gestational age and severity.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are target organ damages in hypertension?",
+    "answer": "Heart: left ventricular hypertrophy, heart failure, coronary artery disease; Brain: stroke, transient ischemic attacks; Kidneys: chronic kidney disease, proteinuria; Eyes: hypertensive retinopathy.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the grades of hypertensive retinopathy?",
+    "answer": "Keith-Wagener-Barker classification: Grade 1: mild arterial narrowing; Grade 2: more pronounced narrowing + AV nicking; Grade 3: hemorrhages, exudates; Grade 4: papilledema.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the goal BP in most hypertensive patients?",
+    "answer": "Target <130/80 mm Hg for most adults, unless specific conditions dictate otherwise (e.g., elderly or CKD patients).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When is combination antihypertensive therapy recommended?",
+    "answer": "BP >20/10 mm Hg above target; in patients with high cardiovascular risk; when monotherapy fails to achieve target BP.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the main classes of antihypertensive drugs?",
+    "answer": "Diuretics \u2013 thiazide, loop, potassium-sparing; ACE inhibitors (ACEi) \u2013 e.g., enalapril, lisinopril; Angiotensin receptor blockers (ARBs) \u2013 e.g., losartan, valsartan; Calcium channel blockers (CCBs) \u2013 dihydropyridines (amlodipine) and non-dihydropyridines (verapamil); Beta-blockers \u2013 e.g., metoprolol, propranolol; Alpha-blockers \u2013 e.g., prazosin; Central acting agents \u2013 e.g., clonidine, methyldopa; Direct vasodilators \u2013 e.g., hydralazine, minoxidil.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which antihypertensives are preferred in patients with chronic kidney disease (CKD)?",
+    "answer": "ACE inhibitors or ARBs are preferred because they reduce proteinuria and slow CKD progression.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which antihypertensives are safe in pregnancy?",
+    "answer": "Labetalol, methyldopa, nifedipine. ACE inhibitors and ARBs are contraindicated.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Which drugs are first-line for isolated systolic hypertension in the elderly?",
+    "answer": "Thiazide diuretics or long-acting dihydropyridine CCBs are preferred.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "When are beta-blockers particularly indicated?",
+    "answer": "In patients with coronary artery disease/post-MI, heart failure with reduced ejection fraction, and arrhythmias (e.g., atrial fibrillation).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the common side effects of ACE inhibitors?",
+    "answer": "Dry cough; Hyperkalemia; Angioedema (rare but serious); Contraindicated in bilateral renal artery stenosis.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What are the side effects of thiazide diuretics?",
+    "answer": "Hypokalemia, hyponatremia; Hyperuricemia (may precipitate gout); Hyperglycemia; Mild hyperlipidemia.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is resistant hypertension?",
+    "answer": "BP above target despite \u22653 antihypertensives of different classes (including a diuretic) at optimal doses, or requiring \u22654 drugs to control BP.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is the first step in evaluating resistant hypertension?",
+    "answer": "Confirm adherence to medication; Exclude white coat hypertension; Review lifestyle factors and secondary causes.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What lifestyle modifications help in hypertension management?",
+    "answer": "Weight reduction: BMI 18.5\u201324.9 kg/m\u00b2; DASH diet: fruits, vegetables, low-fat dairy, reduced saturated fat; Salt restriction: <5 g/day sodium; Regular aerobic exercise: 30 min/day; Limit alcohol; Stop smoking; Stress reduction.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is hypertensive urgency?",
+    "answer": "Severe BP elevation (\u2265180/\u2265120 mm Hg) without acute target organ damage. Managed with oral antihypertensives gradually over 24\u201348 hours.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is hypertensive emergency?",
+    "answer": "Severe BP elevation (\u2265180/\u2265120 mm Hg) with acute target organ damage (e.g., encephalopathy, stroke, MI, acute kidney injury). Requires IV antihypertensives and hospitalization.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "Name commonly used IV antihypertensives in emergencies.",
+    "answer": "Nitroprusside; Labetalol; Nicardipine; Fenoldopam; Hydralazine (especially in pregnancy).",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "What is white coat hypertension?",
+    "answer": "Elevated BP readings in a clinical setting but normal BP at home or with ambulatory monitoring.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How is ambulatory blood pressure monitoring (ABPM) useful?",
+    "answer": "Detects white coat and masked hypertension; Evaluates BP variability; Helps guide treatment decisions.",
+    "specialty": "diabetes"
+  },
+  {
+    "question": "How can adherence to antihypertensive therapy be improved?",
+    "answer": "Use simplified regimens with long-acting, once-daily drugs; Schedule frequent follow-up visits (1\u20132 weeks) until target BP is achieved, then adjust based on severity, comorbidities, or target organ damage; Allow streamlined methods for drug collection; Monitor drug side effects; Use pill counts, family supervision, periodic counseling, and patient information leaflets.",
+    "specialty": "diabetes"
+  }
+]
